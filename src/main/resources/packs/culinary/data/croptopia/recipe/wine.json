@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/wine",
+    "id": "hearth_horizons_qol:uncooked/croptopia/wine",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "item": "croptopia:food_press"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

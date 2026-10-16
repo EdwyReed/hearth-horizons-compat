@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_qol:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_qol:uncooked/croptopia/spaghetti_squash"
+  },
+  "result": {
+    "id": "croptopia:spaghetti_squash",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

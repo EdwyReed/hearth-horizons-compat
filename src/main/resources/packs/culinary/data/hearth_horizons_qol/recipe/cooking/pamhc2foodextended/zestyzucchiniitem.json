@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodextended/zestyzucchiniitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:zestyzucchiniitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

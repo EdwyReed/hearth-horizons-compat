@@ -20,6 +20,6 @@ Thumbs.db
 branding/
 docs/
 gallery/
-migration/
+/migration/
 migration_backups/
 validation/

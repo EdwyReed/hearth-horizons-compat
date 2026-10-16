@@ -15,14 +15,14 @@
       "tag": "c:scrambledegg"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/3"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/breakfastburritoitem/3"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/4"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/breakfastburritoitem/4"
     },
     {
       "tag": "c:cheese"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

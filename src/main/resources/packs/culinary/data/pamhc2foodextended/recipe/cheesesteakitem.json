@@ -12,7 +12,7 @@
       "tag": "c:toast"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/cheesesteakitem/2"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/cheesesteakitem/2"
     },
     {
       "tag": "c:cheese"
@@ -24,5 +24,5 @@
       "tag": "hearth_horizons:vegetables/onion"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/cheeseburger",
+    "id": "hearth_horizons_qol:uncooked/croptopia/cheeseburger",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "tag": "croptopia:beef_replacements"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

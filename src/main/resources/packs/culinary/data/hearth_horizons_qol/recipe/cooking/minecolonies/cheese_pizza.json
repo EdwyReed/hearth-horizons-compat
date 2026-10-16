@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/minecolonies/cheese_pizza"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:cheese_pizza",
+    "count": 2
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_qol:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_qol:uncooked/croptopia/deep_fried_shrimp"
+  },
+  "result": {
+    "id": "croptopia:deep_fried_shrimp",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

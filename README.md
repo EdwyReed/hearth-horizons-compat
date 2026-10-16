@@ -1,4 +1,4 @@
-# Hearth & Horizons Quality of Life
+# Hearth & Horizons: Quality of Life
 
 Small gameplay additions for Hearth & Horizons.
 
@@ -8,6 +8,8 @@ Small gameplay additions for Hearth & Horizons.
 
 Minecraft 1.21.1 · NeoForge · Java 21. Install on both client and server.
 
-[Downloads](https://github.com/EdwyReed/hearth-horizons-compat/releases) · [Dependencies](DEPENDENCIES.md) · [Building](CONTRIBUTING.md) · [Credits](NOTICE.md)
+[Downloads](https://github.com/EdwyReed/hearth-horizons-quality-of-life/releases) · [Dependencies](DEPENDENCIES.md) · [Building](CONTRIBUTING.md) · [Credits](NOTICE.md)
+
+Saves from 0.5.x migrate automatically. Replace the old JAR when updating.
 
 GPL-3.0-only.

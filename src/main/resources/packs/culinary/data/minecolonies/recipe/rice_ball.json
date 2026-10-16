@@ -15,5 +15,5 @@
       "item": "minecraft:dried_kelp"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

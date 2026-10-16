@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodextended/pumpkinoatsconesitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pumpkinoatsconesitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

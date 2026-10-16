@@ -1,10 +1,10 @@
 {
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/crab_legs",
+    "id": "hearth_horizons_qol:uncooked/croptopia/crab_legs",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
       "tag": "c:butters"

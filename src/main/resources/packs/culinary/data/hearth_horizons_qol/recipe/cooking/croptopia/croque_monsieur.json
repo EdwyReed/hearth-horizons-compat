@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_qol:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_qol:uncooked/croptopia/croque_monsieur"
+  },
+  "result": {
+    "id": "croptopia:croque_monsieur",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

@@ -1,0 +1,12 @@
+{
+  "block.hearth_horizons_qol.manual_mixer": "Ручной миксер",
+  "block.hearth_horizons_qol.manual_mixer.description": "ПКМ по рукоятке — смешивание без нагрева. Вращение расходует силы так же, как рукоятка Create.",
+  "jei.hearth_horizons_qol.manual_mixing": "Ручной миксер",
+  "jei.hearth_horizons_qol.manual_mixing.time": "%s с вращения рукоятки",
+  "jei.hearth_horizons_qol.manual_mixing.chance": "Вероятность: %s%%",
+  "block.hearth_horizons_compat.manual_mixer": "Ручной миксер",
+  "block.hearth_horizons_compat.manual_mixer.description": "ПКМ по рукоятке — смешивание без нагрева. Вращение расходует силы так же, как рукоятка Create.",
+  "jei.hearth_horizons_compat.manual_mixing": "Ручной миксер",
+  "jei.hearth_horizons_compat.manual_mixing.time": "%s с вращения рукоятки",
+  "jei.hearth_horizons_compat.manual_mixing.chance": "Вероятность: %s%%"
+}

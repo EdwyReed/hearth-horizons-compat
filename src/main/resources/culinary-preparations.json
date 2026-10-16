@@ -86,7 +86,7 @@
   },
   {
     "source_recipe": "croptopia:anchovy_pizza",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -254,7 +254,7 @@
   },
   {
     "source_recipe": "croptopia:baked_crepes",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -324,7 +324,7 @@
   },
   {
     "source_recipe": "croptopia:banana_cream_pie",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -509,7 +509,7 @@
   },
   {
     "source_recipe": "croptopia:beer",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -635,7 +635,7 @@
   },
   {
     "source_recipe": "croptopia:brownies",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -694,7 +694,7 @@
   },
   {
     "source_recipe": "croptopia:cabbage_roll",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -934,7 +934,7 @@
   },
   {
     "source_recipe": "croptopia:carnitas",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -994,7 +994,7 @@
   },
   {
     "source_recipe": "croptopia:cheese_pizza",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -1277,7 +1277,7 @@
   },
   {
     "source_recipe": "croptopia:cinnamon_roll",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -1405,7 +1405,7 @@
   },
   {
     "source_recipe": "croptopia:corn_bread",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -1449,7 +1449,7 @@
   },
   {
     "source_recipe": "croptopia:crab_legs",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -1659,7 +1659,7 @@
   },
   {
     "source_recipe": "croptopia:dauphine_potatoes",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -1871,7 +1871,7 @@
   },
   {
     "source_recipe": "croptopia:enchilada",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -1922,7 +1922,7 @@
   },
   {
     "source_recipe": "croptopia:fajitas",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -1996,7 +1996,7 @@
   },
   {
     "source_recipe": "croptopia:fried_calamari",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -2059,7 +2059,7 @@
   },
   {
     "source_recipe": "croptopia:fried_chicken",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -2114,7 +2114,7 @@
   },
   {
     "source_recipe": "croptopia:goulash",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -2283,7 +2283,7 @@
   },
   {
     "source_recipe": "croptopia:grilled_oysters",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -2393,7 +2393,7 @@
   },
   {
     "source_recipe": "croptopia:hashed_brown",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -2444,7 +2444,7 @@
   },
   {
     "source_recipe": "croptopia:kale_chips",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -2549,7 +2549,7 @@
   },
   {
     "source_recipe": "croptopia:mead",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -2593,7 +2593,7 @@
   },
   {
     "source_recipe": "croptopia:nether_star_cake",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -2918,7 +2918,7 @@
   },
   {
     "source_recipe": "croptopia:pineapple_pepperoni_pizza",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -2997,7 +2997,7 @@
   },
   {
     "source_recipe": "croptopia:pizza",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -3147,7 +3147,7 @@
   },
   {
     "source_recipe": "croptopia:potato_chips",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -3332,7 +3332,7 @@
   },
   {
     "source_recipe": "croptopia:quiche",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -3445,7 +3445,7 @@
   },
   {
     "source_recipe": "croptopia:refried_beans",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -3844,7 +3844,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_beef_wellington",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "F": {
@@ -3927,7 +3927,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_cornish_pasty",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -4063,7 +4063,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_figgy_pudding",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -4535,7 +4535,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_ratatouille",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -4633,7 +4633,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_rhubarb_crisp",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -4713,7 +4713,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_roasted_asparagus",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -4783,7 +4783,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_roasted_radishes",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -4850,7 +4850,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_roasted_squash",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -4916,7 +4916,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_roasted_turnips",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -5058,7 +5058,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_shepherds_pie",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "F": {
@@ -5156,7 +5156,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_sticky_toffee_pudding",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -5234,7 +5234,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_stuffed_artichoke",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -5367,7 +5367,7 @@
   },
   {
     "source_recipe": "croptopia:shaped_trifle",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -5480,7 +5480,7 @@
   },
   {
     "source_recipe": "croptopia:spaghetti_squash",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -5526,7 +5526,7 @@
   },
   {
     "source_recipe": "croptopia:steamed_clams",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -5675,7 +5675,7 @@
   },
   {
     "source_recipe": "croptopia:supreme_pizza",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -5754,7 +5754,7 @@
   },
   {
     "source_recipe": "croptopia:sweet_crepes",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "1": {
@@ -5908,7 +5908,7 @@
   },
   {
     "source_recipe": "croptopia:tofuburger",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -5966,7 +5966,7 @@
   },
   {
     "source_recipe": "croptopia:tortilla",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6006,7 +6006,7 @@
   },
   {
     "source_recipe": "croptopia:tres_leche_cake",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6118,7 +6118,7 @@
   },
   {
     "source_recipe": "culturalrecipes:empanada",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6216,7 +6216,7 @@
   },
   {
     "source_recipe": "expandeddelight:snickerdoodle",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "c": {
@@ -6254,7 +6254,7 @@
   },
   {
     "source_recipe": "expandeddelight:sugar_cookie",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "key": {
         "c": {
@@ -6535,7 +6535,7 @@
   },
   {
     "source_recipe": "minecolonies:baked_salmon",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6594,7 +6594,7 @@
   },
   {
     "source_recipe": "minecolonies:cheese_pizza",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6705,7 +6705,7 @@
   },
   {
     "source_recipe": "minecolonies:chicken_broth",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6768,7 +6768,7 @@
   },
   {
     "source_recipe": "minecolonies:congee",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6818,7 +6818,7 @@
   },
   {
     "source_recipe": "minecolonies:cooked_rice",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6853,7 +6853,7 @@
   },
   {
     "source_recipe": "minecolonies:corn_chowder",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6919,7 +6919,7 @@
   },
   {
     "source_recipe": "minecolonies:eggdrop_soup",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -6983,7 +6983,7 @@
   },
   {
     "source_recipe": "minecolonies:fish_n_chips",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7080,7 +7080,7 @@
   },
   {
     "source_recipe": "minecolonies:fried_rice",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7145,7 +7145,7 @@
   },
   {
     "source_recipe": "minecolonies:kimchi",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7299,7 +7299,7 @@
   },
   {
     "source_recipe": "minecolonies:mutton_dinner",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7346,7 +7346,7 @@
   },
   {
     "source_recipe": "minecolonies:mutton_kebab",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7409,7 +7409,7 @@
   },
   {
     "source_recipe": "minecolonies:pasta_plain",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7456,7 +7456,7 @@
   },
   {
     "source_recipe": "minecolonies:pasta_tomato",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7527,7 +7527,7 @@
   },
   {
     "source_recipe": "minecolonies:pea_soup",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7590,7 +7590,7 @@
   },
   {
     "source_recipe": "minecolonies:pepper_hummus",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7653,7 +7653,7 @@
   },
   {
     "source_recipe": "minecolonies:pierogi",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7772,7 +7772,7 @@
   },
   {
     "source_recipe": "minecolonies:polenta",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7824,7 +7824,7 @@
   },
   {
     "source_recipe": "minecolonies:potato_soup",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7881,7 +7881,7 @@
   },
   {
     "source_recipe": "minecolonies:pottage",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -7944,7 +7944,7 @@
   },
   {
     "source_recipe": "minecolonies:soy_corn_chowder",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8010,7 +8010,7 @@
   },
   {
     "source_recipe": "minecolonies:soy_pea_soup",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8099,7 +8099,7 @@
   },
   {
     "source_recipe": "minecolonies:spicy_grilled_chicken",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8146,7 +8146,7 @@
   },
   {
     "source_recipe": "minecolonies:squash_soup",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8203,7 +8203,7 @@
   },
   {
     "source_recipe": "minecolonies:tortillas",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8237,7 +8237,7 @@
   },
   {
     "source_recipe": "minecolonies:veggie_quiche",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8338,7 +8338,7 @@
   },
   {
     "source_recipe": "minecolonies:veggie_soup",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8619,7 +8619,7 @@
   },
   {
     "source_recipe": "oceansdelight:stuffed_cod",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -8683,7 +8683,7 @@
   },
   {
     "source_recipe": "pamhc2crops:bread_grain",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -19468,7 +19468,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:bamboosteamedriceitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -20907,7 +20907,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:bolognaitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -24149,7 +24149,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:chorizoitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -24894,7 +24894,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:cornflakesitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -25620,7 +25620,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:crispyricepuffcerealitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -29777,7 +29777,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:grilledskewersitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -31519,7 +31519,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:imitationcrabsticksitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -32415,7 +32415,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:lambkebabitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -33510,7 +33510,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:manjuuitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -34603,7 +34603,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:misopasteitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -34787,7 +34787,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:mochiitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -36670,7 +36670,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:pastagardeniaitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -38280,7 +38280,7 @@
   },
   {
     "source_recipe": "pamhc2foodextended:pinkelitem",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {
@@ -45971,7 +45971,7 @@
   },
   {
     "source_recipe": "rusticdelight:bell_pepper_soup",
-    "source_jar": "mod/hearth_horizons_compat:packs/culinary",
+    "source_jar": "mod/hearth_horizons_qol:packs/culinary",
     "original": {
       "category": "misc",
       "result": {

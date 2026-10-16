@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/cherry"
+    },
+    {
+      "type": "neoforge:tag",
+      "tag": "hearth_horizons:liquids/clean_water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "hearth_horizons_qol:cherry_soda",
+      "amount": 250
+    }
+  ],
+  "processing_time": 200
+}

@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/minecolonies/cooked_rice",
+    "id": "hearth_horizons_qol:uncooked/minecolonies/cooked_rice",
     "count": 1
   },
   "ingredients": [
@@ -12,5 +12,5 @@
       "item": "minecraft:bowl"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

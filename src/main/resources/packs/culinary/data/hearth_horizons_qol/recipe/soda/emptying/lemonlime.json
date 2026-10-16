@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:lemonlimesodaitem"
+    }
+  ],
+  "results": [
+    {
+      "id": "hearth_horizons_qol:lemonlime_soda",
+      "amount": 250
+    },
+    {
+      "id": "minecraft:glass_bottle"
+    }
+  ]
+}

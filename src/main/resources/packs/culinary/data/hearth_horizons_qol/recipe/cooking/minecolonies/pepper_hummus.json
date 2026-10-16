@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/minecolonies/pepper_hummus"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:pepper_hummus",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

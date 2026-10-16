@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_qol:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_qol:uncooked/croptopia/croque_madame"
+  },
+  "result": {
+    "id": "croptopia:croque_madame",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

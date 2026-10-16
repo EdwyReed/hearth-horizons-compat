@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/nutty_cookie",
+    "id": "hearth_horizons_qol:uncooked/croptopia/nutty_cookie",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "tag": "c:flour"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/minecolonies/congee",
+    "id": "hearth_horizons_qol:uncooked/minecolonies/congee",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "item": "minecolonies:cooked_rice"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

@@ -4,7 +4,7 @@
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
       "item": "farmersdelight:cooked_rice"

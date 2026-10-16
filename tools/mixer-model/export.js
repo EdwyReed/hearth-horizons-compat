@@ -20,6 +20,6 @@ for(const [id,g] of Object.entries(m.parts)){
 }
 const source=await readFile(new URL('./countertop-model.js',import.meta.url));
 const asset={schema:1,sourceSha256:createHash('sha256').update(source).digest('hex'),units:'16 model pixels per block',bowlContents:'empty',parts};
-const folder=new URL('../../src/main/resources/assets/hearth_horizons_compat/models/mesh/',import.meta.url);
+const folder=new URL('../../src/main/resources/assets/hearth_horizons_qol/models/mesh/',import.meta.url);
 await mkdir(folder,{recursive:true});await writeFile(new URL('manual_mixer.json',folder),JSON.stringify(asset));
 console.log('Exported '+parts.length+' parts, '+parts.reduce((n,p)=>n+p.positions.length/9,0)+' triangles');

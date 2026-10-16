@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodextended/fairybreaditem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:fairybreaditem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

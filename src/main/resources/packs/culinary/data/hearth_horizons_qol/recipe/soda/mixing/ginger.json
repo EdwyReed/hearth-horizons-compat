@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/ginger"
+    },
+    {
+      "type": "neoforge:tag",
+      "tag": "hearth_horizons:liquids/clean_water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "id": "hearth_horizons_qol:ginger_soda",
+      "amount": 250
+    }
+  ],
+  "processing_time": 200
+}

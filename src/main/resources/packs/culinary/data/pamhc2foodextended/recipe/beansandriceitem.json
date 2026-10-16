@@ -1,5 +1,5 @@
 {
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
       "tag": "c:tool_pot"
@@ -18,7 +18,7 @@
     }
   ],
   "result": {
-    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/beansandriceitem",
+    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/beansandriceitem",
     "count": 1
   }
 }

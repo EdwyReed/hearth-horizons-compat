@@ -9,7 +9,7 @@
       "tag": "c:tool_cuttingboard"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/tacoitem/1"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/tacoitem/1"
     },
     {
       "tag": "hearth_horizons:vegetables/lettuce"
@@ -21,5 +21,5 @@
       "tag": "c:tortilla"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

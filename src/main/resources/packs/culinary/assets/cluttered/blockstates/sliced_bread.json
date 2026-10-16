@@ -1,153 +1,153 @@
 {
   "variants": {
     "facing=east,waterlogged=false,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0",
       "y": 90
     },
     "facing=east,waterlogged=true,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0",
       "y": 90
     },
     "facing=north,waterlogged=false,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0"
     },
     "facing=north,waterlogged=true,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0"
     },
     "facing=south,waterlogged=false,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0",
       "y": -180
     },
     "facing=south,waterlogged=true,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0",
       "y": -180
     },
     "facing=west,waterlogged=false,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0",
       "y": -90
     },
     "facing=west,waterlogged=true,hh_portions=0": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_0",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_0",
       "y": -90
     },
     "facing=east,waterlogged=false,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1",
       "y": 90
     },
     "facing=east,waterlogged=true,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1",
       "y": 90
     },
     "facing=north,waterlogged=false,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1"
     },
     "facing=north,waterlogged=true,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1"
     },
     "facing=south,waterlogged=false,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1",
       "y": -180
     },
     "facing=south,waterlogged=true,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1",
       "y": -180
     },
     "facing=west,waterlogged=false,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1",
       "y": -90
     },
     "facing=west,waterlogged=true,hh_portions=1": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_1",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_1",
       "y": -90
     },
     "facing=east,waterlogged=false,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2",
       "y": 90
     },
     "facing=east,waterlogged=true,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2",
       "y": 90
     },
     "facing=north,waterlogged=false,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2"
     },
     "facing=north,waterlogged=true,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2"
     },
     "facing=south,waterlogged=false,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2",
       "y": -180
     },
     "facing=south,waterlogged=true,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2",
       "y": -180
     },
     "facing=west,waterlogged=false,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2",
       "y": -90
     },
     "facing=west,waterlogged=true,hh_portions=2": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_2",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_2",
       "y": -90
     },
     "facing=east,waterlogged=false,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3",
       "y": 90
     },
     "facing=east,waterlogged=true,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3",
       "y": 90
     },
     "facing=north,waterlogged=false,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3"
     },
     "facing=north,waterlogged=true,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3"
     },
     "facing=south,waterlogged=false,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3",
       "y": -180
     },
     "facing=south,waterlogged=true,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3",
       "y": -180
     },
     "facing=west,waterlogged=false,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3",
       "y": -90
     },
     "facing=west,waterlogged=true,hh_portions=3": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_3",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_3",
       "y": -90
     },
     "facing=east,waterlogged=false,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4",
       "y": 90
     },
     "facing=east,waterlogged=true,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4",
       "y": 90
     },
     "facing=north,waterlogged=false,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4"
     },
     "facing=north,waterlogged=true,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4"
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4"
     },
     "facing=south,waterlogged=false,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4",
       "y": -180
     },
     "facing=south,waterlogged=true,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4",
       "y": -180
     },
     "facing=west,waterlogged=false,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4",
       "y": -90
     },
     "facing=west,waterlogged=true,hh_portions=4": {
-      "model": "hearth_horizons_compat:block/kitchen/sliced_bread_4",
+      "model": "hearth_horizons_qol:block/kitchen/sliced_bread_4",
       "y": -90
     }
   }

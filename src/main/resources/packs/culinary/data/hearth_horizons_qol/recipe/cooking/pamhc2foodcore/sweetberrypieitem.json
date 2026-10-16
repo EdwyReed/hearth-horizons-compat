@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodcore/sweetberrypieitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:sweetberrypieitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

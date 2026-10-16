@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/hamburger",
+    "id": "hearth_horizons_qol:uncooked/croptopia/hamburger",
     "count": 1
   },
   "ingredients": [
@@ -15,5 +15,5 @@
       "item": "minecraft:beef"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

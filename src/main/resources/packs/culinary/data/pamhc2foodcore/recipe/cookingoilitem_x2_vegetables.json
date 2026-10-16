@@ -9,8 +9,8 @@
       "tag": "c:tool_roller"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/cookingoilitem_x2_vegetables/1"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodcore/cookingoilitem_x2_vegetables/1"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

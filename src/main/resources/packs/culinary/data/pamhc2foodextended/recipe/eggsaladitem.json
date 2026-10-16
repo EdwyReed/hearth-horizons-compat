@@ -9,7 +9,7 @@
       "tag": "c:tool_mixingbowl"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsaladitem/1"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/eggsaladitem/1"
     },
     {
       "tag": "c:condiments/mayonaise"
@@ -21,5 +21,5 @@
       "tag": "c:crops/spiceleaf"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

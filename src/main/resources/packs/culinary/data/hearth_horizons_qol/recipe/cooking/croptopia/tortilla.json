@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_qol:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_qol:uncooked/croptopia/tortilla"
+  },
+  "result": {
+    "id": "croptopia:tortilla",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

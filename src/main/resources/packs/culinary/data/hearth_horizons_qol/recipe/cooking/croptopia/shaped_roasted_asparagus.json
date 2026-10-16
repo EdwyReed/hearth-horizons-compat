@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/croptopia/shaped_roasted_asparagus"
+    }
+  ],
+  "result": {
+    "id": "croptopia:roasted_asparagus",
+    "count": 2
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

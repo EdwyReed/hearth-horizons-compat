@@ -12,11 +12,11 @@
       "tag": "c:bread"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/hamandcheesesandwichitem/2"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/hamandcheesesandwichitem/2"
     },
     {
       "tag": "c:cheese"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

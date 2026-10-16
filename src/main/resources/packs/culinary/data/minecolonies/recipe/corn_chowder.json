@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/minecolonies/corn_chowder",
+    "id": "hearth_horizons_qol:uncooked/minecolonies/corn_chowder",
     "count": 1
   },
   "ingredients": [
@@ -24,5 +24,5 @@
       "item": "minecolonies:large_milk_bottle"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

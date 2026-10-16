@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_qol:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_qol:uncooked/croptopia/dragon_egg_omelette"
+  },
+  "result": {
+    "id": "croptopia:dragon_egg_omelette",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

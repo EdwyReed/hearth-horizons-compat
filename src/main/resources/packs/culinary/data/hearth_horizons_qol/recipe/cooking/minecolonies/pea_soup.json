@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/minecolonies/pea_soup"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:pea_soup",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

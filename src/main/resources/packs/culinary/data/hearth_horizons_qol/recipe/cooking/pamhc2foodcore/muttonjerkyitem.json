@@ -1,0 +1,11 @@
+{
+  "type": "farm_and_charm:drying",
+  "recipe_type": "MEAT",
+  "ingredient": {
+    "item": "hearth_horizons_qol:uncooked/pamhc2foodcore/muttonjerkyitem"
+  },
+  "result": {
+    "id": "pamhc2foodcore:muttonjerkyitem",
+    "count": 1
+  }
+}

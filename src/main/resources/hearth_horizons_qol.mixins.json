@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.hearthhorizons.qol.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["SmallShelfMixin", "KitchenFurnitureMixin", "SkilletBlockEntityMixin", "SkilletItemMixin", "StoveServingMixin"],
+  "client": ["HerbJarRendererMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

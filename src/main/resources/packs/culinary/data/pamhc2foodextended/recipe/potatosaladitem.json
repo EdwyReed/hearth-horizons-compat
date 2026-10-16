@@ -9,7 +9,7 @@
       "tag": "c:tool_mixingbowl"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/1"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/potatosaladitem/1"
     },
     {
       "tag": "c:condiments/mayonaise"
@@ -21,11 +21,11 @@
       "tag": "c:crops/spiceleaf"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/5"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/potatosaladitem/5"
     },
     {
       "tag": "hearth_horizons:vegetables/onions"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

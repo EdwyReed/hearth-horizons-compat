@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/minecolonies/soy_corn_chowder"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:corn_chowder",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingtime": 200
+}
