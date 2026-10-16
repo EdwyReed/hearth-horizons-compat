@@ -6,7 +6,7 @@ JEI is optional. Exact supported API ranges are declared in `src/main/resources/
 
 Croptopia 4.2.1 and MineColonies 1.1.1300 are external dependencies in the tested pack.
 
-| Mod | NeoForge ID | Modrinth project |
+| Mod | NeoForge ID | Project |
 | --- | --- | --- |
 | Aquaculture 2 | aquaculture | [aquaculture](https://modrinth.com/project/Vl1uNAuy) |
 | Aquaculture Delight | aquaculturedelight | [aquaculture-delight](https://modrinth.com/project/U9GJqWrI) |
@@ -21,7 +21,7 @@ Croptopia 4.2.1 and MineColonies 1.1.1300 are external dependencies in the teste
 | Create | create | [create](https://modrinth.com/project/LNytGWDc) |
 | Create Crafts & Additions | createaddition | [createaddition](https://modrinth.com/project/kU1G12Nn) |
 | Create: Diesel Generators | createdieselgenerators | [create-diesel-generators](https://modrinth.com/project/ZM3tt6p1) |
-| croptopia | croptopia | External dependency |
+| Croptopia | croptopia | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia) |
 | Croptopia Delight | croptopiadelight | [croptopia-delight](https://modrinth.com/project/z2Ihxkgp) |
 | Cuisine Delight | cuisinedelight | [cuisine-delight](https://modrinth.com/project/gOQjCAAD) |
 | Cultural Delights | culturaldelights | [cultural-delights](https://modrinth.com/project/YttyNOFA) |
@@ -34,7 +34,7 @@ Croptopia 4.2.1 and MineColonies 1.1.1300 are external dependencies in the teste
 | [Let's Do] HerbalBrews | herbalbrews | [lets-do-herbalbrews](https://modrinth.com/project/Eh11TaTm) |
 | Hexerei | hexerei | [hexerei](https://modrinth.com/project/IQSOHVhI) |
 | Immersive Engineering | immersiveengineering | [immersiveengineering](https://modrinth.com/project/tIm2nV03) |
-| minecolonies | minecolonies | External dependency |
+| MineColonies | minecolonies | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies) |
 | Moonlight Lib | moonlight | [moonlight](https://modrinth.com/project/twkfQtEc) |
 | Ocean's Delight | oceansdelight | [oceans-delight](https://modrinth.com/project/DGiq4ZSW) |
 | Pam's HarvestCraft 2: Crops | pamhc2crops | [pams-harvestcraft-2-crops](https://modrinth.com/project/5xO6VNlk) |
