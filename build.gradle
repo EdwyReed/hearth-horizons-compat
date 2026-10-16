@@ -2,7 +2,7 @@ plugins {
     id 'java-library'
     id 'net.neoforged.moddev' version '2.0.148'
 }
-version = '0.6.1'
+version = '0.6.2'
 group = 'dev.hearthhorizons'
 base { archivesName = 'hearth-horizons-quality-of-life' }
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
@@ -24,6 +24,7 @@ dependencies {
     compileOnly fileTree("${profile}/mods") { include 'jei-*.jar' }
     compileOnly fileTree("${profile}/mods") { include 'create-1.21.1-*.jar' }
     compileOnly fileTree("${profile}/mods") { include 'FarmersDelight-*.jar' }
+    compileOnly fileTree("${profile}/mods") { include 'enchanted-*.jar' }
     compileOnly fileTree("${profile}/mods") { include 'letsdo-farm_and_charm-*.jar' }
     if (providers.gradleProperty('shaderQa').isPresent()) {
         runtimeOnly fileTree("${profile}/mods") { include 'iris-neoforge-*.jar', 'sodium-neoforge-*.jar', 'iris-flywheel-compat-*.jar' }

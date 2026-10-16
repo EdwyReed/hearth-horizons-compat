@@ -5,6 +5,7 @@ Small gameplay additions for Hearth & Horizons.
 - A hand-cranked mixer for unheated Create recipes.
 - Herb jars on shelves and usable Cluttered food displays.
 - Shared cooking ingredients, three reviewed preparation recipes and nine sodas.
+- Enchanted kettles mount to the clicked floor, side support or ceiling; fences and other partial shapes work too.
 
 Minecraft 1.21.1 · NeoForge · Java 21. Install on both client and server.
 
