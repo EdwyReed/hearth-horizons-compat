@@ -1,34 +1,39 @@
 {
+  "key": {
+    "F": {
+      "item": "croptopia:frying_pan"
+    },
+    "1": {
+      "item": "minecraft:beef"
+    },
+    "2": {
+      "tag": "c:mustard"
+    },
+    "3": {
+      "item": "croptopia:pepper"
+    },
+    "4": {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    "5": {
+      "item": "minecraft:egg"
+    },
+    "6": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "9": {
+      "tag": "c:flour"
+    }
+  },
+  "pattern": [
+    "94 ",
+    "2F3",
+    "516"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_beef_wellington",
+    "id": "croptopia:beef_wellington",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "c:flour"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/onions"
-    },
-    {
-      "tag": "c:mustard"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    },
-    {
-      "item": "croptopia:pepper"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "minecraft:beef"
-    },
-    {
-      "item": "minecraft:brown_mushroom"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

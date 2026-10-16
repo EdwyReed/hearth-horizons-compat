@@ -1,25 +1,29 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:carrot"
+    },
+    "2": {
+      "item": "minecraft:beef"
+    },
+    "3": {
+      "item": "minecraft:potato"
+    },
+    "4": {
+      "item": "minecraft:carrot"
+    },
+    "5": {
+      "tag": "c:flour"
+    }
+  },
+  "pattern": [
+    "1 4",
+    "253"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_beef_stew",
+    "id": "croptopia:beef_stew",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:carrot"
-    },
-    {
-      "item": "minecraft:carrot"
-    },
-    {
-      "item": "minecraft:beef"
-    },
-    {
-      "tag": "c:flour"
-    },
-    {
-      "item": "minecraft:potato"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,5 +1,5 @@
 {
-  "type": "hearth_horizons_qol:cold_preparation",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "c:tool_bakeware"
@@ -27,7 +27,7 @@
     }
   ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/supremepizzaitem",
+    "id": "pamhc2foodextended:supremepizzaitem",
     "count": 1
   }
 }

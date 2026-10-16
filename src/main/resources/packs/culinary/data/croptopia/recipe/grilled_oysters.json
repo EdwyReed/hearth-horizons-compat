@@ -1,31 +1,33 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/grilled_oysters",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
+  "key": {
+    "1": {
       "tag": "c:oysters"
     },
-    {
+    "2": {
       "tag": "c:cheeses"
     },
-    {
-      "tag": "c:oysters"
-    },
-    {
+    "4": {
       "tag": "c:lemons"
     },
-    {
+    "5": {
       "tag": "hearth_horizons:vegetables/garlic"
     },
-    {
+    "6": {
       "tag": "c:salts"
     },
-    {
+    "7": {
       "item": "croptopia:frying_pan"
     }
-  ]
+  },
+  "pattern": [
+    "121",
+    "456",
+    " 7 "
+  ],
+  "result": {
+    "id": "croptopia:grilled_oysters",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

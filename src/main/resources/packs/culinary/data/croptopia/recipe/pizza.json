@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/pizza",
+    "id": "croptopia:pizza",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "item": "croptopia:frying_pan"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

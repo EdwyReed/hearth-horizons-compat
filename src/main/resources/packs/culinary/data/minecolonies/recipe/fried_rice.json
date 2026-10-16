@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecolonies/fried_rice",
+    "id": "minecolonies:fried_rice",
     "count": 1
   },
   "ingredients": [
@@ -21,5 +21,5 @@
       "tag": "minecolonies:rawmeat"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

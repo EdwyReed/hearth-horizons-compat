@@ -1,28 +1,26 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/macaron",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
+  "key": {
+    "1": {
       "item": "minecraft:egg"
     },
-    {
+    "2": {
       "item": "minecraft:sugar"
     },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
+    "5": {
       "tag": "c:almonds"
     },
-    {
+    "6": {
       "item": "croptopia:food_press"
-    },
-    {
-      "tag": "c:almonds"
     }
-  ]
+  },
+  "pattern": [
+    "122",
+    "565"
+  ],
+  "result": {
+    "id": "croptopia:macaron",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

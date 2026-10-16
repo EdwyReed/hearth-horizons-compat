@@ -1,31 +1,36 @@
 {
+  "key": {
+    "1": {
+      "tag": "c:rhubarb"
+    },
+    "2": {
+      "item": "minecraft:sugar"
+    },
+    "3": {
+      "tag": "c:cinnamon"
+    },
+    "4": {
+      "tag": "hearth_horizons:grains/oat"
+    },
+    "5": {
+      "tag": "c:flour"
+    },
+    "6": {
+      "tag": "c:butters"
+    },
+    "7": {
+      "tag": "c:salts"
+    }
+  },
+  "pattern": [
+    "456",
+    "123",
+    "7  "
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_rhubarb_crisp",
+    "id": "croptopia:rhubarb_crisp",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "hearth_horizons:grains/oat"
-    },
-    {
-      "tag": "c:flour"
-    },
-    {
-      "tag": "c:butters"
-    },
-    {
-      "tag": "c:rhubarb"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "c:cinnamon"
-    },
-    {
-      "tag": "c:salts"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

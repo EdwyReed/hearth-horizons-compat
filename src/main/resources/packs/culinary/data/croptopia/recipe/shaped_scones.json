@@ -1,31 +1,36 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_scones",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:egg"
+  "key": {
+    "1": {
+      "item": "croptopia:frying_pan"
     },
-    {
-      "tag": "c:vanilla"
-    },
-    {
-      "tag": "c:blueberries"
-    },
-    {
+    "2": {
       "tag": "c:flour"
     },
-    {
+    "3": {
       "tag": "c:salts"
     },
-    {
+    "4": {
       "item": "minecraft:sugar"
     },
-    {
-      "item": "croptopia:frying_pan"
+    "5": {
+      "item": "minecraft:egg"
+    },
+    "6": {
+      "tag": "c:vanilla"
+    },
+    "7": {
+      "tag": "c:blueberries"
     }
-  ]
+  },
+  "pattern": [
+    "567",
+    "234",
+    " 1 "
+  ],
+  "result": {
+    "id": "croptopia:scones",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,37 +1,33 @@
 {
+  "key": {
+    "1": {
+      "tag": "croptopia:pork_replacements"
+    },
+    "2": {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    "3": {
+      "tag": "croptopia:beef_replacements"
+    },
+    "4": {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    "5": {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    "8": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "pattern": [
+    "123",
+    "454",
+    "183"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/goulash",
+    "id": "croptopia:goulash",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "croptopia:pork_replacements"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/onions"
-    },
-    {
-      "tag": "croptopia:beef_replacements"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/cabbage_food"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/tomato"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/cabbage_food"
-    },
-    {
-      "tag": "croptopia:pork_replacements"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    },
-    {
-      "tag": "croptopia:beef_replacements"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

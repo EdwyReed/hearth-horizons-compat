@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/elderberry_jam",
+    "id": "croptopia:elderberry_jam",
     "count": 1
   },
   "ingredients": [
@@ -15,5 +15,5 @@
       "item": "croptopia:cooking_pot"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

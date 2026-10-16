@@ -1,31 +1,36 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:egg"
+    },
+    "2": {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    "3": {
+      "tag": "c:vanilla"
+    },
+    "4": {
+      "tag": "c:wines"
+    },
+    "5": {
+      "tag": "c:strawberries"
+    },
+    "6": {
+      "item": "minecraft:bread"
+    },
+    "7": {
+      "tag": "c:butters"
+    }
+  },
+  "pattern": [
+    " 5 ",
+    "647",
+    "123"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_trifle",
+    "id": "croptopia:trifle",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "c:strawberries"
-    },
-    {
-      "item": "minecraft:bread"
-    },
-    {
-      "tag": "c:wines"
-    },
-    {
-      "tag": "c:butters"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "tag": "hearth_horizons:liquids/milk_bottles_250"
-    },
-    {
-      "tag": "c:vanilla"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

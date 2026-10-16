@@ -4,7 +4,7 @@ license="GPL-3.0-only"
 issueTrackerURL="https://github.com/EdwyReed/hearth-horizons-quality-of-life/issues"
 [[mods]]
 modId="hearth_horizons_qol"
-version="0.6.0"
+version="0.6.1"
 displayName="Hearth & Horizons: Quality of Life"
 displayURL="https://modrinth.com/mod/hearth-horizons-quality-of-life"
 description='''Single-block shelf placement, colourful soda fluids, real cooking stages and persistent kitchen servings for Hearth & Horizons.'''

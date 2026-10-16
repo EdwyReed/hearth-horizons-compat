@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/meringueitem",
+    "id": "pamhc2foodextended:meringueitem",
     "count": 1
   },
   "ingredients": [
@@ -21,5 +21,5 @@
       "tag": "c:cornmeal"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

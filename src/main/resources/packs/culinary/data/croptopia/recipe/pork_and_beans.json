@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/pork_and_beans",
+    "id": "croptopia:pork_and_beans",
     "count": 1
   },
   "ingredients": [
@@ -15,5 +15,5 @@
       "item": "minecraft:porkchop"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

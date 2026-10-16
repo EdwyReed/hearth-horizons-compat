@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/sausageitem",
+    "id": "pamhc2foodextended:sausageitem",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "tag": "c:crops/spiceleaf"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

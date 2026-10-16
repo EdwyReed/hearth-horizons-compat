@@ -1,37 +1,27 @@
 {
+  "key": {
+    "A": {
+      "tag": "bakery:milk"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "tag": "bakery:wheat"
+    },
+    "E": {
+      "tag": "bakery:eggs"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "BEB",
+    "CCC"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecraft/cake",
+    "id": "minecraft:cake",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "bakery:milk"
-    },
-    {
-      "tag": "bakery:milk"
-    },
-    {
-      "tag": "bakery:milk"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "bakery:eggs"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "bakery:wheat"
-    },
-    {
-      "tag": "bakery:wheat"
-    },
-    {
-      "tag": "bakery:wheat"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

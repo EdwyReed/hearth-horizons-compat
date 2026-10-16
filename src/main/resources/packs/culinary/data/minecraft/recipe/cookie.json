@@ -1,19 +1,19 @@
 {
+  "key": {
+    "#": {
+      "tag": "bakery:wheat"
+    },
+    "X": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecraft/cookie",
-    "count": 1
+    "id": "minecraft:cookie",
+    "count": 8
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "bakery:wheat"
-    },
-    {
-      "item": "minecraft:cocoa_beans"
-    },
-    {
-      "tag": "bakery:wheat"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

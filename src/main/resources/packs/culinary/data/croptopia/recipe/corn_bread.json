@@ -1,19 +1,16 @@
 {
+  "key": {
+    "1": {
+      "tag": "hearth_horizons:grains/corn"
+    }
+  },
+  "pattern": [
+    "111"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/corn_bread",
+    "id": "croptopia:corn_bread",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "hearth_horizons:grains/corn"
-    },
-    {
-      "tag": "hearth_horizons:grains/corn"
-    },
-    {
-      "tag": "hearth_horizons:grains/corn"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

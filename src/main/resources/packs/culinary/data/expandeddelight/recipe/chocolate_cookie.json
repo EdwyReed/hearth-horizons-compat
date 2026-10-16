@@ -1,19 +1,19 @@
 {
+  "key": {
+    "c": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "w": {
+      "tag": "c:crops/grain"
+    }
+  },
+  "pattern": [
+    "cwc"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/expandeddelight/chocolate_cookie",
-    "count": 1
+    "id": "expandeddelight:chocolate_cookie",
+    "count": 8
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:cocoa_beans"
-    },
-    {
-      "tag": "c:crops/grain"
-    },
-    {
-      "item": "minecraft:cocoa_beans"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

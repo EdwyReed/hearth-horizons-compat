@@ -1,8 +1,8 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecolonies/cheese_ravioli",
-    "count": 1
+    "id": "minecolonies:cheese_ravioli",
+    "count": 2
   },
   "ingredients": [
     {
@@ -15,5 +15,5 @@
       "item": "minecolonies:cheddar_cheese"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

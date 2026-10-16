@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/pinkelitem",
+    "id": "pamhc2foodextended:pinkelitem",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "tag": "hearth_horizons:vegetables/onion"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

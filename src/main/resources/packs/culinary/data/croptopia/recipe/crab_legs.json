@@ -1,31 +1,33 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/crab_legs",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
+  "key": {
+    "1": {
       "tag": "c:butters"
     },
-    {
+    "2": {
       "tag": "hearth_horizons:vegetables/garlic"
     },
-    {
+    "3": {
       "tag": "c:salts"
     },
-    {
+    "4": {
       "item": "croptopia:pepper"
     },
-    {
+    "5": {
       "tag": "c:crabs"
     },
-    {
-      "tag": "c:crabs"
-    },
-    {
+    "7": {
       "item": "croptopia:frying_pan"
     }
-  ]
+  },
+  "pattern": [
+    "123",
+    "455",
+    " 7 "
+  ],
+  "result": {
+    "id": "croptopia:crab_legs",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

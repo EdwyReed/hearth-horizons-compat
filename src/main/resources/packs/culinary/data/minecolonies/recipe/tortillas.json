@@ -1,8 +1,8 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecolonies/tortillas",
-    "count": 1
+    "id": "minecolonies:tortillas",
+    "count": 2
   },
   "ingredients": [
     {
@@ -12,5 +12,5 @@
       "tag": "hearth_horizons:grains/cornmeal"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

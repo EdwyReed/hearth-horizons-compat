@@ -1,37 +1,21 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:porkchop"
+    },
+    "2": {
+      "tag": "c:salts"
+    }
+  },
+  "pattern": [
+    "111",
+    "121",
+    "111"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/pork_jerky",
-    "count": 1
+    "id": "croptopia:pork_jerky",
+    "count": 14
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "tag": "c:salts"
-    },
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "item": "minecraft:porkchop"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

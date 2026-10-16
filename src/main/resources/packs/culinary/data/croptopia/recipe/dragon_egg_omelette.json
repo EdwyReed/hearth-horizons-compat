@@ -1,22 +1,27 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:dragon_egg"
+    },
+    "2": {
+      "tag": "c:cheeses"
+    },
+    "3": {
+      "tag": "c:salts"
+    },
+    "4": {
+      "item": "croptopia:pepper"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    " 2 ",
+    "3 4"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/dragon_egg_omelette",
+    "id": "croptopia:dragon_egg_omelette",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:dragon_egg"
-    },
-    {
-      "tag": "c:cheeses"
-    },
-    {
-      "tag": "c:salts"
-    },
-    {
-      "item": "croptopia:pepper"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

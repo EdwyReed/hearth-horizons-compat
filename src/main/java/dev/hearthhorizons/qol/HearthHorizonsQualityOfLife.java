@@ -34,7 +34,6 @@ public final class HearthHorizonsQualityOfLife {
         dev.hearthhorizons.qol.culinary.SodaParticles.register(bus);
         dev.hearthhorizons.qol.culinary.ServingRecipe.register(bus);
         dev.hearthhorizons.qol.culinary.SkilletCookingRecipe.register(bus);
-        dev.hearthhorizons.qol.culinary.CookingPreparations.register(bus);
         dev.hearthhorizons.qol.culinary.ColdPreparationRecipe.register(bus);
         bus.addListener(HearthHorizonsQualityOfLife::addCompatibilityPack);
     }

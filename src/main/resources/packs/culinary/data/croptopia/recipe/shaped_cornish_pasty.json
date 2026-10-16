@@ -1,31 +1,36 @@
 {
+  "key": {
+    "1": {
+      "item": "croptopia:frying_pan"
+    },
+    "2": {
+      "tag": "c:flour"
+    },
+    "3": {
+      "item": "minecraft:beef"
+    },
+    "4": {
+      "item": "minecraft:potato"
+    },
+    "5": {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    "6": {
+      "tag": "c:rutabagas"
+    },
+    "7": {
+      "item": "croptopia:pepper"
+    }
+  },
+  "pattern": [
+    "567",
+    "234",
+    " 1 "
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_cornish_pasty",
+    "id": "croptopia:cornish_pasty",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "hearth_horizons:vegetables/onions"
-    },
-    {
-      "tag": "c:rutabagas"
-    },
-    {
-      "item": "croptopia:pepper"
-    },
-    {
-      "tag": "c:flour"
-    },
-    {
-      "item": "minecraft:beef"
-    },
-    {
-      "item": "minecraft:potato"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

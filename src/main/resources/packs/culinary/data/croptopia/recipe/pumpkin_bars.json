@@ -1,37 +1,39 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/pumpkin_bars",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "croptopia:cinnamon"
-    },
-    {
-      "tag": "c:vanilla"
-    },
-    {
-      "tag": "c:salts"
-    },
-    {
+  "key": {
+    "1": {
       "item": "minecraft:egg"
     },
-    {
+    "2": {
       "item": "minecraft:sugar"
     },
-    {
+    "3": {
+      "item": "minecraft:pumpkin"
+    },
+    "4": {
       "tag": "c:flour"
     },
-    {
-      "item": "minecraft:pumpkin"
+    "5": {
+      "item": "croptopia:cinnamon"
     },
-    {
+    "6": {
+      "tag": "c:salts"
+    },
+    "7": {
       "tag": "c:butters"
     },
-    {
-      "item": "minecraft:pumpkin"
+    "8": {
+      "tag": "c:vanilla"
     }
-  ]
+  },
+  "pattern": [
+    "586",
+    "124",
+    "373"
+  ],
+  "result": {
+    "id": "croptopia:pumpkin_bars",
+    "count": 3
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

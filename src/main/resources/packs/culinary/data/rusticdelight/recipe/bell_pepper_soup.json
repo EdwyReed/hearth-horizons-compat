@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/rusticdelight/bell_pepper_soup",
+    "id": "rusticdelight:bell_pepper_soup",
     "count": 1
   },
   "ingredients": [
@@ -27,5 +27,5 @@
       "tag": "hearth_horizons:vegetables/bell_pepper_food"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }
