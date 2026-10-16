@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "item": "pamhc2crops:hotteaitem"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:ices"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/sweetteaitem",
+    "count": 1
+  }
+}

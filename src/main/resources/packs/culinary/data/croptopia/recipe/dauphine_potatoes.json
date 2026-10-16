@@ -1,0 +1,28 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/dauphine_potatoes",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "rusticdelight:cooking_oil"
+    }
+  ]
+}

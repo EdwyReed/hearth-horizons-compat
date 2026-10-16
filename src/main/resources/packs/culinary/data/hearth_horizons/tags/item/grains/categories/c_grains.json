@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:barley",
+    "croptopia:corn",
+    "croptopia:oat",
+    "farm_and_charm:barley",
+    "farm_and_charm:corn",
+    "farm_and_charm:oat",
+    "minecolonies:corn",
+    "minecraft:wheat",
+    "pamhc2crops:barleyitem",
+    "pamhc2crops:cornitem",
+    "pamhc2crops:oatsitem"
+  ]
+}

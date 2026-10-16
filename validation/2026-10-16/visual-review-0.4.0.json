@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-16",
+  "render_modes": [
+    "vanilla",
+    "photon_v1.3b.zip",
+    "ComplementaryReimagined_r5.7.1.zip"
+  ],
+  "screenshots": [
+    {
+      "mode": "vanilla",
+      "path": "run/client/screenshots/soda-vanilla-180.png",
+      "sha256": "b25371106517ad8fb8eb4c41328143e78636999b3eb8429f5d627674be197f25",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "vanilla",
+      "path": "run/client/screenshots/soda-vanilla-200.png",
+      "sha256": "44760bd5535ba5785a90a1b2bf5cb61033ebcf9bb834ddca330e08c9fd48510d",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "vanilla",
+      "path": "run/client/screenshots/soda-vanilla-top.png",
+      "sha256": "9b190be48c0a1a56c42ba86cc64017b05c0c76ecbe1bc2dd58f18597de4c4e46",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "vanilla",
+      "path": "run/client/screenshots/kitchen-vanilla-portions.png",
+      "sha256": "bc5f76aaf8c8e32f0a2f058fbf116babdee3ff213fa4a04775de97c6dac365d3",
+      "review": "Native image viewed: five remaining-portion states each for bread and baking ingredients; textures present."
+    },
+    {
+      "mode": "photon_v1.3b.zip",
+      "path": "run/client/screenshots/soda-photon_v1.3b.zip-180.png",
+      "sha256": "b18263d8db447522c485001c0f94f5d36a7fe5a63b18d77ebe42637c00fa5e6a",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "photon_v1.3b.zip",
+      "path": "run/client/screenshots/soda-photon_v1.3b.zip-200.png",
+      "sha256": "eed9f948a7ef97a02a321b1c3141ab950cdc8d05c06f0c3e0d847a3526a9af32",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "photon_v1.3b.zip",
+      "path": "run/client/screenshots/soda-photon_v1.3b.zip-top.png",
+      "sha256": "ce1b49cb52f81cad8e68e034ba7b5c626ffd07bb4af463c34bee08b39897594f",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "photon_v1.3b.zip",
+      "path": "run/client/screenshots/kitchen-photon_v1.3b.zip-portions.png",
+      "sha256": "5343d689bb5159b919f16e3f86b7d128599d9d0c8caab1de4e3afa6c34057a31",
+      "review": "Native image viewed: five remaining-portion states each for bread and baking ingredients; textures present."
+    },
+    {
+      "mode": "ComplementaryReimagined_r5.7.1.zip",
+      "path": "run/client/screenshots/soda-ComplementaryReimagined_r5.7.1.zip-180.png",
+      "sha256": "f99159d98a6cd096ba4d0aa4f357924b25caa9306aa7da0d33667ebec7599eef",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "ComplementaryReimagined_r5.7.1.zip",
+      "path": "run/client/screenshots/soda-ComplementaryReimagined_r5.7.1.zip-200.png",
+      "sha256": "49331b40f7a892a6a9c212cab799b904369af56ca7c8ae2bc35a6c752cb76188",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "ComplementaryReimagined_r5.7.1.zip",
+      "path": "run/client/screenshots/soda-ComplementaryReimagined_r5.7.1.zip-top.png",
+      "sha256": "be613cd02dccfb79c36f6203a4aeec441942238af9edfeb2da6448e47b313515",
+      "review": "Native image viewed: nine distinct soda surfaces and visible bubbles; kitchen image shows bread/kit states from four portions to empty vessel."
+    },
+    {
+      "mode": "ComplementaryReimagined_r5.7.1.zip",
+      "path": "run/client/screenshots/kitchen-ComplementaryReimagined_r5.7.1.zip-portions.png",
+      "sha256": "98b0bec3525e280d974fa5772e5cd9c6254cd6ef379ed8e30ef55b261cf26d95",
+      "review": "Native image viewed: five remaining-portion states each for bread and baking ingredients; textures present."
+    }
+  ]
+}

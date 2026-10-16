@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/coffee",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "c:coffee_beans"
+    },
+    {
+      "item": "croptopia:food_press"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

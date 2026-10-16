@@ -1,0 +1,21 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:crops/tealeaf"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/chaiteaitem",
+    "count": 1
+  }
+}

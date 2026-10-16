@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/mint_tea",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:mint"
+    },
+    {
+      "item": "minecolonies:mint"
+    },
+    {
+      "item": "minecolonies:mint"
+    },
+    {
+      "item": "minecolonies:large_water_bottle"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

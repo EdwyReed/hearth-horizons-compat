@@ -1,0 +1,36 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:boiledegg"
+    },
+    {
+      "tag": "hearth_horizons:grains/corn"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "c:condiments/oystersauce"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/cantonesenoodlesitem",
+    "count": 1
+  }
+}

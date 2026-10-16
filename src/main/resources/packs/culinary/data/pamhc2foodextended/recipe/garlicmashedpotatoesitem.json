@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:garlicmashedpotatoesitem",
+    "count": 1
+  }
+}

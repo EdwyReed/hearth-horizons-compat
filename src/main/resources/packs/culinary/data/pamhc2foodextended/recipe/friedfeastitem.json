@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:friedfeastitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:coleslawitem"
+    },
+    {
+      "item": "pamhc2foodcore:mashedpotatoesitem"
+    },
+    {
+      "tag": "c:sodas"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

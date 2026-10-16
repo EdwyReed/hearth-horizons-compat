@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_compat:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/omeletitem"
+  },
+  "result": {
+    "id": "pamhc2foodextended:omeletitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

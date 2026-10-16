@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "item": "pamhc2foodextended:marzipanitem"
+    },
+    {
+      "tag": "c:jellies/apricotjelly"
+    },
+    {
+      "tag": "c:dyes/pink"
+    },
+    {
+      "tag": "c:dyes/yellow"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/battenbergitem",
+    "count": 1
+  }
+}

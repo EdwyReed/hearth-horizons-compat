@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:crops/asparagus"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/asparagusquicheitem",
+    "count": 1
+  }
+}

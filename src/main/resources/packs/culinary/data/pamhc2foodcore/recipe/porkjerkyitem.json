@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodcore/porkjerkyitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "minecolonies:rice_ball",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:tofu"
+    },
+    {
+      "item": "minecolonies:cooked_rice"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

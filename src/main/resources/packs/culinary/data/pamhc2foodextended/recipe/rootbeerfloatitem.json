@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:rootbeerfloatitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "item": "pamhc2foodextended:rootbeersodaitem"
+    },
+    {
+      "tag": "c:icecreams"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

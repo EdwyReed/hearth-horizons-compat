@@ -1,0 +1,25 @@
+JEI_QA_BOOTSTRAP copied world uses isolated vanilla flat generator
+JEI_QA_SCREEN net.minecraft.client.gui.screens.LevelLoadingScreen
+JEI_QA_SCREEN net.minecraft.client.gui.screens.ReceivingLevelScreen
+JEI_QA_SCREEN world
+JEI_QA_FOCUS raisin_oatmeal_cookie rawR=[croptopia:raisin_oatmeal_cookie] rawU=[hearth_horizons:baking/raisin_oatmeal_cookie] cookedR=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@78cf3c60, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@128d7059, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@67fc6b71, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@bba0a7, hearth_horizons:baking/raisin_oatmeal_cookie] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@78cf3c60, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@128d7059, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@67fc6b71, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@bba0a7, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@433c04df]
+JEI_QA_FOCUS cashew_chicken rawR=[croptopia:cashew_chicken] rawU=[hearth_horizons:frying/cashew_chicken] cookedR=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@78cf3c60, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@128d7059, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@73288eab, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@5d99a15e, hearth_horizons:frying/cashew_chicken] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@78cf3c60, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@128d7059, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@73288eab, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@5d99a15e, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@71a25d2]
+JEI_QA_FOCUS shaped_beef_stir_fry rawR=[croptopia:shaped_beef_stir_fry] rawU=[hearth_horizons:frying/shaped_beef_stir_fry] cookedR=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@128d7059, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@5d99a15e, hearth_horizons:frying/shaped_beef_stir_fry] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@128d7059, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@5d99a15e, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@738058a3]
+JEI_QA_INGREDIENTS six distinct raw/cooked entries; Russian name search; raw slots have no FOOD
+JEI_QA_EXPANDED 751 distinct non-food raw entries; all R/U and stage slots; localized search and cooked R across [pot, oven, dry, skillet, ferment]
+JEI_QA_BOOKMARKS 6 distinct raw/cooked variants saved through native JEI bookmark config
+JEI_QA_SCREEN net.minecraft.client.gui.screens.inventory.InventoryScreen
+JEI_QA_SCREEN mezz.jei.gui.recipes.RecipesGui
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-preparations-list.png
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-raw-recipes.png
+JEI_QA_SCREEN net.satisfy.farm_and_charm.client.gui.StoveGui
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-cooked-recipes.png
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-stove-transfer.png
+JEI_QA_TRANSFER stove: raw transferred; cooked alternative rejected
+JEI_QA_COMPLETE search/list, R/U, slots, native transfers, six raw/cooked bookmarks saved
+JEI_QA_SCREEN mezz.jei.gui.recipes.RecipesGui
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-expanded-skillet.png
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-expanded-pot.png
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-expanded-drying.png
+JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-expanded-fermenting.png
+BUILD SUCCESSFUL in 1m 29s

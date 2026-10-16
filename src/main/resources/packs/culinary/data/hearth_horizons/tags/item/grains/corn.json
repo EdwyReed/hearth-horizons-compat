@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:corn",
+    "pamhc2crops:cornitem",
+    "farm_and_charm:corn",
+    "minecolonies:corn"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water"
+        }
+      },
+      "strict": false
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:water",
+      "amount": 250
+    },
+    {
+      "id": "minecraft:glass_bottle",
+      "count": 1
+    }
+  ]
+}

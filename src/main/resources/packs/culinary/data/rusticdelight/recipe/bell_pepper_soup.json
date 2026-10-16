@@ -1,0 +1,31 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/rusticdelight/bell_pepper_soup",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper_food"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

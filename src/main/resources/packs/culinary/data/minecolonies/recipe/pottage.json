@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/pottage",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:durum"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

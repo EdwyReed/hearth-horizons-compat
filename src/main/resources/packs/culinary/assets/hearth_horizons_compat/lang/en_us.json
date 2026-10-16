@@ -1,0 +1,21 @@
+{
+  "item.hearth_horizons_compat.preparation.not_food": "Preparation — cook before eating",
+  "item.hearth_horizons_compat.raisin_oatmeal_cookie_preparation": "Dough for 4 raisin oatmeal cookies",
+  "item.hearth_horizons_compat.raisin_oatmeal_cookie_preparation.stage": "Preparation: requires baking",
+  "item.hearth_horizons_compat.cashew_chicken_preparation": "Cashew chicken preparation",
+  "item.hearth_horizons_compat.cashew_chicken_preparation.stage": "Preparation: requires frying",
+  "item.hearth_horizons_compat.beef_stir_fry_preparation": "Beef stir fry preparation",
+  "item.hearth_horizons_compat.beef_stir_fry_preparation.stage": "Preparation: requires frying",
+  "fluid.hearth_horizons_compat.cherry_soda": "Cherry soda",
+  "fluid.hearth_horizons_compat.cola_soda": "Cola soda",
+  "fluid.hearth_horizons_compat.ginger_soda": "Ginger soda",
+  "fluid.hearth_horizons_compat.grapefruit_soda": "Grapefruit soda",
+  "fluid.hearth_horizons_compat.grape_soda": "Grape soda",
+  "fluid.hearth_horizons_compat.lemonlime_soda": "Lemon-lime soda",
+  "fluid.hearth_horizons_compat.orange_soda": "Orange soda",
+  "fluid.hearth_horizons_compat.rootbeer_soda": "Root beer soda",
+  "fluid.hearth_horizons_compat.strawberry_soda": "Strawberry soda",
+  "jei.hearth_horizons_compat.skillet": "Skillet frying",
+  "jei.hearth_horizons_compat.skillet_heat": "Heated skillet · %s s",
+  "item.hearth_horizons_compat.uncooked": "Preparation: %s"
+}

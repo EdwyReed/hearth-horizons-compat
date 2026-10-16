@@ -1,0 +1,34 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/shaped_stuffed_artichoke",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "item": "rusticdelight:cooking_oil"
+    },
+    {
+      "tag": "c:artichokes"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "c:lemons"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ]
+}

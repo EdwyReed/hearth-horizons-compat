@@ -1,0 +1,33 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodextended:gourmetbeefpattyitem"
+    },
+    {
+      "item": "pamhc2foodextended:briochebunitem"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+    },
+    {
+      "tag": "c:condiments/relish"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/gourmetbeefburgeritem",
+    "count": 1
+  }
+}

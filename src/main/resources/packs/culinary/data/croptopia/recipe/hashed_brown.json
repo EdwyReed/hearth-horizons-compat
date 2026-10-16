@@ -1,0 +1,22 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/hashed_brown",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:potatoes"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "rusticdelight:cooking_oil"
+    },
+    {
+      "item": "croptopia:knife"
+    }
+  ]
+}

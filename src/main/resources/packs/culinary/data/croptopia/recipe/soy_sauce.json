@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:food_press"
+    },
+    {
+      "tag": "c:soybeans"
+    },
+    {
+      "type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water"
+        }
+      },
+      "strict": false
+    }
+  ],
+  "result": {
+    "id": "croptopia:soy_sauce",
+    "count": 1
+  }
+}

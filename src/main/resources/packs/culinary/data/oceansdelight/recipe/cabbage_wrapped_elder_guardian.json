@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "item": "oceansdelight:cooked_elder_guardian_slice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "oceansdelight:cabbage_wrapped_elder_guardian"
+  }
+}

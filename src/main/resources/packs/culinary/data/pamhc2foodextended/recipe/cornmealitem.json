@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_grinder"
+    },
+    {
+      "tag": "hearth_horizons:grains/corn"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cornmealitem",
+    "count": 1
+  }
+}

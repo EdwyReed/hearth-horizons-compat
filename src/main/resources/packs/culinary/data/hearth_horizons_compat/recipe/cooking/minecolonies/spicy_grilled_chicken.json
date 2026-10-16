@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_compat:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_compat:uncooked/minecolonies/spicy_grilled_chicken"
+  },
+  "result": {
+    "id": "minecolonies:spicy_grilled_chicken",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

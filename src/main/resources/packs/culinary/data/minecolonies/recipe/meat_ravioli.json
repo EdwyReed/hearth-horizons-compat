@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/meat_ravioli",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:durum"
+    },
+    {
+      "item": "minecolonies:durum"
+    },
+    {
+      "item": "minecraft:beef"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

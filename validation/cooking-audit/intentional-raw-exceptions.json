@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pamhc2foodcore:batteritem_x2",
+    "result": "pamhc2foodcore:batteritem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "farmersdelight_extended:shapeless/brownie_batter",
+    "result": "farmersdelight_extended:brownie_batter",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodcore:groundrabbititem",
+    "result": "pamhc2foodcore:groundrabbititem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "farmersdelight:wheat_dough_from_egg",
+    "result": "farmersdelight:wheat_dough",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodextended:loxbagelsandwichitem",
+    "result": "pamhc2foodextended:loxbagelsandwichitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodextended:mettbrotchenitem",
+    "result": "pamhc2foodextended:mettbrotchenitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodcore:groundbeefitem",
+    "result": "pamhc2foodcore:groundbeefitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodcore:groundchickenitem",
+    "result": "pamhc2foodcore:groundchickenitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodcore:groundmuttonitem",
+    "result": "pamhc2foodcore:groundmuttonitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodextended:pokebowlitem",
+    "result": "pamhc2foodextended:pokebowlitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "croptopia:ground_pork",
+    "result": "croptopia:ground_pork",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodextended:eggnogitem",
+    "result": "pamhc2foodextended:eggnogitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodcore:groundporkitem",
+    "result": "pamhc2foodcore:groundporkitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodcore:groundfishitem",
+    "result": "pamhc2foodcore:groundfishitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodextended:californiarollitem",
+    "result": "pamhc2foodextended:californiarollitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodextended:steaktartareitem",
+    "result": "pamhc2foodextended:steaktartareitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodextended:sushiitem",
+    "result": "pamhc2foodextended:sushiitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2foodcore:mayonaiseitem",
+    "result": "pamhc2foodcore:mayonaiseitem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "pamhc2crops:riceseeditem",
+    "result": "pamhc2crops:riceseeditem",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  },
+  {
+    "id": "supplementaries:soap",
+    "result": "supplementaries:soap",
+    "reason": "Intentional raw dish, raw ingredient preparation or explicitly edible soap gag; no heating added"
+  }
+]

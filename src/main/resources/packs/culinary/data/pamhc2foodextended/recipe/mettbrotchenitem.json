@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:spices/saltandpepper"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mettbrotchenitem",
+    "count": 1
+  }
+}

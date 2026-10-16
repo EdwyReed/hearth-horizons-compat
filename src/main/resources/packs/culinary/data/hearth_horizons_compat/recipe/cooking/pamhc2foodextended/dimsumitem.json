@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/dimsumitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:dimsumitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

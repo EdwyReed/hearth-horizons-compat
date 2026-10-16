@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:rawchicken"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/garlicchickenitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "culturalrecipes:fermenting/pickle",
+    "source": "culturaldelights-0.17.7.jar",
+    "error": "Extra data: line 3 column 2 (char 42)"
+  },
+  {
+    "id": "minecraft:beetroot_soup",
+    "source": "culturaldelights-0.17.7.jar",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "id": "minecraft:mushroom_stew",
+    "source": "culturaldelights-0.17.7.jar",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "id": "minecraft:rabbit_stew_from_brown_mushroom",
+    "source": "culturaldelights-0.17.7.jar",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "id": "minecraft:rabbit_stew_from_red_mushroom",
+    "source": "culturaldelights-0.17.7.jar",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "id": "pamhc2foodextended:cookedtofabbititem_campfire",
+    "source": "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
+    "error": "Extra data: line 9 column 4 (char 185)"
+  },
+  {
+    "id": "pamhc2foodextended:cookedtofabbititem_forge",
+    "source": "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
+    "error": "Extra data: line 9 column 4 (char 177)"
+  },
+  {
+    "id": "pamhc2foodextended:cookedtofabbititem_smoker",
+    "source": "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
+    "error": "Extra data: line 9 column 4 (char 176)"
+  }
+]

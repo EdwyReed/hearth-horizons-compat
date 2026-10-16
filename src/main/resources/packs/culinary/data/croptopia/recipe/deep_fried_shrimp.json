@@ -1,0 +1,28 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/deep_fried_shrimp",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:shrimp"
+    },
+    {
+      "tag": "c:shrimp"
+    },
+    {
+      "tag": "c:shrimp"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ]
+}

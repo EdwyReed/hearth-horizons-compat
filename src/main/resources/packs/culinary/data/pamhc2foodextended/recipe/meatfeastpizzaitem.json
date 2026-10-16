@@ -1,0 +1,33 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:pepperoni"
+    },
+    {
+      "tag": "c:sausage"
+    },
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:rawchicken"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/meatfeastpizzaitem",
+    "count": 1
+  }
+}

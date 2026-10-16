@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "sha256": "7455231f9bd82be3d3338c81bccdf71b612bf6d979dcb7e94a400563fbb03899",
+  "java_class_version": 65,
+  "class_count": 23,
+  "gametests_passed": 8,
+  "migrated_data_resources": 757,
+  "migrated_assets": 9,
+  "shelf_client_visual_evidence_version": "0.1.0",
+  "activation_report": "migration/activation.json"
+}

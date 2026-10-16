@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:chocolatebar"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/timtamitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "pamhc2foodcore:freshwateritem"
+        },
+        {
+          "type": "neoforge:components",
+          "items": "minecraft:potion",
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "strict": false
+        }
+      ]
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "item": "croptopia:almond"
+    },
+    {
+      "item": "croptopia:lime"
+    },
+    {
+      "item": "croptopia:cinnamon"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:horchata",
+    "count": 3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/banana_cream_pie",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:bananas"
+    },
+    {
+      "tag": "c:vanilla"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

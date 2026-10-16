@@ -1,0 +1,6 @@
+CULINARY_QA_RESOURCES 754 migration-manifest resources loaded at highest priority
+CULINARY_QA_LOADED 645 unconditional recipes; 29 intentionally disabled recipes absent
+CULINARY_QA_RECIPES 3 independent raw/cooked stages decoded; FOOD and 4/1/1 yields retained; no legacy migration recipes
+SHELF_BULK_TEST 1000 shelves / 2000 jars setup+check+clear ms=141
+[01:37:43] [Server thread/INFO] [minecraft/GameTestServer]: All 8 required tests passed :)
+BUILD SUCCESSFUL in 55s

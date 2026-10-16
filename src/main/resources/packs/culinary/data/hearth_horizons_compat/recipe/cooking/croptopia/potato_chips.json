@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_compat:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_compat:uncooked/croptopia/potato_chips"
+  },
+  "result": {
+    "id": "croptopia:potato_chips",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

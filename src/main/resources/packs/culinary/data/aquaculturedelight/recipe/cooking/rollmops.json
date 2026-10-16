@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_herring"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "aquaculturedelight:pickles"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "aquaculturedelight:rollmops"
+  },
+  "container": {
+    "id": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "farm_and_charm:crafting_bowl",
+  "ingredients": [
+    {
+      "item": "farm_and_charm:flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "bakery:eggs"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    }
+  ],
+  "result": {
+    "id": "bakery:sweet_dough",
+    "count": 12
+  }
+}

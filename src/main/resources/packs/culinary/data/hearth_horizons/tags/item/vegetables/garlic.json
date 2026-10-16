@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:garlic",
+    "minecolonies:garlic",
+    "pamhc2crops:garlicitem",
+    "enchanted:garlic"
+  ]
+}

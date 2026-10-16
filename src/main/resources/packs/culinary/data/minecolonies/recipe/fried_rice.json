@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/fried_rice",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecolonies:cooked_rice"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "minecolonies:rawmeat"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

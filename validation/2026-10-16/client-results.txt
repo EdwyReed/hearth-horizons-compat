@@ -1,0 +1,10 @@
+SHELF_QA_SCREEN net.minecraft.client.gui.screens.LevelLoadingScreen
+SHELF_QA_SCREEN net.minecraft.client.gui.screens.ReceivingLevelScreen
+SHELF_QA_SCREEN world
+SHELF_QA_GEOMETRY BlockPos{x=7, y=81, z=2} count=1 min=(0.30229,0.31250,0.58357) max=(0.69771,0.96711,0.97893)
+SHELF_QA_GEOMETRY BlockPos{x=10, y=81, z=2} count=2 min=(0.09492,0.31250,0.61057) max=(0.90508,0.87770,0.95193)
+SHELF_QA_CLIENT_SYNC initial 0/1/2 passed
+SHELF_QA_CLIENT_SYNC last-removal cleanup passed
+SHELF_QA_SCREENSHOT Saved screenshot as shelf-qa.png
+SHELF_QA_CACHED_DECODES 4 CACHE_HITS 1851
+BUILD SUCCESSFUL in 1m

@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/leek"
+    },
+    {
+      "tag": "c:stock"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/potatoandleeksoupitem",
+    "count": 1
+  }
+}

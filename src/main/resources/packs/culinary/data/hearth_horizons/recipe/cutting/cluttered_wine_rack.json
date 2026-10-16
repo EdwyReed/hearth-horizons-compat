@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "cluttered:wine_bottle_rack"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  },
+  "result": [
+    {
+      "item": {
+        "id": "cluttered:wine_bottles",
+        "count": 1
+      }
+    },
+    {
+      "item": {
+        "id": "minecraft:stick",
+        "count": 2
+      }
+    }
+  ]
+}

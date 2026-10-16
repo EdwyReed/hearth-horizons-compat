@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "c:crops/bean"
+    },
+    {
+      "tag": "c:crops/bean"
+    },
+    {
+      "tag": "c:crops/bean"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:vinegar"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:threebeansaladitem",
+    "count": 1
+  }
+}

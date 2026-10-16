@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/lime"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:salsaitem",
+    "count": 1
+  }
+}

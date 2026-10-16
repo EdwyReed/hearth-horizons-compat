@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "croptopia:eggplant"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "item": "rusticdelight:cooking_oil"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "hearth_horizons:culinary_salt"
+    },
+    {
+      "item": "croptopia:paprika"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:grilled_eggplant"
+  }
+}

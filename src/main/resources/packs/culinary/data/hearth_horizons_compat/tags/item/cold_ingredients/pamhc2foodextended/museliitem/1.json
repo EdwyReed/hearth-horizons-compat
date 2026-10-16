@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "values": [
+    "croptopia:barley",
+    "croptopia:corn",
+    "croptopia:oat",
+    "farm_and_charm:barley",
+    "farm_and_charm:corn",
+    "farm_and_charm:oat",
+    "farmersdelight:cooked_rice",
+    "minecolonies:corn",
+    "minecraft:wheat",
+    "pamhc2crops:amaranthitem",
+    "pamhc2crops:barleyitem",
+    "pamhc2crops:beanitem",
+    "pamhc2crops:chickpeaitem",
+    "pamhc2crops:cornitem",
+    "pamhc2crops:lentilitem",
+    "pamhc2crops:oatsitem",
+    "pamhc2crops:quinoaitem",
+    "pamhc2crops:ryeitem",
+    "pamhc2crops:sorghumitem",
+    "pamhc2crops:soybeanitem"
+  ]
+}

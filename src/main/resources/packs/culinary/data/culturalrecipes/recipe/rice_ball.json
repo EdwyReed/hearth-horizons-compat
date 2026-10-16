@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "culturaldelights:rice_ball",
+    "count": 5
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/rice_ball/4"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

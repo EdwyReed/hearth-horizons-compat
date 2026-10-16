@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "sss",
+    "bbb"
+  ],
+  "key": {
+    "s": {
+      "tag": "c:rods/wooden"
+    },
+    "b": {
+      "tag": "hearth_horizons:vegetables/basil"
+    }
+  },
+  "result": {
+    "id": "cluttered:drying_herbs",
+    "count": 1
+  },
+  "show_notification": false
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecolonies:zero_waste",
+  "ingredients": [
+    {
+      "item": "croptopia:milk_bottle"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:milk_bottle",
+    "count": 1
+  }
+}

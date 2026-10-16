@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:crops/strawberry"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:spices/vanilla"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/strawberrysouffleitem",
+    "count": 1
+  }
+}

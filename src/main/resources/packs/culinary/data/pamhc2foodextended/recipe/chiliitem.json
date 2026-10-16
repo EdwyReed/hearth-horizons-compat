@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:rawmeats"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/bean"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/chiliitem",
+    "count": 1
+  }
+}

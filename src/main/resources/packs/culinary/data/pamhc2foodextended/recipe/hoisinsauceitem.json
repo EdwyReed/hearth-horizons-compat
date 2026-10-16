@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:crops/sweetpotato"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/soybean"
+    },
+    {
+      "tag": "c:crops/sesameseeds"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/hoisinsauceitem",
+    "count": 1
+  }
+}

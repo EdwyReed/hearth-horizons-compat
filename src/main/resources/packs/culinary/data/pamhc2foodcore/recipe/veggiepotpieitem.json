@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    },
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:dough"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodcore/veggiepotpieitem",
+    "count": 1
+  }
+}

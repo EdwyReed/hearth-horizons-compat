@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/sausageitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:rawmeats"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

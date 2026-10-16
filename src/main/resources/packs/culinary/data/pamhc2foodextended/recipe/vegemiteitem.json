@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "hearth_horizons:grains/barley"
+    },
+    {
+      "tag": "c:water"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/vegemiteitem",
+    "count": 1
+  }
+}

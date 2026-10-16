@@ -1,0 +1,25 @@
+.gradle/
+build/
+run/
+dist/
+.idea/
+*.iml
+migration_backups/
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+# Host-specific installation and distribution receipts.
+migration/activation*.json
+migration/modpack-*.json
+migration/modrinth-*.json
+# Regenerable full dumps of dependency recipes; keep focused audit reports.
+validation/cooking-audit/pre-*.json
+validation/cooking-audit/resources.json
+validation/cooking-audit/runtime.json

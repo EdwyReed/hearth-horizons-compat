@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:cornmeal"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:water"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/gritsitem",
+    "count": 1
+  }
+}

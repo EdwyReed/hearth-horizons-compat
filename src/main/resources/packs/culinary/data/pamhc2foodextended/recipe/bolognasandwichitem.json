@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "item": "pamhc2foodextended:bolognaitem"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/lettuce"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bolognasandwichitem",
+    "count": 1
+  }
+}

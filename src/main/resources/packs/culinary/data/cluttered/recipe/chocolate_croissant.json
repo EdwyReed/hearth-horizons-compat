@@ -1,0 +1,16 @@
+{
+  "type": "hearth_horizons_compat:serving",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cluttered:croissant"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/chocolate_bars"
+    }
+  ],
+  "result": {
+    "id": "cluttered:chocolate_croissant",
+    "count": 1
+  }
+}

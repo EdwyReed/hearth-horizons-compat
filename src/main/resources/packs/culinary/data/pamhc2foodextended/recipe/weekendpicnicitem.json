@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:weekendpicnicitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:potatosaladitem"
+    },
+    {
+      "item": "pamhc2foodcore:potatochipsitem"
+    },
+    {
+      "tag": "c:sodas"
+    },
+    {
+      "item": "pamhc2foodextended:springsaladitem"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

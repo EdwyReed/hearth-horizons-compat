@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:cluttered/bottled_wine"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/bottled_wine"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/bottled_wine"
+    }
+  ],
+  "result": {
+    "id": "cluttered:wine_bottles",
+    "count": 1
+  }
+}

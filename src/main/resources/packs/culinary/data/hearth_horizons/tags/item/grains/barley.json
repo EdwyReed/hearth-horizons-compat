@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:barley",
+    "pamhc2crops:barleyitem",
+    "farm_and_charm:barley"
+  ]
+}

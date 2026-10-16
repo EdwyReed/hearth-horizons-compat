@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "environmental:duck_egg",
+    "farmersdelight:fried_egg"
+  ]
+}

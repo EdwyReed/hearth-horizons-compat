@@ -1,0 +1,21 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:sausage"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/sausagerollitem",
+    "count": 1
+  }
+}

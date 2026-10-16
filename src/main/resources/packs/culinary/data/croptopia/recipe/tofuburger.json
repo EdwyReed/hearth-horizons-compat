@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/tofuburger",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/lettuce"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "c:tofu"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onions"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

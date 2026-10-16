@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:crops/celery"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:stock"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/chickenchowmeinitem",
+    "count": 1
+  }
+}

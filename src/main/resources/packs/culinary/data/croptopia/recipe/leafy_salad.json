@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/lettuce"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/spinach"
+    },
+    {
+      "tag": "croptopiadelight:kale"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:leafy_salad"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:chickentendersmealitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:chickentendersitem"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    },
+    {
+      "tag": "c:sodas"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

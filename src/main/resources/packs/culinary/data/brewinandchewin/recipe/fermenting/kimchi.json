@@ -1,0 +1,22 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "category": "meals",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/food_vegetable"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    []
+  ],
+  "result": {
+    "count": 2,
+    "id": "brewinandchewin:kimchi"
+  },
+  "temperature": 4
+}

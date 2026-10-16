@@ -1,0 +1,11 @@
+{
+  "type": "farm_and_charm:drying",
+  "recipe_type": "MEAT",
+  "ingredient": {
+    "item": "hearth_horizons_compat:uncooked/croptopia/beef_jerky"
+  },
+  "result": {
+    "id": "croptopia:beef_jerky",
+    "count": 14
+  }
+}

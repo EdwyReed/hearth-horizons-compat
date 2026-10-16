@@ -1,0 +1,21 @@
+{
+  "item.hearth_horizons_compat.preparation.not_food": "Не является готовой едой",
+  "item.hearth_horizons_compat.raisin_oatmeal_cookie_preparation": "Тесто на 4 овсяных печенья с изюмом",
+  "item.hearth_horizons_compat.raisin_oatmeal_cookie_preparation.stage": "Заготовка: требуется выпечка",
+  "item.hearth_horizons_compat.cashew_chicken_preparation": "Курица с кешью для обжарки",
+  "item.hearth_horizons_compat.cashew_chicken_preparation.stage": "Заготовка: требуется обжарка",
+  "item.hearth_horizons_compat.beef_stir_fry_preparation": "Говядина с овощами для обжарки",
+  "item.hearth_horizons_compat.beef_stir_fry_preparation.stage": "Заготовка: требуется обжарка",
+  "fluid.hearth_horizons_compat.cherry_soda": "Вишнёвая газировка",
+  "fluid.hearth_horizons_compat.cola_soda": "Кола",
+  "fluid.hearth_horizons_compat.ginger_soda": "Имбирная газировка",
+  "fluid.hearth_horizons_compat.grapefruit_soda": "Грейпфрутовая газировка",
+  "fluid.hearth_horizons_compat.grape_soda": "Виноградная газировка",
+  "fluid.hearth_horizons_compat.lemonlime_soda": "Лимонно-лаймовая газировка",
+  "fluid.hearth_horizons_compat.orange_soda": "Апельсиновая газировка",
+  "fluid.hearth_horizons_compat.rootbeer_soda": "Рутбир",
+  "fluid.hearth_horizons_compat.strawberry_soda": "Клубничная газировка",
+  "jei.hearth_horizons_compat.skillet": "Обжарка на сковороде",
+  "jei.hearth_horizons_compat.skillet_heat": "Сковорода + нагрев · %s с",
+  "item.hearth_horizons_compat.uncooked": "Заготовка: %s"
+}

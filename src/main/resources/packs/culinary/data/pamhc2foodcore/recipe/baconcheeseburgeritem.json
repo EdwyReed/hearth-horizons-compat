@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:groundmeats/groundbeef"
+    },
+    {
+      "tag": "c:condiments"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodcore/baconcheeseburgeritem",
+    "count": 1
+  }
+}

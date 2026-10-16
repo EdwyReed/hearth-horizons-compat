@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:chocolatebar"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:seeds"
+    },
+    {
+      "tag": "c:fruits"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodcore/trailmixitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "c:foods/raw_catfish"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "aquaculturedelight:catfish_barbecue",
+    "count": 2
+  }
+}

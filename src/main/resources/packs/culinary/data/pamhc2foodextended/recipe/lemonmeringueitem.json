@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:meringue"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/lemonmeringueitem",
+    "count": 1
+  }
+}

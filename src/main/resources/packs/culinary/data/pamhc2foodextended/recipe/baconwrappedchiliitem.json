@@ -1,0 +1,18 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "tag": "c:rawpork"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/baconwrappedchiliitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/eggdrop_soup",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "hearth_horizons:grains/barley"
+    },
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/pitepaltitem",
+    "count": 1
+  }
+}

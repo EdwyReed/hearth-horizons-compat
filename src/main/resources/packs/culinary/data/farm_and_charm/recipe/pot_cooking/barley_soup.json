@@ -1,0 +1,27 @@
+{
+  "type": "farm_and_charm:pot_cooking",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/barley"
+    },
+    {
+      "tag": "hearth_horizons:grains/barley"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "requireContainer": true,
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "result": {
+    "id": "farm_and_charm:barley_soup",
+    "count": 1
+  },
+  "requiresLearning": false
+}

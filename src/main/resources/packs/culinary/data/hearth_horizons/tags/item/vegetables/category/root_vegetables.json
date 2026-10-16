@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "#c:rootvegetables/arrowroot",
+    "#c:rootvegetables/cassava",
+    "#hearth_horizons:vegetables/garlic",
+    "#c:rootvegetables/jicama",
+    "#c:rootvegetables/kohlrabi",
+    "#hearth_horizons:vegetables/leek",
+    "#hearth_horizons:vegetables/onion",
+    "#c:rootvegetables/parsnip",
+    "#c:rootvegetables/peanut",
+    "#c:rootvegetables/radish",
+    "#c:rootvegetables/rhubarb",
+    "#c:rootvegetables/rutabaga",
+    "#hearth_horizons:vegetables/green_onion",
+    "#c:rootvegetables/sweetpotato",
+    "#c:rootvegetables/sweet_potato",
+    "#c:rootvegetables/taro",
+    "#c:rootvegetables/turnip",
+    "#c:rootvegetables/waterchestnut",
+    "#c:rootvegetables/lotus",
+    "#c:rootvegetables/sunchoke"
+  ]
+}

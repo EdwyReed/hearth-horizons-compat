@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:condiments/bbqsauce"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:dough"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/bbqchickenpizzaitem",
+    "count": 1
+  }
+}

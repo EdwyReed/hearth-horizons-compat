@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "item": "croptopia:flour"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "hearth_horizons:culinary_salt"
+    },
+    {
+      "item": "rusticdelight:cooking_oil"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:chili_relleno"
+  }
+}

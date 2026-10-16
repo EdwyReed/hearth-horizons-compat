@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:eggsaladitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsaladitem/1"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    },
+    {
+      "tag": "c:condiments/mustard"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,4 @@
+SHELF_BULK_TEST 1000 shelves / 2000 jars setup+check+clear ms=186
+[00:36:34] [Server thread/INFO] [minecraft/GameTestServer]: ========= 7 GAME TESTS COMPLETE IN 2.002 s ======================
+[00:36:34] [Server thread/INFO] [minecraft/GameTestServer]: All 7 required tests passed :)
+BUILD SUCCESSFUL in 39s

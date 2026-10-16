@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:bellpepper",
+    "pamhc2crops:bellpepperitem",
+    "minecolonies:bell_pepper",
+    "rusticdelight:bell_pepper_green",
+    "rusticdelight:bell_pepper_red",
+    "rusticdelight:bell_pepper_yellow"
+  ]
+}

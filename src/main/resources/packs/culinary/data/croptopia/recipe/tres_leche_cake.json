@@ -1,0 +1,31 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/tres_leche_cake",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:vanilla"
+    },
+    {
+      "tag": "c:rums"
+    },
+    {
+      "item": "croptopia:whipping_cream"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

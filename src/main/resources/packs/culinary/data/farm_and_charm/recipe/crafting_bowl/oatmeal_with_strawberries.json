@@ -1,0 +1,18 @@
+{
+  "type": "farm_and_charm:crafting_bowl",
+  "ingredients": [
+    {
+      "tag": "farm_and_charm:milk"
+    },
+    {
+      "tag": "hearth_horizons:grains/oat"
+    },
+    {
+      "tag": "farm_and_charm:strawberry"
+    }
+  ],
+  "result": {
+    "id": "farm_and_charm:oatmeal_with_strawberries",
+    "count": 2
+  }
+}

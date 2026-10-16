@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "croptopia:cheese"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "tag": "hearth_horizons:grains/corn"
+    },
+    {
+      "item": "croptopia:blackbean"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:stuffed_poblanos"
+  }
+}

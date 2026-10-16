@@ -1,0 +1,18 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodcore:hotdogitem"
+    },
+    {
+      "item": "pamhc2foodextended:chiliitem"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/chilidogitem",
+    "count": 1
+  }
+}

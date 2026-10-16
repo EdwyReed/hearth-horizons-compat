@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "sp",
+    "bb"
+  ],
+  "key": {
+    "s": {
+      "tag": "hearth_horizons:culinary_salt"
+    },
+    "p": {
+      "tag": "hearth_horizons:cluttered/black_pepper"
+    },
+    "b": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "id": "cluttered:salt_pepper_shakers",
+    "count": 1
+  },
+  "show_notification": false
+}

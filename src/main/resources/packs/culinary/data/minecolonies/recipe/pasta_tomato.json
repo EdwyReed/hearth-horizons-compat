@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/pasta_tomato",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:raw_noodle"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

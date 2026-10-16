@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#c:salad_ingredients/artichoke",
+    "#c:salad_ingredients/asparagus",
+    "#c:salad_ingredients/broccoli",
+    "#c:salad_ingredients/brusselsprout",
+    "#hearth_horizons:vegetables/cabbage_food",
+    "#c:salad_ingredients/cauliflower",
+    "#c:salad_ingredients/kale",
+    "#hearth_horizons:vegetables/lettuce",
+    "#c:salad_ingredients/pea",
+    "#c:salad_ingredients/peas",
+    "#hearth_horizons:vegetables/spinach",
+    "#c:salad_ingredients/tomatillo",
+    "#hearth_horizons:vegetables/tomato",
+    "#c:salad_ingredients/zucchini",
+    "#c:salad_ingredients/chia",
+    "#c:salad_ingredients/nopales",
+    "#c:salad_ingredients/nettles",
+    "#c:salad_ingredients/bokchoy"
+  ]
+}

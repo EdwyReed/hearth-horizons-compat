@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/candleberrypieitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:candleberrypieitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

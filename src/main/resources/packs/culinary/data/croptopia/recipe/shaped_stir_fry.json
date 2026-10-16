@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "croptopiadelight:broccoli"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/green_onion"
+    },
+    {
+      "item": "rusticdelight:cooking_oil"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:stir_fry"
+  }
+}

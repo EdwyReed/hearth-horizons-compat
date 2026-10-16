@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/schnitzelitem",
+    "count": 1
+  }
+}

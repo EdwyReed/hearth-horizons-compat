@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:southernstylebreakfastitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:gritsitem"
+    },
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/3"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/4"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

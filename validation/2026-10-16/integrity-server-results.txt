@@ -1,0 +1,13 @@
+SODA_QA all nine flavours decoded; no manual crafting; 250mB mix/fill/empty; native Create basin right-click consumes one bottle and 250mB
+KITCHEN_QA exact serving nutrition/saturation; bread and ingredient kit preserve original stacks across NBT; four clicks update models and return one tray/bowl without duplication
+INTEGRITY_QA all 751 hot manual recipes produce independent inedible raw batches; oven/pot/skillet finals preserve IDs and yields; cooked substitutes/campfire/furnace rejected
+SKILLET_QA native campfire rejects frying; placed and handheld FD skillets accept both preparations
+COLD_MEAT_QA 42 actual cold recipes accept cooked alternatives and reject original raw meat
+CULINARY_QA_RESOURCES 2104 migration-manifest resources loaded at highest priority
+CULINARY_QA_LOADED 1930 unconditional recipes; 39 intentionally disabled recipes absent
+CULINARY_QA_RECIPES 3 independent raw/cooked stages decoded; FOOD and 4/1/1 yields retained; no legacy migration recipes
+COOKING_AUDIT_RUNTIME 12940 active recipes; 2630 food/remainder items exported to E:\Personal\hearth-horizons-compat\validation\cooking-audit\runtime.json
+OVEN_SERVING_QA native Farm & Charm craft captures muffin ingredients; item/placed nutrition agrees; break roundtrip returns exactly one packed serving; eating leaves one empty plate
+CONTAINER_QA native cold meal returns one soda bottle; FOOD vessels are returned once or retained inside the final serving, including native crafting remainders
+[03:11:48] [Server thread/INFO] [minecraft/GameTestServer]: All 15 required tests passed :)
+BUILD SUCCESSFUL in 56s

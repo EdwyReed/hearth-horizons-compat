@@ -1,0 +1,615 @@
+[
+  {
+    "id": "farmersdelight:kelp_roll",
+    "original": {
+      "key": {
+        "#": {
+          "item": "minecraft:dried_kelp"
+        },
+        "R": {
+          "item": "farmersdelight:cooked_rice"
+        },
+        "X": {
+          "tag": "hearth_horizons:vegetables/category/food_vegetable"
+        }
+      },
+      "pattern": [
+        "RXR",
+        "###"
+      ],
+      "result": {
+        "id": "farmersdelight:kelp_roll",
+        "count": 1
+      },
+      "category": "misc",
+      "type": "minecraft:crafting_shaped"
+    },
+    "patched": {
+      "result": {
+        "id": "farmersdelight:kelp_roll",
+        "count": 1
+      },
+      "category": "misc",
+      "type": "hearth_horizons_compat:cold_preparation",
+      "ingredients": [
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/food_vegetable"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "item": "minecraft:dried_kelp"
+        },
+        {
+          "item": "minecraft:dried_kelp"
+        },
+        {
+          "item": "minecraft:dried_kelp"
+        }
+      ]
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "pamhc2foodextended:cookoutmealitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:cookoutmealitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:basichamburgeritem"
+        },
+        {
+          "item": "pamhc2foodcore:hotdogitem"
+        },
+        {
+          "tag": "c:sodas"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:cookoutmealitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:basichamburgeritem"
+        },
+        {
+          "item": "pamhc2foodcore:hotdogitem"
+        },
+        {
+          "tag": "c:sodas"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "rusticdelight:sweet_salad",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "rusticdelight:sweet_salad",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "tag": "rusticdelight:sweet_liquids"
+        },
+        {
+          "tag": "c:foods/leafy_green"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/food_vegetable"
+        },
+        {
+          "tag": "c:foods/fruit"
+        },
+        {
+          "tag": "c:foods/fruit"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "rusticdelight:sweet_salad",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "tag": "rusticdelight:sweet_liquids"
+        },
+        {
+          "tag": "c:foods/leafy_green"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/food_vegetable"
+        },
+        {
+          "tag": "c:foods/fruit"
+        },
+        {
+          "tag": "c:foods/fruit"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "pamhc2foodextended:friedfeastitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:friedfeastitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:friedchickenitem"
+        },
+        {
+          "item": "pamhc2foodextended:coleslawitem"
+        },
+        {
+          "item": "pamhc2foodcore:mashedpotatoesitem"
+        },
+        {
+          "tag": "c:sodas"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:friedfeastitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:friedchickenitem"
+        },
+        {
+          "item": "pamhc2foodextended:coleslawitem"
+        },
+        {
+          "item": "pamhc2foodcore:mashedpotatoesitem"
+        },
+        {
+          "tag": "c:sodas"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "pamhc2foodextended:weekendpicnicitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:weekendpicnicitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:friedchickenitem"
+        },
+        {
+          "item": "pamhc2foodextended:potatosaladitem"
+        },
+        {
+          "item": "pamhc2foodcore:potatochipsitem"
+        },
+        {
+          "tag": "c:sodas"
+        },
+        {
+          "item": "pamhc2foodextended:springsaladitem"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:weekendpicnicitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:friedchickenitem"
+        },
+        {
+          "item": "pamhc2foodextended:potatosaladitem"
+        },
+        {
+          "item": "pamhc2foodcore:potatochipsitem"
+        },
+        {
+          "tag": "c:sodas"
+        },
+        {
+          "item": "pamhc2foodextended:springsaladitem"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "pamhc2foodextended:rootbeerfloatitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:rootbeerfloatitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "item": "pamhc2foodextended:rootbeersodaitem"
+        },
+        {
+          "tag": "c:icecreams"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:rootbeerfloatitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "item": "pamhc2foodextended:rootbeersodaitem"
+        },
+        {
+          "tag": "c:icecreams"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "farmersdelight:barbecue_stick",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "farmersdelight:barbecue_stick",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "hearth_horizons:vegetables/tomato"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        },
+        {
+          "tag": "c:foods/cooked_meat"
+        },
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "farmersdelight:barbecue_stick",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "hearth_horizons:vegetables/tomato"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        },
+        {
+          "tag": "c:foods/cooked_meat"
+        },
+        {
+          "item": "minecraft:stick"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "pamhc2foodextended:delightedmealitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:delightedmealitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:sodas"
+        },
+        {
+          "item": "pamhc2foodextended:mcpamitem"
+        },
+        {
+          "item": "pamhc2foodcore:friesitem"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:delightedmealitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:sodas"
+        },
+        {
+          "item": "pamhc2foodextended:mcpamitem"
+        },
+        {
+          "item": "pamhc2foodcore:friesitem"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "cluttered:seltzer_cans",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "cluttered:seltzer_cans",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:iron_ingot"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "cluttered:seltzer_cans",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:iron_ingot"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        },
+        {
+          "tag": "hearth_horizons:cluttered/sodas"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "minecolonies:rice_ball",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "minecolonies:rice_ball",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "item": "minecolonies:tofu"
+        },
+        {
+          "item": "minecolonies:cooked_rice"
+        },
+        {
+          "item": "minecraft:dried_kelp"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "minecolonies:rice_ball",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "item": "minecolonies:tofu"
+        },
+        {
+          "item": "minecolonies:cooked_rice"
+        },
+        {
+          "item": "minecraft:dried_kelp"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "pamhc2foodextended:theatreboxitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:theatreboxitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:chocolatebar"
+        },
+        {
+          "tag": "c:sodas"
+        },
+        {
+          "item": "pamhc2foodextended:popcornitem"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:theatreboxitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:chocolatebar"
+        },
+        {
+          "tag": "c:sodas"
+        },
+        {
+          "item": "pamhc2foodextended:popcornitem"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  },
+  {
+    "id": "pamhc2foodextended:chickentendersmealitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:chickentendersmealitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:chickentendersitem"
+        },
+        {
+          "item": "pamhc2foodcore:friesitem"
+        },
+        {
+          "tag": "c:sodas"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:chickentendersmealitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:chickentendersitem"
+        },
+        {
+          "item": "pamhc2foodcore:friesitem"
+        },
+        {
+          "tag": "c:sodas"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    },
+    "reason": "Return ingredient eating vessels once; retain vessels already carried into final serving"
+  }
+]

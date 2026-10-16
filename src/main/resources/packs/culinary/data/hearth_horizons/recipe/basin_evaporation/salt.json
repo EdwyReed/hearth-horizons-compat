@@ -1,0 +1,23 @@
+{
+  "type": "createdieselgenerators:basin_fermenting",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "heat_requirement": "heated",
+  "processing_time": 600,
+  "results": [
+    {
+      "id": "croptopia:salt",
+      "count": 1
+    },
+    {
+      "id": "croptopia:salt",
+      "count": 1,
+      "chance": 0.25
+    }
+  ]
+}

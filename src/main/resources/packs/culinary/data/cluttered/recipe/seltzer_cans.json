@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "cluttered:seltzer_cans",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/sodas"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/sodas"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/sodas"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/sodas"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/sodas"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

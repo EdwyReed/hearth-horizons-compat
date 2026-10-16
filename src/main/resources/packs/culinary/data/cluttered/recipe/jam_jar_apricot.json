@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/apricot_jam"
+    }
+  ],
+  "result": {
+    "id": "cluttered:jam_jar_apricot",
+    "count": 1
+  }
+}

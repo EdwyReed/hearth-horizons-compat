@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "c:foods/cooked_chicken"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "moredelight:chicken_salad"
+  }
+}

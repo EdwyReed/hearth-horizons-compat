@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/snicker_doodle",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "croptopia:cinnamon"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:flour"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "minecolonies:large_milk_bottle"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:milk",
+      "amount": 1000
+    },
+    {
+      "id": "minecolonies:large_empty_bottle",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodextended:gourmetmuttonpattyitem"
+    },
+    {
+      "item": "pamhc2foodextended:briochebunitem"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/spinach"
+    },
+    {
+      "item": "pamhc2crops:roastedmushroomitem"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/gourmetmuttonburgeritem",
+    "count": 1
+  }
+}

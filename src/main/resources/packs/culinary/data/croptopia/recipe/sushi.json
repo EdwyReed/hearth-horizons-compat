@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "croptopia:fishes"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "tag": "croptopiadelight:seagrass"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:sushi"
+  }
+}

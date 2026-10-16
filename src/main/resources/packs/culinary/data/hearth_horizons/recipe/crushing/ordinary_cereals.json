@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/ordinary_flour_cereals"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "id": "create:wheat_flour",
+      "count": 2
+    }
+  ]
+}

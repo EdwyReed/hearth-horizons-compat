@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:basicchickensandwichitem"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:leafychickensandwichitem",
+    "count": 1
+  }
+}

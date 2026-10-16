@@ -1,0 +1,11 @@
+{
+  "type": "farm_and_charm:mincer",
+  "ingredient": {
+    "tag": "hearth_horizons:grains/ordinary_flour_cereals"
+  },
+  "recipe_type": "STONE",
+  "result": {
+    "id": "farm_and_charm:flour",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "item": "pamhc2foodextended:paneeritem"
+    },
+    {
+      "tag": "c:spices/garammasala"
+    },
+    {
+      "tag": "c:spices/currypowder"
+    },
+    {
+      "tag": "c:crops/coconut"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/paneertikkamasalaitem",
+    "count": 1
+  }
+}

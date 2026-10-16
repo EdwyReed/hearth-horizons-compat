@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/pizza",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:doughs"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

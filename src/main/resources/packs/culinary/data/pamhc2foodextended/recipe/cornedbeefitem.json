@@ -1,0 +1,36 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:crops/mustardseeds"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/cornedbeefitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:groundmeats/groundfish"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    },
+    {
+      "tag": "c:condiments/mustard"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "c:crops/lemon"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/fishfingersandcustarditem",
+    "count": 1
+  }
+}

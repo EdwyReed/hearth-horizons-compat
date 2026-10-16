@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:meringue"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:icecreams"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/bakedalaskaitem",
+    "count": 1
+  }
+}

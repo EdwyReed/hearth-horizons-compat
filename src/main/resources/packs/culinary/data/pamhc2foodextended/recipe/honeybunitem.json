@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:honey"
+    },
+    {
+      "tag": "c:dough"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/honeybunitem",
+    "count": 1
+  }
+}

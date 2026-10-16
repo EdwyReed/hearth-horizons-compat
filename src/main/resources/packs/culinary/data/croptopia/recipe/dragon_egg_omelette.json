@@ -1,0 +1,22 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/dragon_egg_omelette",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_egg"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "item": "croptopia:pepper"
+    }
+  ]
+}

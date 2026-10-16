@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:freshmilkitem"
+    },
+    {
+      "item": "pamhc2foodcore:freshmilkitem"
+    },
+    {
+      "item": "pamhc2foodcore:freshmilkitem"
+    },
+    {
+      "item": "pamhc2foodcore:freshmilkitem"
+    },
+    {
+      "item": "minecolonies:large_empty_bottle"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:large_milk_bottle",
+    "count": 1
+  }
+}

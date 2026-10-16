@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/scrambled_eggs",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:cheeses"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

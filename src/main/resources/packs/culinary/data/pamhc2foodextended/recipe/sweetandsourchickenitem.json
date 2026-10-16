@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:crops/pineapple"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "item": "pamhc2foodextended:sweetandsoursauceitem"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/sweetandsourchickenitem",
+    "count": 1
+  }
+}

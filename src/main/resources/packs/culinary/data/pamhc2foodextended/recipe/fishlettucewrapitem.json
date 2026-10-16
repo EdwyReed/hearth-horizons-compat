@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:fishlettucewrapitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/lettuce"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/fishlettucewrapitem/2"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:milk",
+    {
+      "id": "minecraft:flowing_milk",
+      "required": false
+    }
+  ]
+}

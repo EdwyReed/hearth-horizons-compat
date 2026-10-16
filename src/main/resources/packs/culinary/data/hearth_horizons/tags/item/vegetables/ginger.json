@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:ginger",
+    {
+      "id": "culturaldelights:ginger",
+      "required": false
+    },
+    "pamhc2crops:gingeritem"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    },
+    {
+      "tag": "c:rods/wooden"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodcore/grilledbeefskeweritem",
+    "count": 1
+  }
+}

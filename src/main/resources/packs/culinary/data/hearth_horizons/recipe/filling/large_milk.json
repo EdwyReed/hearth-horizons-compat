@@ -1,0 +1,19 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecolonies:large_empty_bottle"
+    },
+    {
+      "type": "neoforge:tag",
+      "tag": "hearth_horizons:liquids/cow_milk",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "id": "minecolonies:large_milk_bottle",
+      "count": 1
+    }
+  ]
+}

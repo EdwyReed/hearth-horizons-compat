@@ -1,0 +1,21 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:chocolatebar"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:jellies"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/jellyrollitem",
+    "count": 1
+  }
+}

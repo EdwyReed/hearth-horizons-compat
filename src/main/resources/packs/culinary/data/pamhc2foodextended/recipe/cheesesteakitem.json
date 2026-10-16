@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:cheesesteakitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/cheesesteakitem/2"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

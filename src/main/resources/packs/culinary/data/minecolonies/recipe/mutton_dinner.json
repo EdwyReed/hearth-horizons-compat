@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/mutton_dinner",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:peas"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "item": "minecraft:mutton"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

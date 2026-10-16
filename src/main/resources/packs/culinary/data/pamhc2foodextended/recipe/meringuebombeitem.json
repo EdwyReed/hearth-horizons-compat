@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:meringue"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:icecreams"
+    },
+    {
+      "tag": "c:crops/cherry"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/meringuebombeitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:plain_flour"
+    },
+    {
+      "tag": "hearth_horizons:plain_flour"
+    },
+    {
+      "tag": "hearth_horizons:plain_flour"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:wheat_dough",
+      "count": 3
+    }
+  ]
+}

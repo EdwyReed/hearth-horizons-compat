@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:crops/avocado"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:crops/lime"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:stock"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/creamofavocadosoupitem",
+    "count": 1
+  }
+}

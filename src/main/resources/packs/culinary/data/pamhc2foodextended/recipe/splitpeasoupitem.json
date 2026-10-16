@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:crops/peas"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:stock"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/splitpeasoupitem",
+    "count": 1
+  }
+}

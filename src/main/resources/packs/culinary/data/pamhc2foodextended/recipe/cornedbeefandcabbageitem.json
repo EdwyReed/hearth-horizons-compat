@@ -1,0 +1,18 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "item": "pamhc2foodextended:cornedbeefitem"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/cornedbeefandcabbageitem",
+    "count": 1
+  }
+}

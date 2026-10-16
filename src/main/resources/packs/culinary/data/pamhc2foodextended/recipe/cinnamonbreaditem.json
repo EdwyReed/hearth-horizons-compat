@@ -1,0 +1,21 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:butter"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/cinnamonbreaditem",
+    "count": 1
+  }
+}

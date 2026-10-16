@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/mead",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "croptopia:food_press"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

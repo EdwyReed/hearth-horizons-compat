@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "pamhc2foodcore:freshwateritem"
+  },
+  "result": {
+    "count": 1,
+    "id": "croptopia:salt"
+  }
+}

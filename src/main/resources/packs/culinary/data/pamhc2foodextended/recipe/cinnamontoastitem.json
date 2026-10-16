@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:butter"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/cinnamontoastitem",
+    "count": 1
+  }
+}

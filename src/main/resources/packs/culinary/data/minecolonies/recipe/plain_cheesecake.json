@@ -1,0 +1,31 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/plain_cheesecake",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:creamcheese"
+    },
+    {
+      "item": "minecolonies:creamcheese"
+    },
+    {
+      "item": "minecolonies:durum"
+    },
+    {
+      "item": "minecolonies:butter"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

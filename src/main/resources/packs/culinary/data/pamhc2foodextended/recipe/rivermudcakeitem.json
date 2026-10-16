@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:cocoapowder"
+    },
+    {
+      "tag": "c:crops/coconut"
+    },
+    {
+      "tag": "c:marshmellows"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:butter"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/rivermudcakeitem",
+    "count": 1
+  }
+}

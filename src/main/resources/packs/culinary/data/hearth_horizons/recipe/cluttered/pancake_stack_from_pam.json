@@ -1,0 +1,19 @@
+{
+  "type": "hearth_horizons_compat:serving",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cluttered:pastry_plate"
+    },
+    {
+      "item": "pamhc2foodextended:pancakesitem"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "id": "cluttered:pancake_stack",
+    "count": 1
+  }
+}

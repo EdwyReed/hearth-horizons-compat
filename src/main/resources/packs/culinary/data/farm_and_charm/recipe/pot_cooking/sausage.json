@@ -1,0 +1,24 @@
+{
+  "type": "farm_and_charm:pot_cooking",
+  "ingredients": [
+    {
+      "item": "farm_and_charm:minced_beef"
+    },
+    {
+      "item": "farm_and_charm:minced_beef"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/lettuce"
+    }
+  ],
+  "requireContainer": true,
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "result": {
+    "id": "brewery:sausage",
+    "count": 1
+  },
+  "requiresLearning": false
+}

@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_compat:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/omuriceitem"
+  },
+  "result": {
+    "id": "pamhc2foodextended:omuriceitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/grape_jam",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:grapes"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:cooking_pot"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/culturalrecipes/empanada",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "culturaldelights:corn_dough"
+    },
+    {
+      "item": "culturaldelights:corn_dough"
+    },
+    {
+      "tag": "culturaldelights:avocados"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

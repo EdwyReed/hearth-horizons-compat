@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/croptopia/pork_and_beans"
+    }
+  ],
+  "result": {
+    "id": "croptopia:pork_and_beans",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

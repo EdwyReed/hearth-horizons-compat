@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:spices/groundnutmeg"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "item": "pamhc2foodextended:raisinsitem"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/spicebunitem",
+    "count": 1
+  }
+}

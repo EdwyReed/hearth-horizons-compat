@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "croptopiadelight:nuts"
+    },
+    {
+      "tag": "croptopiadelight:nuts"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:caramel"
+    },
+    {
+      "item": "croptopia:chocolate"
+    },
+    {
+      "tag": "hearth_horizons:culinary_salt"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:protein_bar",
+    "count": 3
+  }
+}

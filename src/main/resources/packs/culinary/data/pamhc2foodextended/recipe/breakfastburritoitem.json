@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:breakfastburritoitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:tortilla"
+    },
+    {
+      "tag": "c:scrambledegg"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/3"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/4"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

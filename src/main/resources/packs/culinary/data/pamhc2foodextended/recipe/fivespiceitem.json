@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_grinder"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:spices/groundnutmeg"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:fivespiceitem",
+    "count": 1
+  }
+}

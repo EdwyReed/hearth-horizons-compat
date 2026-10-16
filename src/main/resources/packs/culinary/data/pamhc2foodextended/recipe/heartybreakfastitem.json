@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:boiledegg"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "item": "pamhc2foodextended:potatocakesitem"
+    },
+    {
+      "item": "pamhc2foodextended:chocolatemilkitem"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/heartybreakfastitem",
+    "count": 1
+  }
+}

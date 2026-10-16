@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodcore/bread_dough"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bread",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

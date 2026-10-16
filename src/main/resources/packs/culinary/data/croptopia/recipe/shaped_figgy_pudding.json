@@ -1,0 +1,28 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/shaped_figgy_pudding",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:dates"
+    },
+    {
+      "tag": "c:figs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "croptopia:whipping_cream"
+    }
+  ]
+}

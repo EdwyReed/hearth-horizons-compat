@@ -1,0 +1,61 @@
+{
+  "version": "0.3.0",
+  "sha256": "f10b6752bc0d87fb0194d6409c8a575311c764e0843d3698a2b5f66e0d6f6bb8",
+  "class_count": 26,
+  "embedded_files": 766,
+  "recipes": 684,
+  "tags": 67,
+  "advancements": 3,
+  "approved_raw_assets_preserved": 6,
+  "runtime_verified": true,
+  "runtime": {
+    "jei-client-console.log": [
+      "JEI_QA_BOOTSTRAP copied world uses isolated vanilla flat generator",
+      "JEI_QA_SCREEN net.minecraft.client.gui.screens.LevelLoadingScreen",
+      "JEI_QA_SCREEN net.minecraft.client.gui.screens.ReceivingLevelScreen",
+      "JEI_QA_SCREEN world",
+      "JEI_QA_FOCUS raisin_oatmeal_cookie rawR=[croptopia:raisin_oatmeal_cookie] rawU=[hearth_horizons:baking/raisin_oatmeal_cookie] cookedR=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@21549eef, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@416aff03, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@3b01f94, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@d5fdc26, hearth_horizons:baking/raisin_oatmeal_cookie] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@21549eef, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@416aff03, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@3b01f94, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@d5fdc26, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@1f9f79d9]",
+      "JEI_QA_FOCUS cashew_chicken rawR=[croptopia:cashew_chicken] rawU=[hearth_horizons:frying/cashew_chicken] cookedR=[hearth_horizons:frying/cashew_chicken, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@416aff03, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@4a9399c6, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@d5fdc26, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@fc53642] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@416aff03, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@4a9399c6, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@d5fdc26, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@fc53642, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@3e5bf3bc]",
+      "JEI_QA_FOCUS shaped_beef_stir_fry rawR=[croptopia:shaped_beef_stir_fry] rawU=[hearth_horizons:frying/shaped_beef_stir_fry] cookedR=[hearth_horizons:frying/shaped_beef_stir_fry, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@4a9399c6, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@d5fdc26] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@4a9399c6, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@d5fdc26, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@190f20e0]",
+      "JEI_QA_INGREDIENTS six distinct raw/cooked entries; Russian name search; raw slots have no FOOD",
+      "JEI_QA_BOOKMARKS 6 distinct raw/cooked variants saved through native JEI bookmark config",
+      "JEI_QA_SCREEN net.minecraft.client.gui.screens.inventory.InventoryScreen",
+      "JEI_QA_SCREEN mezz.jei.gui.recipes.RecipesGui",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-preparations-list.png",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-raw-recipes.png",
+      "JEI_QA_SCREEN net.satisfy.farm_and_charm.client.gui.StoveGui",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-cooked-recipes.png",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-stove-transfer.png",
+      "JEI_QA_TRANSFER stove: raw transferred; cooked alternative rejected",
+      "JEI_QA_COMPLETE search/list, R/U, slots, native transfers, six raw/cooked bookmarks saved"
+    ],
+    "jei-client-restart-console.log": [
+      "JEI_QA_BOOTSTRAP copied world uses isolated vanilla flat generator",
+      "JEI_QA_SCREEN net.minecraft.client.gui.screens.LevelLoadingScreen",
+      "JEI_QA_SCREEN net.minecraft.client.gui.screens.ReceivingLevelScreen",
+      "JEI_QA_SCREEN world",
+      "JEI_QA_FOCUS raisin_oatmeal_cookie rawR=[croptopia:raisin_oatmeal_cookie] rawU=[hearth_horizons:baking/raisin_oatmeal_cookie] cookedR=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@1049b9cb, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@47a2cf67, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@cc5a604, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@47c574b3, hearth_horizons:baking/raisin_oatmeal_cookie] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@1049b9cb, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@47a2cf67, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@cc5a604, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@47c574b3, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@30e5c377]",
+      "JEI_QA_FOCUS cashew_chicken rawR=[croptopia:cashew_chicken] rawU=[hearth_horizons:frying/cashew_chicken] cookedR=[hearth_horizons:frying/cashew_chicken, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@1049b9cb, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@cc5a604, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@6d73b7f8, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@3bda6c40] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@1049b9cb, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@cc5a604, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@6d73b7f8, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@3bda6c40, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@1ad70289]",
+      "JEI_QA_FOCUS shaped_beef_stir_fry rawR=[croptopia:shaped_beef_stir_fry] rawU=[hearth_horizons:frying/shaped_beef_stir_fry] cookedR=[hearth_horizons:frying/shaped_beef_stir_fry, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@cc5a604, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@6d73b7f8] cookedU=[unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@cc5a604, unmapped:minecraft:tag_recipes/item:mezz.jei.library.plugins.jei.tags.TagInfoRecipe@6d73b7f8, unmapped:minecolonies:composting:com.minecolonies.api.crafting.CompostRecipe@248271c3]",
+      "JEI_QA_INGREDIENTS six distinct raw/cooked entries; Russian name search; raw slots have no FOOD",
+      "JEI_QA_BOOKMARKS 6 distinct raw/cooked variants restored after process restart",
+      "JEI_QA_SCREEN net.minecraft.client.gui.screens.inventory.InventoryScreen",
+      "JEI_QA_SCREEN mezz.jei.gui.recipes.RecipesGui",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-preparations-list.png",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-raw-recipes.png",
+      "JEI_QA_SCREEN net.satisfy.farm_and_charm.client.gui.StoveGui",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-cooked-recipes.png",
+      "JEI_QA_SCREENSHOT ?????? ?????? ???????? ??? jei-stove-transfer.png",
+      "JEI_QA_TRANSFER stove: raw transferred; cooked alternative rejected",
+      "JEI_QA_COMPLETE search/list, R/U, slots, native transfers, six raw/cooked bookmarks after restart"
+    ],
+    "server": [
+      "CULINARY_QA_RESOURCES 754 migration-manifest resources loaded at highest priority",
+      "CULINARY_QA_LOADED 645 unconditional recipes; 29 intentionally disabled recipes absent",
+      "CULINARY_QA_RECIPES 3 independent raw/cooked stages decoded; FOOD and 4/1/1 yields retained; no legacy migration recipes",
+      "SHELF_BULK_TEST 1000 shelves / 2000 jars setup+check+clear ms=141",
+      "[01:37:43] [Server thread/INFO] [minecraft/GameTestServer]: All 8 required tests passed :)",
+      "BUILD SUCCESSFUL in 55s"
+    ]
+  }
+}

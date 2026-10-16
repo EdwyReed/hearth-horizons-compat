@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_compat:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_compat:uncooked/croptopia/shaped_fish_and_chips"
+  },
+  "result": {
+    "id": "croptopia:fish_and_chips",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

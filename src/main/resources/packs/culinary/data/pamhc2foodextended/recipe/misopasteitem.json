@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/misopasteitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_grinder"
+    },
+    {
+      "tag": "c:crops/soybean"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

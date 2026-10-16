@@ -1,0 +1,22 @@
+{
+  "result": {
+    "id": "croptopia:mashed_potatoes",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/croptopia/mashed_potatoes/0"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    {
+      "item": "croptopia:mortar_and_pestle"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/bamboosteamedriceitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_grinder"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

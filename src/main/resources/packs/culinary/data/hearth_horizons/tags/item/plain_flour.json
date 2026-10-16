@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create:wheat_flour",
+    "croptopia:flour",
+    "farm_and_charm:flour",
+    "pamhc2foodcore:flouritem"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "item": "pamhc2foodextended:mochiitem"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:spices/vanilla"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/mochicakeitem",
+    "count": 1
+  }
+}

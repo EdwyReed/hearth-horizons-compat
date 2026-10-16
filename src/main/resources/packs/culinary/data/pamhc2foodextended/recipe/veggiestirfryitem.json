@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/bell_pepper"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/veggiestirfryitem",
+    "count": 1
+  }
+}

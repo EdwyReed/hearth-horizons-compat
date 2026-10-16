@@ -1,0 +1,21 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:fruits/cranberry"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:dough"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/cranberrypieitem",
+    "count": 1
+  }
+}

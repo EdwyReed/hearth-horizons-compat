@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:barley",
+    "croptopia:corn",
+    "croptopia:oat",
+    "croptopia:rice",
+    "farm_and_charm:barley",
+    "farm_and_charm:corn",
+    "farm_and_charm:oat",
+    "farmersdelight:rice",
+    "minecolonies:corn",
+    "minecolonies:rice",
+    "pamhc2crops:barleyitem",
+    "pamhc2crops:cornitem",
+    "pamhc2crops:oatsitem",
+    "pamhc2crops:riceitem",
+    "pamhc2crops:ryeitem",
+    "pamhc2crops:sweetpotatoitem"
+  ]
+}

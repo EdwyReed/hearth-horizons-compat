@@ -1,0 +1,933 @@
+{
+  "scope": "Current culinary pack references and mandatory code/mixin targets; project links read from native App cache",
+  "required_providers": [
+    {
+      "jar": "Aquaculture-1.21.1-2.7.21.jar",
+      "mod_ids": [
+        "aquaculture"
+      ],
+      "versions": {
+        "aquaculture": "2.7.21"
+      },
+      "project_id": "Vl1uNAuy",
+      "version_id": "5pbz0ETj",
+      "slug": "aquaculture",
+      "name": "Aquaculture 2",
+      "sha256": "45f00f9059838b2fecc988861111d8b3d4613a5f1b3688a8dbfa8655751b85bb",
+      "namespaces": [
+        "aquaculture",
+        "c",
+        "emi",
+        "fishingreal",
+        "minecraft",
+        "neoforge",
+        "origins"
+      ],
+      "required_namespaces": [
+        "aquaculture"
+      ]
+    },
+    {
+      "jar": "aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "mod_ids": [
+        "aquaculturedelight"
+      ],
+      "versions": {
+        "aquaculturedelight": "1.2.0"
+      },
+      "project_id": "U9GJqWrI",
+      "version_id": "VFpyJiVp",
+      "slug": "aquaculture-delight",
+      "name": "Aquaculture Delight",
+      "sha256": "0a0565d1a3801b00801ecec70dcb2c240e68bae9a41ffd4ffa6d0365226b9875",
+      "namespaces": [
+        "aquaculturedelight",
+        "c",
+        "farmersdelight",
+        "minecraft"
+      ],
+      "required_namespaces": [
+        "aquaculturedelight"
+      ]
+    },
+    {
+      "jar": "letsdo-bakery-neoforge-2.1.6.jar",
+      "mod_ids": [
+        "bakery"
+      ],
+      "versions": {
+        "bakery": "2.1.6"
+      },
+      "project_id": "oNB5jhlA",
+      "version_id": "toe1Cb0E",
+      "slug": "lets-do-bakery-farmcharm-compat",
+      "name": "[Let's Do] Bakery - Farm&Charm Compat",
+      "sha256": "bfe7f9b3ea104fb68303d49b7cda0876520a5504067b2ba0293965474aaef649",
+      "namespaces": [
+        "bakery",
+        "c",
+        "farm_and_charm",
+        "farmersdelight",
+        "minecraft"
+      ],
+      "required_namespaces": [
+        "bakery"
+      ]
+    },
+    {
+      "jar": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "mod_ids": [
+        "biomesoplenty"
+      ],
+      "versions": {
+        "biomesoplenty": "21.1.0.14"
+      },
+      "project_id": "HXF82T3G",
+      "version_id": "BtZKRp69",
+      "slug": "biomes-o-plenty",
+      "name": "Biomes O' Plenty",
+      "sha256": "5f3c8d752c2e0464eca8c9527d8ffe498129fd37a2fe86a266b64c98371763b1",
+      "namespaces": [
+        "biomesoplenty",
+        "c",
+        "minecraft",
+        "neoforge",
+        "sereneseasons",
+        "toughasnails"
+      ],
+      "required_namespaces": [
+        "biomesoplenty"
+      ]
+    },
+    {
+      "jar": "letsdo-brewery-neoforge-2.1.9.jar",
+      "mod_ids": [
+        "brewery"
+      ],
+      "versions": {
+        "brewery": "2.1.9"
+      },
+      "project_id": "b7NV2plI",
+      "version_id": "vzXZ4Pak",
+      "slug": "lets-do-brewery-farmcharm-compat",
+      "name": "[Let's Do] Brewery - Farm&Charm Compat",
+      "sha256": "7abbc2bb43fa319d4893e84b145b2cc803e6e61f5e6f0c37ec4611567a07ed66",
+      "namespaces": [
+        "brewery",
+        "c",
+        "farm_and_charm",
+        "minecraft",
+        "neoforge",
+        "vinery"
+      ],
+      "required_namespaces": [
+        "brewery"
+      ]
+    },
+    {
+      "jar": "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar",
+      "mod_ids": [
+        "brewinandchewin"
+      ],
+      "versions": {
+        "brewinandchewin": "4.4.2"
+      },
+      "project_id": "hIu9KJTT",
+      "version_id": "CKLYp96Y",
+      "slug": "brewin-and-chewin",
+      "name": "Brewin' And Chewin'",
+      "sha256": "2164f5c859b928d689f6cef566081f0db5b3339d401ef84eee84b2c28ffa8105",
+      "namespaces": [
+        "brewinandchewin",
+        "c",
+        "emi",
+        "farmersdelight",
+        "minecraft",
+        "neoforge",
+        "origins"
+      ],
+      "required_namespaces": [
+        "brewinandchewin"
+      ]
+    },
+    {
+      "jar": "cluttered-NeoForge-3.0.3-1.21.1.jar",
+      "mod_ids": [
+        "cluttered"
+      ],
+      "versions": {
+        "cluttered": "3.0.3-1.21.1"
+      },
+      "project_id": "UnAEo77V",
+      "version_id": "xzERbfOO",
+      "slug": "cluttered",
+      "name": "Cluttered",
+      "sha256": "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f",
+      "namespaces": [
+        "c",
+        "cluttered",
+        "forge",
+        "minecraft",
+        "neoforge"
+      ],
+      "required_namespaces": [
+        "cluttered"
+      ]
+    },
+    {
+      "jar": "moredelight-26.04.30-1.21-neoforge.jar",
+      "mod_ids": [
+        "moredelight"
+      ],
+      "versions": {
+        "moredelight": "26.04.30-1.21-neoforge"
+      },
+      "project_id": "znHQQtuU",
+      "version_id": "R5Aa0HDI",
+      "slug": "more-delight",
+      "name": "More Delight (for Farmer's Delight)",
+      "sha256": "fe31da3dde54d204614f5d13dc604ef185568a4c83f2a569c47a2b27833c1cee",
+      "namespaces": [
+        "c",
+        "casualness_delight",
+        "corn_delight",
+        "create",
+        "expandeddelight",
+        "farmersdelight",
+        "moredelight",
+        "someassemblyrequired",
+        "supplementaries"
+      ],
+      "required_namespaces": [
+        "corn_delight",
+        "moredelight"
+      ]
+    },
+    {
+      "jar": "crabbersdelight-1.21.1-1.2.6.jar",
+      "mod_ids": [
+        "crabbersdelight"
+      ],
+      "versions": {
+        "crabbersdelight": "1.2.6"
+      },
+      "project_id": "gBGdVBJy",
+      "version_id": "uwSpUkrQ",
+      "slug": "crabbers-delight",
+      "name": "Crabber's Delight",
+      "sha256": "dde14329fa2ee127a76c27af4dad2608c3405d3639260478f765b5d819f69dc4",
+      "namespaces": [
+        "c",
+        "crabbersdelight",
+        "farmersdelight",
+        "minecraft",
+        "neoforge"
+      ],
+      "required_namespaces": [
+        "crabbersdelight"
+      ]
+    },
+    {
+      "jar": "cratedelight-25.09.22-1.21-neoforge.jar",
+      "mod_ids": [
+        "cratedelight"
+      ],
+      "versions": {
+        "cratedelight": "25.09.22-1.21-neoforge"
+      },
+      "project_id": "9rlXSyLg",
+      "version_id": "YYynf5qc",
+      "slug": "crate-delight",
+      "name": "Crate Delight",
+      "sha256": "10ad1481e3613c92e942230c998a4bbfbd316ecfa5cfdce53f89113ce6d2784b",
+      "namespaces": [
+        "cratedelight",
+        "expandeddelight",
+        "minecraft"
+      ],
+      "required_namespaces": [
+        "cratedelight"
+      ]
+    },
+    {
+      "jar": "create-1.21.1-6.0.10.jar",
+      "mod_ids": [
+        "create"
+      ],
+      "versions": {
+        "create": "6.0.10"
+      },
+      "project_id": "LNytGWDc",
+      "version_id": "UjX6dr61",
+      "slug": "create",
+      "name": "Create",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "namespaces": [
+        "c",
+        "create",
+        "curios",
+        "minecraft",
+        "neoforge",
+        "quark"
+      ],
+      "required_namespaces": [
+        "create"
+      ]
+    },
+    {
+      "jar": "createaddition-1.5.10.jar",
+      "mod_ids": [
+        "createaddition"
+      ],
+      "versions": {
+        "createaddition": "1.5.10"
+      },
+      "project_id": "kU1G12Nn",
+      "version_id": "CP8Lhuwu",
+      "slug": "createaddition",
+      "name": "Create Crafts & Additions",
+      "sha256": "72653762c1014c33ce151858d1478573dbd74cbc23c74ffe1fb2d71fb73627ee",
+      "namespaces": [
+        "c",
+        "create",
+        "createaddition",
+        "farmersdelight",
+        "minecraft"
+      ],
+      "required_namespaces": [
+        "createaddition"
+      ]
+    },
+    {
+      "jar": "createdieselgenerators-1.21.1-1.3.11.jar",
+      "mod_ids": [
+        "createdieselgenerators"
+      ],
+      "versions": {
+        "createdieselgenerators": "1.21.1-1.3.11"
+      },
+      "project_id": "ZM3tt6p1",
+      "version_id": "uxgzKkcD",
+      "slug": "create-diesel-generators",
+      "name": "Create: Diesel Generators",
+      "sha256": "8e5e0cb90cd1fd6336f22994d6c6a31dd56373096275b80910c6983a4dccc864",
+      "namespaces": [
+        "c",
+        "create",
+        "createdieselgenerators",
+        "everycomp",
+        "farmersdelight",
+        "immersiveengineering",
+        "minecraft",
+        "quark"
+      ],
+      "required_namespaces": [
+        "createdieselgenerators"
+      ]
+    },
+    {
+      "jar": "croptopia_1.21.1_NEO-FORGE-4.2.1.jar",
+      "mod_ids": [
+        "croptopia"
+      ],
+      "versions": {
+        "croptopia": "4.2.1"
+      },
+      "project_id": null,
+      "version_id": null,
+      "slug": null,
+      "name": "croptopia",
+      "sha256": "b1a6629ea0ebee05ca5e1ac8205e3205e2f292a8953c7614afcadf29cd06954d",
+      "namespaces": [
+        "c",
+        "croptopia",
+        "minecraft",
+        "neoforge",
+        "sereneseasons"
+      ],
+      "required_namespaces": [
+        "croptopia"
+      ]
+    },
+    {
+      "jar": "croptopiadelight-1.0.1.jar",
+      "mod_ids": [
+        "croptopiadelight"
+      ],
+      "versions": {
+        "croptopiadelight": "1.0.1"
+      },
+      "project_id": "z2Ihxkgp",
+      "version_id": "hJg4PBcW",
+      "slug": "croptopia-delight",
+      "name": "Croptopia Delight",
+      "sha256": "cbae16cb8c8f064bb8c13698dbfd1d7c894ae0e8ae55c752e2dff56466c3979c",
+      "namespaces": [
+        "croptopia",
+        "croptopiadelight",
+        "farmersdelight"
+      ],
+      "required_namespaces": [
+        "croptopiadelight"
+      ]
+    },
+    {
+      "jar": "cuisinedelight-1.2.8.jar",
+      "mod_ids": [
+        "cuisinedelight"
+      ],
+      "versions": {
+        "cuisinedelight": "1.2.8"
+      },
+      "project_id": "gOQjCAAD",
+      "version_id": "Ngn5DVCK",
+      "slug": "cuisine-delight",
+      "name": "Cuisine Delight",
+      "sha256": "a68bcd1368de57ecdce49d61fe19d77a7404d7180de19cfbc25f3e6ce1b1117f",
+      "namespaces": [
+        "alexsdelight",
+        "alexsmobs",
+        "c",
+        "croptopia",
+        "cuisinedelight",
+        "ends_delight",
+        "farmersdelight",
+        "miners_delight",
+        "nethersdelight",
+        "oceansdelight"
+      ],
+      "required_namespaces": [
+        "cuisinedelight"
+      ]
+    },
+    {
+      "jar": "culturaldelights-0.17.7.jar",
+      "mod_ids": [
+        "culturaldelights"
+      ],
+      "versions": {
+        "culturaldelights": "0.17.7"
+      },
+      "project_id": "YttyNOFA",
+      "version_id": "ymOecmAu",
+      "slug": "cultural-delights",
+      "name": "Cultural Delights",
+      "sha256": "8627444fdc790a7456086154d4619d05bdc352e0d8119c6351ab1467051f03ed",
+      "namespaces": [
+        "culturaldelights",
+        "culturalrecipes",
+        "farmersdelight",
+        "minecraft",
+        "neoforge"
+      ],
+      "required_namespaces": [
+        "culturaldelights"
+      ]
+    },
+    {
+      "jar": "enchanted-neoforge-1.21.1-4.2.7.jar",
+      "mod_ids": [
+        "enchanted"
+      ],
+      "versions": {
+        "enchanted": "4.2.7"
+      },
+      "project_id": "HsbpdVo9",
+      "version_id": "HCjdv5KS",
+      "slug": "enchanted-witchcraft",
+      "name": "Enchanted: Witchcraft",
+      "sha256": "205a3e1edb7e53e9bbf3b8ab965ac5eb3840bc43760e1b003200e4735ebf1bb0",
+      "namespaces": [
+        "c",
+        "enchanted",
+        "forge",
+        "minecraft",
+        "neoforge"
+      ],
+      "required_namespaces": [
+        "enchanted"
+      ]
+    },
+    {
+      "jar": "environmental-1.21.1-5.0.1.jar",
+      "mod_ids": [
+        "environmental"
+      ],
+      "versions": {
+        "environmental": "5.0.1"
+      },
+      "project_id": "OqtiAZcV",
+      "version_id": "NdDV1AM8",
+      "slug": "environmental",
+      "name": "Environmental",
+      "sha256": "d0578ab961461bc25ee59d86c44f3b90565e4782cab431dfd897f50080d5988b",
+      "namespaces": [
+        "atmospheric",
+        "blueprint",
+        "boatload",
+        "c",
+        "environmental",
+        "farmersdelight",
+        "forge",
+        "minecraft",
+        "neoforge",
+        "woodworks"
+      ],
+      "required_namespaces": [
+        "environmental"
+      ]
+    },
+    {
+      "jar": "expandeddelight-0.1.4.jar",
+      "mod_ids": [
+        "expandeddelight"
+      ],
+      "versions": {
+        "expandeddelight": "0.1.4"
+      },
+      "project_id": "e9V6wFcR",
+      "version_id": "RTRYPIJp",
+      "slug": "expanded-delight",
+      "name": "Expanded Delight",
+      "sha256": "35e9f833432a7a7d25c24e85289a6f58e2cbe2e1cf43b9c0cfef7d5752d04394",
+      "namespaces": [
+        "c",
+        "create",
+        "expandeddelight",
+        "farmersdelight",
+        "farmersrespite",
+        "minecraft",
+        "neoforge",
+        "sereneseasons",
+        "supplementaries",
+        "toughasnails"
+      ],
+      "required_namespaces": [
+        "expandeddelight"
+      ]
+    },
+    {
+      "jar": "letsdo-farm_and_charm-neoforge-1.1.22.jar",
+      "mod_ids": [
+        "farm_and_charm"
+      ],
+      "versions": {
+        "farm_and_charm": "1.1.22"
+      },
+      "project_id": "HJetCzWo",
+      "version_id": "ptvlHtBI",
+      "slug": "lets-do-farm-charm",
+      "name": "[Let's Do] Farm & Charm",
+      "sha256": "2fe62301c96883689bee28a7eac4b05ea026990c26b51d06a124a4bd3a1b5293",
+      "namespaces": [
+        "c",
+        "create",
+        "diet",
+        "farm_and_charm",
+        "minecraft",
+        "neoforge",
+        "origins",
+        "sereneseasons"
+      ],
+      "required_namespaces": [
+        "farm_and_charm"
+      ]
+    },
+    {
+      "jar": "FarmersDelight-1.21.1-1.3.1.jar",
+      "mod_ids": [
+        "farmersdelight"
+      ],
+      "versions": {
+        "farmersdelight": "1.3.1"
+      },
+      "project_id": "R2OftAxM",
+      "version_id": "9gp7w8NC",
+      "slug": "farmers-delight",
+      "name": "Farmer's Delight",
+      "sha256": "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4",
+      "namespaces": [
+        "c",
+        "create",
+        "createaddition",
+        "emi",
+        "farmersdelight",
+        "forge",
+        "minecraft",
+        "neoforge",
+        "origins",
+        "sereneseasons",
+        "tconstruct"
+      ],
+      "required_namespaces": [
+        "farmersdelight"
+      ]
+    },
+    {
+      "jar": "farmersdelight_extended-1.21.1-0.2.2.jar",
+      "mod_ids": [
+        "farmersdelight_extended"
+      ],
+      "versions": {
+        "farmersdelight_extended": "1.21.1-0.2.2"
+      },
+      "project_id": "CxjQ2P6f",
+      "version_id": "3zUEyjxn",
+      "slug": "farmers-delight-extended",
+      "name": "Farmer's Delight: Extended",
+      "sha256": "945a30d613fdcfb207fce86904f7befb563f4673cc4039bf9d41812bd15f996a",
+      "namespaces": [
+        "farmersdelight_extended"
+      ],
+      "required_namespaces": [
+        "farmersdelight_extended"
+      ]
+    },
+    {
+      "jar": "letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "mod_ids": [
+        "herbalbrews"
+      ],
+      "versions": {
+        "herbalbrews": "1.1.3"
+      },
+      "project_id": "Eh11TaTm",
+      "version_id": "gtG21Zrn",
+      "slug": "lets-do-herbalbrews",
+      "name": "[Let's Do] HerbalBrews",
+      "sha256": "053ecf864dc1b1624b0fb78a552a086ee9da21c1c81ce5a75aad61ec2bfebf24",
+      "namespaces": [
+        "c",
+        "farmersdelight",
+        "forge",
+        "herbalbrews",
+        "minecraft"
+      ],
+      "required_namespaces": [
+        "herbalbrews"
+      ]
+    },
+    {
+      "jar": "hexerei-0.5.0.3.jar",
+      "mod_ids": [
+        "hexerei"
+      ],
+      "versions": {
+        "hexerei": "0.5"
+      },
+      "project_id": "IQSOHVhI",
+      "version_id": "9KSwA9O9",
+      "slug": "hexerei",
+      "name": "Hexerei",
+      "sha256": "743e80cb0526fa5fffdb660c5c3230df47d664fb268e48ca888771c4cf594240",
+      "namespaces": [
+        "curios",
+        "hexerei",
+        "identity",
+        "minecraft",
+        "neoforge"
+      ],
+      "required_namespaces": [
+        "hexerei"
+      ]
+    },
+    {
+      "jar": "ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+      "mod_ids": [
+        "immersiveengineering"
+      ],
+      "versions": {
+        "immersiveengineering": "12.4.2-194"
+      },
+      "project_id": "tIm2nV03",
+      "version_id": "uNRARSH2",
+      "slug": "immersiveengineering",
+      "name": "Immersive Engineering",
+      "sha256": "45942985a4a4aebf265b8e22a0c54a96208637471f36f2532ff5d4911322debc",
+      "namespaces": [
+        "c",
+        "chiselsandbits",
+        "curios",
+        "immersiveengineering",
+        "minecraft",
+        "neoforge",
+        "tconstruct"
+      ],
+      "required_namespaces": [
+        "immersiveengineering"
+      ]
+    },
+    {
+      "jar": "minecolonies-1.1.1300-1.21.1.jar",
+      "mod_ids": [
+        "minecolonies"
+      ],
+      "versions": {
+        "minecolonies": "1.1.1300-1.21.1"
+      },
+      "project_id": null,
+      "version_id": null,
+      "slug": null,
+      "name": "minecolonies",
+      "sha256": "d15de208cc2a0f49c4cf03b449a1c37ec43c6c1b666625cdddf022b940c8b1ee",
+      "namespaces": [
+        "c",
+        "dynamictrees",
+        "minecolonies",
+        "minecraft",
+        "neoforge",
+        "structurize"
+      ],
+      "required_namespaces": [
+        "minecolonies"
+      ]
+    },
+    {
+      "jar": "moonlight-neoforge-1.21.1-3.0.7.jar",
+      "mod_ids": [
+        "moonlight"
+      ],
+      "versions": {
+        "moonlight": "1.21.1-3.0.7"
+      },
+      "project_id": "twkfQtEc",
+      "version_id": "GjDWHqm5",
+      "slug": "moonlight",
+      "name": "Moonlight Lib",
+      "sha256": "1027c58f92a85b34c74cb0e10e0a2f9b4bbdfb4ce6b999bcb58012bbfc4209d3",
+      "namespaces": [
+        "c",
+        "minecraft",
+        "moonlight"
+      ],
+      "required_namespaces": [
+        "moonlight"
+      ]
+    },
+    {
+      "jar": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "mod_ids": [
+        "oceansdelight"
+      ],
+      "versions": {
+        "oceansdelight": "1.0.4"
+      },
+      "project_id": "DGiq4ZSW",
+      "version_id": "ja5Qg1xw",
+      "slug": "oceans-delight",
+      "name": "Ocean's Delight",
+      "sha256": "30fec2263f77bcd4002995d9fc127a911c964317dbd0e3c54e348954d1722d38",
+      "namespaces": [
+        "diet",
+        "farmersdelight",
+        "minecraft",
+        "neoforge",
+        "oceansdelight"
+      ],
+      "required_namespaces": [
+        "oceansdelight"
+      ]
+    },
+    {
+      "jar": "pamhc2crops-NEOFORGE-1.21.1-1.0.0.jar",
+      "mod_ids": [
+        "pamhc2crops"
+      ],
+      "versions": {
+        "pamhc2crops": "1.0.0"
+      },
+      "project_id": "5xO6VNlk",
+      "version_id": "zlZevQk0",
+      "slug": "pams-harvestcraft-2-crops",
+      "name": "Pam's HarvestCraft 2: Crops",
+      "sha256": "9134ae712fdda6d3cf8b76b3de18c0da3220c39df5288562e3ce149bdd717375",
+      "namespaces": [
+        "c",
+        "pamhc2crops"
+      ],
+      "required_namespaces": [
+        "pamhc2crops"
+      ]
+    },
+    {
+      "jar": "pamhc2foodcore-NEOFORGE-1.21.1-1.0.2.jar",
+      "mod_ids": [
+        "pamhc2foodcore"
+      ],
+      "versions": {
+        "pamhc2foodcore": "1.0.2"
+      },
+      "project_id": "Z9OywhE4",
+      "version_id": "IHVdcpYW",
+      "slug": "pams-harvestcraft-2-food-core",
+      "name": "Pam's HarvestCraft 2: Food Core",
+      "sha256": "a379eb9a0fe2d6542133194a0c3a176aa85f2bc47f6eea2be5378454bcba7306",
+      "namespaces": [
+        "c",
+        "minecraft",
+        "pamhc2foodcore"
+      ],
+      "required_namespaces": [
+        "pamhc2foodcore"
+      ]
+    },
+    {
+      "jar": "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
+      "mod_ids": [
+        "pamhc2foodextended"
+      ],
+      "versions": {
+        "pamhc2foodextended": "1.0.0"
+      },
+      "project_id": "bdPeAbPS",
+      "version_id": "8Jv3MDxv",
+      "slug": "pams-harvestcraft-2-food-extended",
+      "name": "Pam's HarvestCraft 2 - Food Extended",
+      "sha256": "d61dda7d00ab69bfaef45854df01ab6cfd64243d7f9a5ae870c89dd954247a8c",
+      "namespaces": [
+        "c",
+        "pamhc2foodextended"
+      ],
+      "required_namespaces": [
+        "pamhc2foodextended"
+      ]
+    },
+    {
+      "jar": "pamhc2trees-NEOFORGE-1.21.1-1.0.4.jar",
+      "mod_ids": [
+        "pamhc2trees"
+      ],
+      "versions": {
+        "pamhc2trees": "1.0.4"
+      },
+      "project_id": "KDzWXxuG",
+      "version_id": "8AQrMyL9",
+      "slug": "pams-harvestcraft-2-trees",
+      "name": "Pam's HarvestCraft 2 - Trees",
+      "sha256": "c652e9606336ba207ba4587803be7124b4aa5cabeaee471743903fdff7148d6b",
+      "namespaces": [
+        "c",
+        "minecraft",
+        "pamhc2trees"
+      ],
+      "required_namespaces": [
+        "pamhc2trees"
+      ]
+    },
+    {
+      "jar": "pineapple_delight-1.1.2-1.21.1-neoforge.jar",
+      "mod_ids": [
+        "pineapple_delight"
+      ],
+      "versions": {
+        "pineapple_delight": "1.1.2-1.21.1-neoforge"
+      },
+      "project_id": "8wXnuOvg",
+      "version_id": "GYMvjFwu",
+      "slug": "pineapple-delight",
+      "name": "Pineapple Delight",
+      "sha256": "1bad52a93408b6dc86db5aa29a97a006e29948c4e4f283546eecdb45e5d38e6f",
+      "namespaces": [
+        "c",
+        "pineapple_delight"
+      ],
+      "required_namespaces": [
+        "pineapple_delight"
+      ]
+    },
+    {
+      "jar": "rusticdelight-neoforge-1.21-1.6.0.jar",
+      "mod_ids": [
+        "rusticdelight"
+      ],
+      "versions": {
+        "rusticdelight": "1.6.0"
+      },
+      "project_id": "foa4fGIH",
+      "version_id": "1h2Mvp8M",
+      "slug": "rustic-delight",
+      "name": "Rustic Delight",
+      "sha256": "83af0c4d7fb2cd92006bbf39338bab58d168480b961920aa0d81765e3fc060f1",
+      "namespaces": [
+        "botanypots",
+        "brewinandchewin",
+        "c",
+        "create",
+        "farmersdelight",
+        "forge",
+        "frycooks_delight",
+        "minecraft",
+        "neoforge",
+        "rusticdelight",
+        "sereneseasons"
+      ],
+      "required_namespaces": [
+        "rusticdelight"
+      ]
+    },
+    {
+      "jar": "supplementaries-neoforge-1.21.1-3.6.4.jar",
+      "mod_ids": [
+        "supplementaries"
+      ],
+      "versions": {
+        "supplementaries": "1.21.1-3.6.4"
+      },
+      "project_id": "fFEIiSDQ",
+      "version_id": "3N4gijtd",
+      "slug": "supplementaries",
+      "name": "Supplementaries",
+      "sha256": "e3b73e3c5f9e5cc7bf8ac17c5261faf319cb471ee5a2bbb4e5dfbecff6d80f95",
+      "namespaces": [
+        "amendments",
+        "c",
+        "create",
+        "curios",
+        "dynamictrees",
+        "farmersdelight",
+        "minecraft",
+        "neapolitan",
+        "neoforge",
+        "quark",
+        "sable",
+        "sereneseasons",
+        "supplementaries",
+        "trinkets",
+        "vslab_compat"
+      ],
+      "required_namespaces": [
+        "supplementaries"
+      ]
+    },
+    {
+      "jar": "letsdo-vinery-neoforge-1.5.3.jar",
+      "mod_ids": [
+        "vinery"
+      ],
+      "versions": {
+        "vinery": "1.5.3"
+      },
+      "project_id": "1DWmBJVA",
+      "version_id": "ZywXpLC6",
+      "slug": "lets-do-vinery",
+      "name": "[Let's Do] Vinery",
+      "sha256": "d0348d1bbf15cd7f8ec5821457887240150d073fb5f612bc70f9517515225d10",
+      "namespaces": [
+        "c",
+        "candlelight",
+        "create",
+        "minecraft",
+        "neoforge",
+        "vinery"
+      ],
+      "required_namespaces": [
+        "vinery"
+      ]
+    }
+  ],
+  "optional_providers": [
+    "jei",
+    "streamsreflowing"
+  ],
+  "unresolved": []
+}

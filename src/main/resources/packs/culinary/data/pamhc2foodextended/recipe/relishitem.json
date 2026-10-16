@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_juicer"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:relishitem",
+    "count": 1
+  }
+}

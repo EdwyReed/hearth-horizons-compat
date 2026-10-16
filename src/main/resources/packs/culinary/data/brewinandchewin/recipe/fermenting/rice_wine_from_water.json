@@ -1,0 +1,26 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "tag": "#c:water"
+    },
+    "unit": "millibuckets"
+  },
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    [],
+    []
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "brewinandchewin:rice_wine"
+  },
+  "unit": "millibuckets"
+}

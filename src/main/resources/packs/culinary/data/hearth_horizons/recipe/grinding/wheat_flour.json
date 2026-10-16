@@ -1,0 +1,13 @@
+{
+  "type": "hexerei:pestle_and_mortar",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/ordinary_flour_cereals"
+    }
+  ],
+  "output": {
+    "id": "create:wheat_flour",
+    "count": 1
+  },
+  "grindingTime": 200
+}

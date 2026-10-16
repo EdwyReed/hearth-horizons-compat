@@ -1,0 +1,31 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/croque_madame",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "croptopia:pork_replacements"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:butters"
+    }
+  ]
+}

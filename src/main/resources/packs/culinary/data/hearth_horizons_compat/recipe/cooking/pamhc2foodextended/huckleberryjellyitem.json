@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/huckleberryjellyitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:huckleberryjellyitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

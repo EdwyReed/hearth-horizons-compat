@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:crops/cashew"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/peppers"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/cashewchickenitem",
+    "count": 1
+  }
+}
