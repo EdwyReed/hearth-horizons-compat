@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/chickenparmasanitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chickenparmasanitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

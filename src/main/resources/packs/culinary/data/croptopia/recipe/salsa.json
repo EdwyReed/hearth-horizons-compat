@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "tag": "croptopiadelight:tomatillo"
+    },
+    {
+      "item": "croptopia:lime"
+    },
+    {
+      "tag": "hearth_horizons:culinary_salt"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:salsa",
+    "count": 4
+  }
+}

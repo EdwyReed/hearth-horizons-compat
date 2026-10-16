@@ -1,0 +1,16 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodcore/yogurtitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:yogurtitem",
+    "count": 1
+  },
+  "experience": 0,
+  "fermenting_time": 12000,
+  "temperature": 2,
+  "category": "meals"
+}

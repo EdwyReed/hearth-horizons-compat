@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecraft/pumpkin_pie",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:pumpkins/normal"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

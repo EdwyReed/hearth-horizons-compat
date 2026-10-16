@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:bulgogiitem"
+    },
+    {
+      "item": "pamhc2foodextended:omuriceitem"
+    },
+    {
+      "item": "pamhc2foodextended:kimchiitem"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:koreandinneritem",
+    "count": 1
+  }
+}

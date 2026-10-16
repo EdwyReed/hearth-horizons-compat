@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/carnitas",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "tag": "c:tortillas"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

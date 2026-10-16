@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/briochebunitem",
+    "count": 1
+  }
+}

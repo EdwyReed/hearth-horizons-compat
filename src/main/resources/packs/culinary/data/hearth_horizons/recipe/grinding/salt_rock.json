@@ -1,0 +1,13 @@
+{
+  "type": "hexerei:pestle_and_mortar",
+  "grindingTime": 200,
+  "ingredients": [
+    {
+      "item": "expandeddelight:salt_rock"
+    }
+  ],
+  "output": {
+    "id": "expandeddelight:salt",
+    "count": 2
+  }
+}

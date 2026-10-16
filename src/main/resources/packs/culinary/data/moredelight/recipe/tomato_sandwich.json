@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:bread_slices"
+    },
+    {
+      "tag": "c:bread_slices"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "moredelight:tomato_sandwich"
+  }
+}

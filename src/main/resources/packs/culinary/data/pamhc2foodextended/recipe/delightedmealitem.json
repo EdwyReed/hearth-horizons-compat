@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:delightedmealitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:sodas"
+    },
+    {
+      "item": "pamhc2foodextended:mcpamitem"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

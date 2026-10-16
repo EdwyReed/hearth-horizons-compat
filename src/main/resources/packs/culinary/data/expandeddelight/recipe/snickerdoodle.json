@@ -1,0 +1,19 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/expandeddelight/snickerdoodle",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/wheat"
+    },
+    {
+      "item": "expandeddelight:cinnamon"
+    },
+    {
+      "tag": "hearth_horizons:grains/wheat"
+    }
+  ]
+}

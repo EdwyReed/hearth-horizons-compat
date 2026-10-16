@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:crops/broccoli"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/generaltsochickenitem",
+    "count": 1
+  }
+}

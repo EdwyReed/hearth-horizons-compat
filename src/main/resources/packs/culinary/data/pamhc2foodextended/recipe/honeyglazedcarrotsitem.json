@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:honey"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:crops/lemon"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/honeyglazedcarrotsitem",
+    "count": 1
+  }
+}

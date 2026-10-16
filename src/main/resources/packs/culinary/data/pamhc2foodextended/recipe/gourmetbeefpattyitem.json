@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/gourmetbeefpattyitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "c:groundmeats/groundbeef"
+    },
+    {
+      "tag": "c:spices/saltandpepper"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/mustardseeds"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

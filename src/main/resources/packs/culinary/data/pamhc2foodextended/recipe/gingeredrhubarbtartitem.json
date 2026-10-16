@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/rhubarb"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/gingeredrhubarbtartitem",
+    "count": 1
+  }
+}

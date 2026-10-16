@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/pepperonipizzaitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pepperonipizzaitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

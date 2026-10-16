@@ -1,0 +1,36 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:groundmeats/groundbeef"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:spices/groundnutmeg"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/swedishmeatballsitem",
+    "count": 1
+  }
+}

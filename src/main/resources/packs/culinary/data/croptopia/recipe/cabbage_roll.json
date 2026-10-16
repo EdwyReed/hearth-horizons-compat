@@ -1,0 +1,37 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/cabbage_roll",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    }
+  ]
+}

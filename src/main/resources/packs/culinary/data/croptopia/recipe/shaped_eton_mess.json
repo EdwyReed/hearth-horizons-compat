@@ -1,0 +1,28 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/shaped_eton_mess",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:strawberries"
+    },
+    {
+      "item": "croptopia:whipping_cream"
+    },
+    {
+      "tag": "c:strawberries"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ]
+}

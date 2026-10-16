@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "tag": "c:crops/cashew"
+    },
+    {
+      "tag": "c:condiments/oystersauce"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/springfieldcashewchickenitem",
+    "count": 1
+  }
+}

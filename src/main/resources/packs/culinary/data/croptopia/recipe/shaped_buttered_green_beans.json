@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    },
+    {
+      "tag": "croptopiadelight:greenbean"
+    },
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "hearth_horizons:culinary_salt"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:buttered_green_beans"
+  }
+}

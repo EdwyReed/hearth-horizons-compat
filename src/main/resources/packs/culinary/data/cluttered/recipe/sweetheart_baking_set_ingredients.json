@@ -1,0 +1,25 @@
+{
+  "type": "hearth_horizons_compat:serving",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "hearth_horizons:plain_flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "result": {
+    "id": "cluttered:sweetheart_baking_set_ingredients",
+    "count": 1
+  }
+}

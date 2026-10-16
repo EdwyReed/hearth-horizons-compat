@@ -1,0 +1,38 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:culinary_salt"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "pamhc2foodcore:freshwateritem"
+        },
+        {
+          "type": "neoforge:components",
+          "items": "minecraft:potion",
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "strict": false
+        }
+      ]
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:steamed_rice"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:ploughmanslunchitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:crops/apple"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "item": "pamhc2foodextended:sweetpickleitem"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/ploughmanslunchitem/6"
+    },
+    {
+      "tag": "c:boiledegg"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "hearth_horizons_compat:skillet",
+  "ingredient": {
+    "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/grilledskewersitem"
+  },
+  "result": {
+    "id": "pamhc2foodextended:grilledskewersitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200,
+  "category": "food"
+}

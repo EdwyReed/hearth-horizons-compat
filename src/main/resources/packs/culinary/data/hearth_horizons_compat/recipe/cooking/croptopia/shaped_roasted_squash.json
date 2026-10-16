@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/croptopia/shaped_roasted_squash"
+    }
+  ],
+  "result": {
+    "id": "croptopia:roasted_squash",
+    "count": 2
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

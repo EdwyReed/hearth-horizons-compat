@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:condiments/mustard"
+    },
+    {
+      "tag": "c:crops/broccoli"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/spicygreensitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/strawberryjellyitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:strawberryjellyitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

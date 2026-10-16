@@ -1,0 +1,18 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodextended:mushroomketchupitem"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/mushroomketchupomeletitem",
+    "count": 1
+  }
+}

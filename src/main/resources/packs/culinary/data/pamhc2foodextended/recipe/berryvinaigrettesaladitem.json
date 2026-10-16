@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:berryvinaigrettesaladitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/berryvinaigrettesaladitem/1"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+    },
+    {
+      "tag": "c:juices"
+    },
+    {
+      "tag": "c:vinegar"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

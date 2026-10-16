@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/blackberry_jam",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:blackberries"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:cooking_pot"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

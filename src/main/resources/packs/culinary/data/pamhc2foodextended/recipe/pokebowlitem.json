@@ -1,0 +1,31 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:pokebowlitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/pokebowlitem/2"
+    },
+    {
+      "tag": "c:crops/soybean"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    },
+    {
+      "tag": "c:crops/scallion"
+    },
+    {
+      "tag": "c:condiments/soysauce"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

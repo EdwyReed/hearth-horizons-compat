@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:basichamburgeritem"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:jalapenoburgeritem",
+    "count": 1
+  }
+}

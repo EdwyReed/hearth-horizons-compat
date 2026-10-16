@@ -1,0 +1,33 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "item": "pamhc2foodextended:pinkelitem"
+    },
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:sausage"
+    },
+    {
+      "tag": "c:crops/kale"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/kohlundpinkelitem",
+    "count": 1
+  }
+}

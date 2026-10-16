@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/brownies",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    {
+      "tag": "c:chocolates"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

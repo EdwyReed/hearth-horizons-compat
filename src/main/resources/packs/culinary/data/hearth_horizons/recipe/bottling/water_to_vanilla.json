@@ -1,0 +1,17 @@
+{
+  "type": "minecolonies:zero_waste",
+  "ingredients": [
+    {
+      "item": "croptopia:water_bottle"
+    }
+  ],
+  "result": {
+    "id": "minecraft:potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:water"
+      }
+    }
+  }
+}

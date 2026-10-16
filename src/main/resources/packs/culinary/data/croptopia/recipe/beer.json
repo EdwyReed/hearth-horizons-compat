@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/beer",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "c:hops"
+    },
+    {
+      "tag": "hearth_horizons:grains/barley"
+    },
+    {
+      "item": "croptopia:food_press"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

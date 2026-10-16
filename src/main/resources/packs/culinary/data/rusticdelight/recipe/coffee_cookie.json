@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/rusticdelight/coffee_cookie",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "rusticdelight:coffee_ingredients"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

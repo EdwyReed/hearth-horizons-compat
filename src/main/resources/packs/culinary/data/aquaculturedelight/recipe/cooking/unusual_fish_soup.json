@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_piranha"
+    },
+    {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "hearth_horizons:vegetables/category/food_vegetable"
+      },
+      "subtracted": {
+        "item": "minecraft:melon_slice"
+      }
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "aquaculturedelight:unusual_fish_soup"
+  },
+  "container": {
+    "id": "minecraft:bowl"
+  }
+}

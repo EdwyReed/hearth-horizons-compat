@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodcore/pumpkinsoupitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:pumpkinsoupitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

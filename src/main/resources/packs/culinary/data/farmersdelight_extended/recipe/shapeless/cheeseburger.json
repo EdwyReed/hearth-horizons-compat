@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "farmersdelight:beef_patty"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "item": "farmersdelight_extended:fresh_cheese"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight_extended:cheeseburger"
+  }
+}

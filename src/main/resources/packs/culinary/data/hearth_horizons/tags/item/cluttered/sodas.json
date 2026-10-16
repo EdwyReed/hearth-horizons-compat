@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "pamhc2foodextended:cherrysodaitem",
+    "pamhc2foodextended:colasodaitem",
+    "pamhc2foodextended:gingersodaitem",
+    "pamhc2foodextended:grapefruitsodaitem",
+    "pamhc2foodextended:grapesodaitem",
+    "pamhc2foodextended:lemonlimesodaitem",
+    "pamhc2foodextended:orangesodaitem",
+    "pamhc2foodextended:rootbeersodaitem",
+    "pamhc2foodextended:strawberrysodaitem"
+  ]
+}

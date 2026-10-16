@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "#c:foods/asparagus",
+    "#c:foods/sweet_potato",
+    "#hearth_horizons:vegetables/chili_pepper",
+    "#hearth_horizons:vegetables/onion",
+    "#hearth_horizons:vegetables/tomato",
+    "minecolonies:cabochis",
+    "minecolonies:eggplant_dolma",
+    "minecolonies:pottage",
+    "minecolonies:stuffed_pepper",
+    "minecolonies:stuffed_pita",
+    "rusticdelight:potato_slices",
+    "#hearth_horizons:vegetables/bell_pepper_food"
+  ]
+}

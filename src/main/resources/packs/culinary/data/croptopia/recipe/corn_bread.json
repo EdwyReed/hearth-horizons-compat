@@ -1,0 +1,19 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/corn_bread",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/corn"
+    },
+    {
+      "tag": "hearth_horizons:grains/corn"
+    },
+    {
+      "tag": "hearth_horizons:grains/corn"
+    }
+  ]
+}

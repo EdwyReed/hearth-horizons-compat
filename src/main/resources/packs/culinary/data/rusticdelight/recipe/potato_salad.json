@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "rusticdelight:potato_salad",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/potato_salad/1"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/potato_salad/4"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

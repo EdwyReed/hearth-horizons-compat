@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodcore/caramelpieitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:caramelpieitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

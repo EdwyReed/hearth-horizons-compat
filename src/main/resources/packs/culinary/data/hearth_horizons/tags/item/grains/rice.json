@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:rice",
+    "pamhc2crops:riceitem",
+    "farmersdelight:rice",
+    "minecolonies:rice"
+  ]
+}

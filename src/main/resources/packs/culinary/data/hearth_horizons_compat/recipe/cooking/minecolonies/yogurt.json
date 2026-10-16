@@ -1,0 +1,16 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/minecolonies/yogurt"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:yogurt",
+    "count": 1
+  },
+  "experience": 0,
+  "fermenting_time": 12000,
+  "temperature": 2,
+  "category": "meals"
+}

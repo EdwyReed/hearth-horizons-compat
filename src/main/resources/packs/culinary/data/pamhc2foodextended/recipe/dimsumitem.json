@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/waterchestnut"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "c:rawmeats"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/dimsumitem",
+    "count": 1
+  }
+}

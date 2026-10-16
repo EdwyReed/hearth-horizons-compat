@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:stock"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/yorkshirepuddingitem",
+    "count": 1
+  }
+}

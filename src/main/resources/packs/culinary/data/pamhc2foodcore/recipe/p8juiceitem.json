@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodcore:p8juiceitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_juicer"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/p8juiceitem/1"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/p8juiceitem/2"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

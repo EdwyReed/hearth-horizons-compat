@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "pamhc2foodcore:freshwateritem"
+        },
+        {
+          "type": "neoforge:components",
+          "items": "minecraft:potion",
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "strict": false
+        }
+      ]
+    },
+    {
+      "tag": "croptopiadelight:calamari"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:cooked_calamari"
+  }
+}

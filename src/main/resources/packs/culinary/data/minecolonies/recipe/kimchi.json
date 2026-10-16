@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/kimchi",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/cabbage"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage"
+    },
+    {
+      "item": "minecolonies:nether_pepper"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "environmental:convertable_to_mud"
+    },
+    {
+      "tag": "environmental:convertable_to_mud"
+    },
+    {
+      "tag": "environmental:convertable_to_mud"
+    },
+    {
+      "tag": "environmental:convertable_to_mud"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "id": "environmental:mud_ball",
+      "count": 16
+    }
+  ]
+}

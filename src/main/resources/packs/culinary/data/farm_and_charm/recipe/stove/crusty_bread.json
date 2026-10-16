@@ -1,0 +1,20 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "tag": "bakery:dough"
+    },
+    {
+      "item": "farm_and_charm:yeast"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "bakery:crusty_bread"
+  },
+  "experience": 0.3,
+  "requiresLearning": false
+}

@@ -1,0 +1,31 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/steamed_clams",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "c:clams"
+    },
+    {
+      "tag": "c:clams"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ]
+}

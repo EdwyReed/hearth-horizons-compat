@@ -1,0 +1,28 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/shaped_lemon_coconut_bar",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:lemons"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "c:coconuts"
+    },
+    {
+      "tag": "c:flour"
+    }
+  ]
+}

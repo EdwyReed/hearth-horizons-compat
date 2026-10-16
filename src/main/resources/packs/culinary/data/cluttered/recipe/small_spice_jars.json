@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cluttered:small_glass_jars"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/black_pepper"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/ground_cinnamon"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/basil"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    }
+  ],
+  "result": {
+    "id": "cluttered:small_spice_jars",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "hearth_horizons_compat:block/manual_mixer"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  }
+}

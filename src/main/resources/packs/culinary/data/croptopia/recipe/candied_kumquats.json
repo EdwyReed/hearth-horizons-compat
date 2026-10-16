@@ -1,0 +1,37 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/candied_kumquats",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:kumquats"
+    },
+    {
+      "tag": "c:kumquats"
+    },
+    {
+      "tag": "c:kumquats"
+    },
+    {
+      "tag": "c:kumquats"
+    },
+    {
+      "tag": "c:kumquats"
+    },
+    {
+      "tag": "c:kumquats"
+    },
+    {
+      "tag": "c:kumquats"
+    },
+    {
+      "tag": "c:vanilla"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

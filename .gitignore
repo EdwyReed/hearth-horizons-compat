@@ -1,0 +1,25 @@
+.gradle/
+build/
+run/
+dist/
+node_modules/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+
+# Local artwork, release receipts and archived investigations.
+branding/
+docs/
+gallery/
+migration/
+migration_backups/
+validation/

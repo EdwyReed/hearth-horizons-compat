@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:dyes"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/sprinklescupcakeitem",
+    "count": 1
+  }
+}

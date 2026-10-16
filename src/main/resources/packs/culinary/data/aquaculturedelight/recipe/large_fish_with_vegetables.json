@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "item": "aquaculture:fish_fillet_cooked"
+    },
+    {
+      "item": "aquaculture:fish_fillet_cooked"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "id": "aquaculturedelight:large_fish_with_vegetables"
+  }
+}

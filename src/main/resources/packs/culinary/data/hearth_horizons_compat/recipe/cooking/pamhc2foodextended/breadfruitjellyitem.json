@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodextended/breadfruitjellyitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:breadfruitjellyitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

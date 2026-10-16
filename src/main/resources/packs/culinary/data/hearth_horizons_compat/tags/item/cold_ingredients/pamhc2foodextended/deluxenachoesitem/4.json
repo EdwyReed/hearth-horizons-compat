@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_salmon",
+    "minecraft:tropical_fish",
+    "pamhc2foodextended:cookedtofabbititem",
+    "pamhc2foodextended:cookedtofaconitem",
+    "pamhc2foodextended:cookedtofeakitem",
+    "pamhc2foodextended:cookedtofickenitem",
+    "pamhc2foodextended:cookedtofishitem",
+    "pamhc2foodextended:cookedtofuttonitem"
+  ]
+}

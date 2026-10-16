@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/oceansdelight/stuffed_cod",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "farmersdelight:rope"
+    },
+    {
+      "item": "minecraft:cod"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

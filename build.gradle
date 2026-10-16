@@ -1,0 +1,68 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+}
+version = '0.5.1'
+group = 'dev.hearthhorizons'
+base { archivesName = 'hearth-horizons-compat' }
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+repositories { mavenCentral() }
+def profile = providers.gradleProperty('minecraftProfile').orElse(providers.environmentVariable('HH_MINECRAFT_PROFILE'))
+    .getOrElse('')
+if (!profile) { throw new GradleException('Set -PminecraftProfile=/path/to/profile or HH_MINECRAFT_PROFILE.') }
+def dependencyMods = fileTree("${profile}/mods") {
+    include 'cluttered-*.jar', 'moonlight-*.jar', 'hexerei-*.jar'
+}
+tasks.register('prepareCreateCompileLibs', Copy) {
+    from(zipTree(file("${profile}/mods/create-1.21.1-6.0.10.jar"))) { include 'META-INF/jarjar/*.jar'; eachFile { path = name } }
+    into layout.buildDirectory.dir('create-compile-libs')
+    includeEmptyDirs = false
+}
+dependencies {
+    implementation dependencyMods
+    compileOnly fileTree("build/create-compile-libs") { include "*.jar" }
+    compileOnly fileTree("${profile}/mods") { include 'jei-*.jar' }
+    compileOnly fileTree("${profile}/mods") { include 'create-1.21.1-*.jar' }
+    compileOnly fileTree("${profile}/mods") { include 'FarmersDelight-*.jar' }
+    compileOnly fileTree("${profile}/mods") { include 'letsdo-farm_and_charm-*.jar' }
+    if (providers.gradleProperty('shaderQa').isPresent()) {
+        runtimeOnly fileTree("${profile}/mods") { include 'iris-neoforge-*.jar', 'sodium-neoforge-*.jar', 'iris-flywheel-compat-*.jar' }
+    }
+    if (providers.gradleProperty('recipePackQa').isPresent()) {
+        def qaMods = new groovy.json.JsonSlurper().parse(file('qa-recipe-mods.json')).files
+        runtimeOnly files(qaMods.findAll { !it.startsWith('cluttered-') && !it.startsWith('moonlight-') && !it.startsWith('hexerei-') }.collect { "${profile}/mods/${it}" })
+    }
+
+}
+neoForge {
+    version = '21.1.228'
+    runs {
+        client {
+            client()
+            gameDirectory = file('run/client')
+            jvmArgument '-Xmx2G'
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'hearth_horizons_compat'
+        }
+        gameTestServer {
+            type = 'gameTestServer'
+            gameDirectory = file(providers.gradleProperty('recipePackQa').isPresent() ? 'run/recipe-gametest' : 'run/gametest')
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'hearth_horizons_compat'
+            if (providers.gradleProperty('recipePackQa').isPresent()) { jvmArgument '-Xmx4G' }
+        }
+    }
+    mods { hearth_horizons_compat { sourceSet sourceSets.main } }
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8'; dependsOn tasks.named('prepareCreateCompileLibs') }
+tasks.withType(Jar).configureEach {
+    preserveFileTimestamps = false
+    reproducibleFileOrder = true
+    includeEmptyDirs = false
+    exclude 'dev/hearthhorizons/compat/gametest/**', 'dev/hearthhorizons/compat/client/ClientQa.class'
+    exclude 'data/hearth_horizons_compat/structure/*.nbt'
+    exclude 'qa/**'
+    exclude 'dev/hearthhorizons/compat/client/JeiQa*'
+    exclude 'dev/hearthhorizons/compat/client/SodaQa*'
+    exclude 'dev/hearthhorizons/compat/client/ManualMixerQa*'
+    exclude 'dev/hearthhorizons/compat/client/GalleryQa*'
+    from('LICENSE') { into 'META-INF' }
+}

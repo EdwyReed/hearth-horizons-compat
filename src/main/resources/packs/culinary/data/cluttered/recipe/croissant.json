@@ -1,0 +1,16 @@
+{
+  "type": "hearth_horizons_compat:serving",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cluttered:pastry_plate"
+    },
+    {
+      "tag": "hearth_horizons:cluttered/croissants"
+    }
+  ],
+  "result": {
+    "id": "cluttered:croissant",
+    "count": 1
+  }
+}

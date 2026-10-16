@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:chocolatebar"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:butter"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/chocolatechippancakesitem",
+    "count": 1
+  }
+}

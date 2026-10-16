@@ -1,0 +1,32 @@
+{
+  "type": "farm_and_charm:roaster",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/oat"
+    },
+    {
+      "tag": "farm_and_charm:butter"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "farm_and_charm:minced_beef"
+    },
+    {
+      "item": "farm_and_charm:minced_beef"
+    }
+  ],
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "result": {
+    "id": "farm_and_charm:sausage_with_oat_patty",
+    "count": 2
+  },
+  "requiresLearning": false
+}

@@ -1,0 +1,34 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/shaped_beef_wellington",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    {
+      "tag": "c:mustard"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ]
+}

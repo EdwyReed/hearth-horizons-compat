@@ -1,0 +1,4019 @@
+[
+  {
+    "id": "pamhc2foodextended:onigiriitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:onigiriitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "c:crops/sesameseeds"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:onigiriitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/onigiriitem/1"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "c:crops/sesameseeds"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:berryvinaigrettesaladitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:berryvinaigrettesaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/vegetables"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+        },
+        {
+          "tag": "c:juices"
+        },
+        {
+          "tag": "c:vinegar"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:bellpepper",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:chile_pepper",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:lettuce",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "culturaldelights:cucumber",
+          "enchanted:garlic",
+          "expandeddelight:asparagus",
+          "expandeddelight:chili_pepper",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecolonies:bell_pepper",
+          "minecolonies:cabbage",
+          "minecolonies:garlic",
+          "minecolonies:onion",
+          "minecolonies:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem",
+          "rusticdelight:bell_pepper_green",
+          "rusticdelight:bell_pepper_red",
+          "rusticdelight:bell_pepper_yellow"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:berryvinaigrettesaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/berryvinaigrettesaladitem/1"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+        },
+        {
+          "tag": "c:juices"
+        },
+        {
+          "tag": "c:vinegar"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:mashedpotatoeschickenbiscuititem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:mashedpotatoeschickenbiscuititem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:biscuititem"
+        },
+        {
+          "item": "pamhc2foodcore:mashedpotatoesitem"
+        },
+        {
+          "tag": "c:rawchicken"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 3,
+        "mapping": {
+          "pamhc2foodextended:rawtofickenitem": "pamhc2foodextended:cookedtofickenitem",
+          "minecraft:chicken": "minecraft:cooked_chicken"
+        },
+        "allowed": [
+          "minecraft:cooked_chicken",
+          "pamhc2foodextended:cookedtofickenitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:mashedpotatoeschickenbiscuititem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:biscuititem"
+        },
+        {
+          "item": "pamhc2foodcore:mashedpotatoesitem"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/mashedpotatoeschickenbiscuititem/3"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:sunflowerbroccolisaladitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:sunflowerbroccolisaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:sunflowerseedsitem"
+        },
+        {
+          "tag": "c:crops/broccoli"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        },
+        {
+          "tag": "c:sugar"
+        },
+        {
+          "tag": "c:rawpork"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 5,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:sunflowerbroccolisaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:sunflowerseedsitem"
+        },
+        {
+          "tag": "c:crops/broccoli"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        },
+        {
+          "tag": "c:sugar"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/sunflowerbroccolisaladitem/5"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:springrollitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:springrollitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        },
+        {
+          "tag": "c:condiments/hoisinsauce"
+        },
+        {
+          "tag": "c:crops/peanut"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/garlic"
+        },
+        {
+          "tag": "c:crops/lime"
+        },
+        {
+          "tag": "c:crops/spiceleaf"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/cabbage_food"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:springrollitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/springrollitem/1"
+        },
+        {
+          "tag": "c:condiments/hoisinsauce"
+        },
+        {
+          "tag": "c:crops/peanut"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/garlic"
+        },
+        {
+          "tag": "c:crops/lime"
+        },
+        {
+          "tag": "c:crops/spiceleaf"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/cabbage_food"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:porklettucewrapitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:porklettucewrapitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "c:rawpork"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:porklettucewrapitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/porklettucewrapitem/2"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:fishtacoitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:fishtacoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "c:tortilla"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "pamhc2foodextended:rawtofishitem": "pamhc2foodextended:cookedtofishitem",
+          "minecraft:cod": "minecraft:cooked_cod",
+          "minecraft:salmon": "minecraft:cooked_salmon"
+        },
+        "allowed": [
+          "minecraft:cooked_cod",
+          "minecraft:cooked_salmon",
+          "minecraft:tropical_fish",
+          "pamhc2foodextended:cookedtofishitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:fishtacoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/fishtacoitem/1"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "c:tortilla"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodcore:cookingoilitem_x2_vegetables",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodcore:cookingoilitem",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_roller"
+        },
+        {
+          "tag": "c:vegetables"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cabbage_seed",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:garlic_seed",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:leek_seed",
+          "croptopia:lettuce",
+          "croptopia:lettuce_seed",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:spinach_seed",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "expandeddelight:asparagus",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:cabbageseeditem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:garlicseeditem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:leekseeditem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lettuceseeditem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:spinachseeditem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodcore:cookingoilitem",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_roller"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/cookingoilitem_x2_vegetables/1"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:tacoitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:tacoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawbeef"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "c:tortilla"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "pamhc2foodextended:rawtofeakitem": "pamhc2foodextended:cookedtofeakitem",
+          "minecraft:beef": "minecraft:cooked_beef"
+        },
+        "allowed": [
+          "minecraft:cooked_beef",
+          "pamhc2foodextended:cookedtofeakitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:tacoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/tacoitem/1"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "c:tortilla"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "culturalrecipes:calamari_roll",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "culturaldelights:calamari_roll",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:dried_kelp"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "item": "culturaldelights:raw_calamari"
+        },
+        {
+          "item": "culturaldelights:raw_calamari"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "culturaldelights:raw_calamari": "culturaldelights:cooked_calamari"
+        },
+        "allowed": [
+          "culturaldelights:cooked_calamari"
+        ]
+      },
+      {
+        "slot": 3,
+        "mapping": {
+          "culturaldelights:raw_calamari": "culturaldelights:cooked_calamari"
+        },
+        "allowed": [
+          "culturaldelights:cooked_calamari"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "culturaldelights:calamari_roll",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:dried_kelp"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/calamari_roll/2"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/calamari_roll/3"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:hamsweetpicklesandwichitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:hamsweetpicklesandwichitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:sweetpickleitem"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 3,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:hamsweetpicklesandwichitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:sweetpickleitem"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/hamsweetpicklesandwichitem/3"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:avocadoburritoitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:avocadoburritoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:crops/avocado"
+        },
+        {
+          "tag": "c:tortilla"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "c:rawchicken"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 4,
+        "mapping": {
+          "pamhc2foodextended:rawtofickenitem": "pamhc2foodextended:cookedtofickenitem",
+          "minecraft:chicken": "minecraft:cooked_chicken"
+        },
+        "allowed": [
+          "minecraft:cooked_chicken",
+          "pamhc2foodextended:cookedtofickenitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:avocadoburritoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:crops/avocado"
+        },
+        {
+          "tag": "c:tortilla"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/avocadoburritoitem/4"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:surfandturfitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:surfandturfitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "tag": "c:rawmeats"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/vegetables"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "pamhc2foodextended:rawtofishitem": "pamhc2foodextended:cookedtofishitem",
+          "minecraft:cod": "minecraft:cooked_cod",
+          "minecraft:salmon": "minecraft:cooked_salmon"
+        },
+        "allowed": [
+          "minecraft:cooked_cod",
+          "minecraft:cooked_salmon",
+          "minecraft:tropical_fish",
+          "pamhc2foodextended:cookedtofishitem"
+        ]
+      },
+      {
+        "slot": 2,
+        "mapping": {
+          "pamhc2foodextended:rawtofabbititem": "pamhc2foodextended:cookedtofabbititem",
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "pamhc2foodextended:rawtofeakitem": "pamhc2foodextended:cookedtofeakitem",
+          "pamhc2foodextended:rawtofickenitem": "pamhc2foodextended:cookedtofickenitem",
+          "pamhc2foodextended:rawtofishitem": "pamhc2foodextended:cookedtofishitem",
+          "pamhc2foodextended:rawtofuttonitem": "pamhc2foodextended:cookedtofuttonitem",
+          "minecraft:beef": "minecraft:cooked_beef",
+          "minecraft:chicken": "minecraft:cooked_chicken",
+          "minecraft:cod": "minecraft:cooked_cod",
+          "minecraft:mutton": "minecraft:cooked_mutton",
+          "minecraft:porkchop": "minecraft:cooked_porkchop",
+          "minecraft:rabbit": "minecraft:cooked_rabbit",
+          "minecraft:salmon": "minecraft:cooked_salmon"
+        },
+        "allowed": [
+          "minecraft:cooked_beef",
+          "minecraft:cooked_chicken",
+          "minecraft:cooked_cod",
+          "minecraft:cooked_mutton",
+          "minecraft:cooked_porkchop",
+          "minecraft:cooked_rabbit",
+          "minecraft:cooked_salmon",
+          "minecraft:tropical_fish",
+          "pamhc2foodextended:cookedtofabbititem",
+          "pamhc2foodextended:cookedtofaconitem",
+          "pamhc2foodextended:cookedtofeakitem",
+          "pamhc2foodextended:cookedtofickenitem",
+          "pamhc2foodextended:cookedtofishitem",
+          "pamhc2foodextended:cookedtofuttonitem"
+        ]
+      },
+      {
+        "slot": 3,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:bellpepper",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:chile_pepper",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:lettuce",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "culturaldelights:cucumber",
+          "enchanted:garlic",
+          "expandeddelight:asparagus",
+          "expandeddelight:chili_pepper",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecolonies:bell_pepper",
+          "minecolonies:cabbage",
+          "minecolonies:garlic",
+          "minecolonies:onion",
+          "minecolonies:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem",
+          "rusticdelight:bell_pepper_green",
+          "rusticdelight:bell_pepper_red",
+          "rusticdelight:bell_pepper_yellow"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:surfandturfitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/surfandturfitem/1"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/surfandturfitem/2"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/surfandturfitem/3"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "rusticdelight:calamari_roll",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "rusticdelight:calamari_roll",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "tag": "rusticdelight:calamari_roll_ingredients"
+        },
+        {
+          "tag": "rusticdelight:calamari_roll_ingredients"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 0,
+        "mapping": {
+          "culturaldelights:raw_calamari": "culturaldelights:cooked_calamari"
+        },
+        "allowed": [
+          "culturaldelights:cooked_calamari",
+          "culturaldelights:glow_squid",
+          "culturaldelights:squid",
+          "rusticdelight:calamari_slice"
+        ]
+      },
+      {
+        "slot": 1,
+        "mapping": {
+          "culturaldelights:raw_calamari": "culturaldelights:cooked_calamari"
+        },
+        "allowed": [
+          "culturaldelights:cooked_calamari",
+          "culturaldelights:glow_squid",
+          "culturaldelights:squid",
+          "rusticdelight:calamari_slice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "rusticdelight:calamari_roll",
+        "count": 2
+      },
+      "ingredients": [
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/calamari_roll/0"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/calamari_roll/1"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:beetburgeritem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:beetburgeritem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawbeef"
+        },
+        {
+          "tag": "c:crops/beetroot"
+        },
+        {
+          "tag": "c:friedegg"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "c:crops/pineapple"
+        },
+        {
+          "tag": "c:toast"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "pamhc2foodextended:rawtofeakitem": "pamhc2foodextended:cookedtofeakitem",
+          "minecraft:beef": "minecraft:cooked_beef"
+        },
+        "allowed": [
+          "minecraft:cooked_beef",
+          "pamhc2foodextended:cookedtofeakitem"
+        ]
+      },
+      {
+        "slot": 4,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:beetburgeritem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/beetburgeritem/1"
+        },
+        {
+          "tag": "c:crops/beetroot"
+        },
+        {
+          "tag": "c:friedegg"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/beetburgeritem/4"
+        },
+        {
+          "tag": "c:crops/pineapple"
+        },
+        {
+          "tag": "c:toast"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:mixedsaladitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:mixedsaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/vegetables"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/vegetables"
+        },
+        {
+          "tag": "c:condiments/saladdressing"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:bellpepper",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:chile_pepper",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:lettuce",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "culturaldelights:cucumber",
+          "enchanted:garlic",
+          "expandeddelight:asparagus",
+          "expandeddelight:chili_pepper",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecolonies:bell_pepper",
+          "minecolonies:cabbage",
+          "minecolonies:garlic",
+          "minecolonies:onion",
+          "minecolonies:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem",
+          "rusticdelight:bell_pepper_green",
+          "rusticdelight:bell_pepper_red",
+          "rusticdelight:bell_pepper_yellow"
+        ]
+      },
+      {
+        "slot": 2,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:bellpepper",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:chile_pepper",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:lettuce",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "culturaldelights:cucumber",
+          "enchanted:garlic",
+          "expandeddelight:asparagus",
+          "expandeddelight:chili_pepper",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecolonies:bell_pepper",
+          "minecolonies:cabbage",
+          "minecolonies:garlic",
+          "minecolonies:onion",
+          "minecolonies:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem",
+          "rusticdelight:bell_pepper_green",
+          "rusticdelight:bell_pepper_red",
+          "rusticdelight:bell_pepper_yellow"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:mixedsaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/mixedsaladitem/1"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/mixedsaladitem/2"
+        },
+        {
+          "tag": "c:condiments/saladdressing"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "culturalrecipes:rice_ball",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "culturaldelights:rice_ball",
+        "count": 5
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:dried_kelp"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "item": "minecraft:sweet_berries"
+        },
+        {
+          "tag": "culturaldelights:raw_salmons"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 4,
+        "mapping": {
+          "minecraft:salmon": "minecraft:cooked_salmon"
+        },
+        "allowed": [
+          "farmersdelight:salmon_slice",
+          "minecraft:cooked_salmon"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "culturaldelights:rice_ball",
+        "count": 5
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:dried_kelp"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "item": "farmersdelight:cooked_rice"
+        },
+        {
+          "item": "minecraft:sweet_berries"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/rice_ball/4"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodcore:chickendinneritem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodcore:chickendinneritem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:friedchickenitem"
+        },
+        {
+          "item": "pamhc2foodcore:mashedpotatoesitem"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/vegetables"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 3,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:bellpepper",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:chile_pepper",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:lettuce",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "culturaldelights:cucumber",
+          "enchanted:garlic",
+          "expandeddelight:asparagus",
+          "expandeddelight:chili_pepper",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecolonies:bell_pepper",
+          "minecolonies:cabbage",
+          "minecolonies:garlic",
+          "minecolonies:onion",
+          "minecolonies:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem",
+          "rusticdelight:bell_pepper_green",
+          "rusticdelight:bell_pepper_red",
+          "rusticdelight:bell_pepper_yellow"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodcore:chickendinneritem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodcore:friedchickenitem"
+        },
+        {
+          "item": "pamhc2foodcore:mashedpotatoesitem"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/chickendinneritem/3"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:eggsbenedictitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:eggsbenedictitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:egg"
+        },
+        {
+          "item": "pamhc2foodextended:biscuititem"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "c:butter"
+        },
+        {
+          "tag": "c:crops/lemon"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:egg": "farmersdelight:fried_egg"
+        },
+        "allowed": [
+          "farmersdelight:fried_egg",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:bananaitem"
+        ]
+      },
+      {
+        "slot": 3,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:eggsbenedictitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsbenedictitem/1"
+        },
+        {
+          "item": "pamhc2foodextended:biscuititem"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsbenedictitem/3"
+        },
+        {
+          "tag": "c:butter"
+        },
+        {
+          "tag": "c:crops/lemon"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:cheesesteakitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:cheesesteakitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:toast"
+        },
+        {
+          "tag": "c:rawbeef"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/bell_pepper"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "pamhc2foodextended:rawtofeakitem": "pamhc2foodextended:cookedtofeakitem",
+          "minecraft:beef": "minecraft:cooked_beef"
+        },
+        "allowed": [
+          "minecraft:cooked_beef",
+          "pamhc2foodextended:cookedtofeakitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:cheesesteakitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:toast"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/cheesesteakitem/2"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/bell_pepper"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:deluxenachoesitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:deluxenachoesitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "c:tortillachips"
+        },
+        {
+          "tag": "c:salsa"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "c:rawmeats"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/chili_pepper"
+        },
+        {
+          "tag": "c:cream"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 4,
+        "mapping": {
+          "pamhc2foodextended:rawtofabbititem": "pamhc2foodextended:cookedtofabbititem",
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "pamhc2foodextended:rawtofeakitem": "pamhc2foodextended:cookedtofeakitem",
+          "pamhc2foodextended:rawtofickenitem": "pamhc2foodextended:cookedtofickenitem",
+          "pamhc2foodextended:rawtofishitem": "pamhc2foodextended:cookedtofishitem",
+          "pamhc2foodextended:rawtofuttonitem": "pamhc2foodextended:cookedtofuttonitem",
+          "minecraft:beef": "minecraft:cooked_beef",
+          "minecraft:chicken": "minecraft:cooked_chicken",
+          "minecraft:cod": "minecraft:cooked_cod",
+          "minecraft:mutton": "minecraft:cooked_mutton",
+          "minecraft:porkchop": "minecraft:cooked_porkchop",
+          "minecraft:rabbit": "minecraft:cooked_rabbit",
+          "minecraft:salmon": "minecraft:cooked_salmon"
+        },
+        "allowed": [
+          "minecraft:cooked_beef",
+          "minecraft:cooked_chicken",
+          "minecraft:cooked_cod",
+          "minecraft:cooked_mutton",
+          "minecraft:cooked_porkchop",
+          "minecraft:cooked_rabbit",
+          "minecraft:cooked_salmon",
+          "minecraft:tropical_fish",
+          "pamhc2foodextended:cookedtofabbititem",
+          "pamhc2foodextended:cookedtofaconitem",
+          "pamhc2foodextended:cookedtofeakitem",
+          "pamhc2foodextended:cookedtofickenitem",
+          "pamhc2foodextended:cookedtofishitem",
+          "pamhc2foodextended:cookedtofuttonitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:deluxenachoesitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "c:tortillachips"
+        },
+        {
+          "tag": "c:salsa"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/deluxenachoesitem/4"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/chili_pepper"
+        },
+        {
+          "tag": "c:cream"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:pokebowlitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:pokebowlitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        },
+        {
+          "tag": "c:crops/soybean"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/ginger"
+        },
+        {
+          "tag": "c:crops/scallion"
+        },
+        {
+          "tag": "c:condiments/soysauce"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:pokebowlitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/pokebowlitem/2"
+        },
+        {
+          "tag": "c:crops/soybean"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/ginger"
+        },
+        {
+          "tag": "c:crops/scallion"
+        },
+        {
+          "tag": "c:condiments/soysauce"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:eggsaladitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:eggsaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "c:egg"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        },
+        {
+          "tag": "c:condiments/mustard"
+        },
+        {
+          "tag": "c:crops/spiceleaf"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:egg": "farmersdelight:fried_egg"
+        },
+        "allowed": [
+          "farmersdelight:fried_egg",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:bananaitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:eggsaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsaladitem/1"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        },
+        {
+          "tag": "c:condiments/mustard"
+        },
+        {
+          "tag": "c:crops/spiceleaf"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "croptopia:mashed_potatoes",
+    "original": {
+      "key": {
+        "1": {
+          "tag": "c:potatoes"
+        },
+        "2": {
+          "tag": "c:salts"
+        },
+        "3": {
+          "item": "croptopia:mortar_and_pestle"
+        },
+        "4": {
+          "tag": "hearth_horizons:liquids/milk_bottles_250"
+        }
+      },
+      "pattern": [
+        "1 ",
+        "24",
+        "3 "
+      ],
+      "result": {
+        "id": "croptopia:mashed_potatoes",
+        "count": 1
+      },
+      "category": "misc",
+      "type": "minecraft:crafting_shaped"
+    },
+    "substitutions": [
+      {
+        "slot": 0,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:sweetpotato",
+          "minecraft:baked_potato"
+        ]
+      }
+    ],
+    "patched": {
+      "result": {
+        "id": "croptopia:mashed_potatoes",
+        "count": 1
+      },
+      "category": "misc",
+      "type": "hearth_horizons_compat:cold_preparation",
+      "ingredients": [
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/croptopia/mashed_potatoes/0"
+        },
+        {
+          "tag": "c:salts"
+        },
+        {
+          "tag": "hearth_horizons:liquids/milk_bottles_250"
+        },
+        {
+          "item": "croptopia:mortar_and_pestle"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rusticdelight:potato_salad",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "rusticdelight:potato_salad",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "tag": "c:foods/potato"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        },
+        {
+          "tag": "c:drinks/milk"
+        },
+        {
+          "tag": "c:eggs"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "minecraft:baked_potato",
+          "rusticdelight:potato_slices"
+        ]
+      },
+      {
+        "slot": 4,
+        "mapping": {
+          "minecraft:egg": "farmersdelight:fried_egg"
+        },
+        "allowed": [
+          "environmental:duck_egg",
+          "farmersdelight:fried_egg"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "rusticdelight:potato_salad",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:bowl"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/potato_salad/1"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        },
+        {
+          "tag": "c:drinks/milk"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/potato_salad/4"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:potatosaladitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:potatosaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "c:crops/potato"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        },
+        {
+          "tag": "c:condiments/mustard"
+        },
+        {
+          "tag": "c:crops/spiceleaf"
+        },
+        {
+          "tag": "c:egg"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onions"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "minecraft:baked_potato",
+          "rusticdelight:potato_slices"
+        ]
+      },
+      {
+        "slot": 5,
+        "mapping": {
+          "minecraft:egg": "farmersdelight:fried_egg"
+        },
+        "allowed": [
+          "farmersdelight:fried_egg",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:bananaitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:potatosaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/1"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        },
+        {
+          "tag": "c:condiments/mustard"
+        },
+        {
+          "tag": "c:crops/spiceleaf"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/5"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onions"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:futomakiitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:futomakiitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:boiledegg"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/cucumber"
+        },
+        {
+          "tag": "c:crops/wintersquash"
+        },
+        {
+          "tag": "c:crops/radish"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/ginger"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 7,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:futomakiitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:boiledegg"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/cucumber"
+        },
+        {
+          "tag": "c:crops/wintersquash"
+        },
+        {
+          "tag": "c:crops/radish"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/ginger"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/futomakiitem/7"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:deluxechickencurryitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:deluxechickencurryitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:chickencurryitem"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        },
+        {
+          "item": "pamhc2foodextended:naanitem"
+        },
+        {
+          "item": "pamhc2foodextended:mangochutneyitem"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:deluxechickencurryitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:chickencurryitem"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/deluxechickencurryitem/2"
+        },
+        {
+          "item": "pamhc2foodextended:naanitem"
+        },
+        {
+          "item": "pamhc2foodextended:mangochutneyitem"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:breakfastburritoitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:breakfastburritoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:tortilla"
+        },
+        {
+          "tag": "c:scrambledegg"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "c:crops/potato"
+        },
+        {
+          "tag": "c:cheese"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 3,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      },
+      {
+        "slot": 4,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "minecraft:baked_potato",
+          "rusticdelight:potato_slices"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:breakfastburritoitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:tortilla"
+        },
+        {
+          "tag": "c:scrambledegg"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/3"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/4"
+        },
+        {
+          "tag": "c:cheese"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:springsaladitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:springsaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/vegetables"
+        },
+        {
+          "tag": "c:condiments/saladdressing"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:bellpepper",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:chile_pepper",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:lettuce",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "culturaldelights:cucumber",
+          "enchanted:garlic",
+          "expandeddelight:asparagus",
+          "expandeddelight:chili_pepper",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecolonies:bell_pepper",
+          "minecolonies:cabbage",
+          "minecolonies:garlic",
+          "minecolonies:onion",
+          "minecolonies:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem",
+          "rusticdelight:bell_pepper_green",
+          "rusticdelight:bell_pepper_red",
+          "rusticdelight:bell_pepper_yellow"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:springsaladitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/springsaladitem/2"
+        },
+        {
+          "tag": "c:condiments/saladdressing"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:museliitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:museliitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons:grains/categories/c_grain"
+        },
+        {
+          "item": "pamhc2foodextended:raisinsitem"
+        },
+        {
+          "tag": "c:crops/pecan"
+        },
+        {
+          "tag": "c:sugar"
+        },
+        {
+          "tag": "c:milk"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "croptopia:barley",
+          "croptopia:corn",
+          "croptopia:oat",
+          "farm_and_charm:barley",
+          "farm_and_charm:corn",
+          "farm_and_charm:oat",
+          "farmersdelight:cooked_rice",
+          "minecolonies:corn",
+          "minecraft:wheat",
+          "pamhc2crops:amaranthitem",
+          "pamhc2crops:barleyitem",
+          "pamhc2crops:beanitem",
+          "pamhc2crops:chickpeaitem",
+          "pamhc2crops:cornitem",
+          "pamhc2crops:lentilitem",
+          "pamhc2crops:oatsitem",
+          "pamhc2crops:quinoaitem",
+          "pamhc2crops:ryeitem",
+          "pamhc2crops:sorghumitem",
+          "pamhc2crops:soybeanitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:museliitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_mixingbowl"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/museliitem/1"
+        },
+        {
+          "item": "pamhc2foodextended:raisinsitem"
+        },
+        {
+          "tag": "c:crops/pecan"
+        },
+        {
+          "tag": "c:sugar"
+        },
+        {
+          "tag": "c:milk"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:ploughmanslunchitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:ploughmanslunchitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "c:crops/apple"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "item": "pamhc2foodextended:sweetpickleitem"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "c:boiledegg"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 6,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:ploughmanslunchitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "c:crops/apple"
+        },
+        {
+          "tag": "c:cheese"
+        },
+        {
+          "item": "pamhc2foodextended:sweetpickleitem"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/onion"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/ploughmanslunchitem/6"
+        },
+        {
+          "tag": "c:boiledegg"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:southernstylebreakfastitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:southernstylebreakfastitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:gritsitem"
+        },
+        {
+          "item": "pamhc2foodextended:biscuititem"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "c:egg"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 3,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      },
+      {
+        "slot": 4,
+        "mapping": {
+          "minecraft:egg": "farmersdelight:fried_egg"
+        },
+        "allowed": [
+          "farmersdelight:fried_egg",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:bananaitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:southernstylebreakfastitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "item": "pamhc2foodextended:gritsitem"
+        },
+        {
+          "item": "pamhc2foodextended:biscuititem"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/3"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/4"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:footlongitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:footlongitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/tomato"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:footlongitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/footlongitem/2"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/tomato"
+        },
+        {
+          "tag": "c:condiments/mayonaise"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "croptopia:burrito",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "croptopia:burrito",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tortillas"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        },
+        {
+          "tag": "c:blackbeans"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/tomato"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "croptopia:burrito",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tortillas"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/croptopia/burrito/1"
+        },
+        {
+          "tag": "c:blackbeans"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/tomato"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:californiarollitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:californiarollitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "tag": "c:crops/avocado"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/cucumber"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 5,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:californiarollitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "tag": "c:crops/avocado"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/cucumber"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/californiarollitem/5"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:sushiitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:sushiitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 3,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:sushiitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawfish"
+        },
+        {
+          "item": "minecraft:kelp"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/sushiitem/3"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:musubiitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:musubiitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        },
+        {
+          "item": "minecraft:kelp"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      },
+      {
+        "slot": 2,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:musubiitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/1"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/2"
+        },
+        {
+          "item": "minecraft:kelp"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "oceansdelight:stuffed_squid",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "oceansdelight:stuffed_squid",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "oceansdelight:tentacles"
+        },
+        {
+          "tag": "hearth_horizons:grains/rice"
+        },
+        {
+          "item": "minecraft:kelp"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "croptopia:rice": "farmersdelight:cooked_rice",
+          "pamhc2crops:riceitem": "farmersdelight:cooked_rice",
+          "farmersdelight:rice": "farmersdelight:cooked_rice",
+          "minecolonies:rice": "farmersdelight:cooked_rice"
+        },
+        "allowed": [
+          "farmersdelight:cooked_rice"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "oceansdelight:stuffed_squid",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "item": "oceansdelight:tentacles"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/oceansdelight/stuffed_squid/1"
+        },
+        {
+          "item": "minecraft:kelp"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:fishlettucewrapitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:fishlettucewrapitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "c:rawfish"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "pamhc2foodextended:rawtofishitem": "pamhc2foodextended:cookedtofishitem",
+          "minecraft:cod": "minecraft:cooked_cod",
+          "minecraft:salmon": "minecraft:cooked_salmon"
+        },
+        "allowed": [
+          "minecraft:cooked_cod",
+          "minecraft:cooked_salmon",
+          "minecraft:tropical_fish",
+          "pamhc2foodextended:cookedtofishitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:fishlettucewrapitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "hearth_horizons:vegetables/lettuce"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/fishlettucewrapitem/2"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodextended:hamandcheesesandwichitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:hamandcheesesandwichitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "c:rawpork"
+        },
+        {
+          "tag": "c:cheese"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 2,
+        "mapping": {
+          "pamhc2foodextended:rawtofaconitem": "pamhc2foodextended:cookedtofaconitem",
+          "minecraft:porkchop": "minecraft:cooked_porkchop"
+        },
+        "allowed": [
+          "minecraft:cooked_porkchop",
+          "pamhc2foodextended:cookedtofaconitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodextended:hamandcheesesandwichitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_cuttingboard"
+        },
+        {
+          "tag": "c:bread"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/hamandcheesesandwichitem/2"
+        },
+        {
+          "tag": "c:cheese"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  },
+  {
+    "id": "pamhc2foodcore:p8juiceitem",
+    "original": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodcore:p8juiceitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_juicer"
+        },
+        {
+          "tag": "c:vegetables"
+        },
+        {
+          "tag": "c:vegetables"
+        }
+      ],
+      "type": "minecraft:crafting_shapeless"
+    },
+    "substitutions": [
+      {
+        "slot": 1,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cabbage_seed",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:garlic_seed",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:leek_seed",
+          "croptopia:lettuce",
+          "croptopia:lettuce_seed",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:spinach_seed",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "expandeddelight:asparagus",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:cabbageseeditem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:garlicseeditem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:leekseeditem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lettuceseeditem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:spinachseeditem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem"
+        ]
+      },
+      {
+        "slot": 2,
+        "mapping": {
+          "minecraft:potato": "minecraft:baked_potato"
+        },
+        "allowed": [
+          "croptopia:artichoke",
+          "croptopia:asparagus",
+          "croptopia:asparagus_seed",
+          "croptopia:broccoli",
+          "croptopia:broccoli_seed",
+          "croptopia:cabbage",
+          "croptopia:cabbage_seed",
+          "croptopia:cauliflower",
+          "croptopia:cauliflower_seed",
+          "croptopia:celery",
+          "croptopia:celery_seed",
+          "croptopia:cucumber",
+          "croptopia:eggplant",
+          "croptopia:garlic",
+          "croptopia:garlic_seed",
+          "croptopia:ginger",
+          "croptopia:greenbean",
+          "croptopia:greenonion",
+          "croptopia:kale",
+          "croptopia:kale_seed",
+          "croptopia:leek",
+          "croptopia:leek_seed",
+          "croptopia:lettuce",
+          "croptopia:lettuce_seed",
+          "croptopia:mustard",
+          "croptopia:mustard_seed",
+          "croptopia:onion",
+          "croptopia:radish",
+          "croptopia:rhubarb",
+          "croptopia:rhubarb_seed",
+          "croptopia:rutabaga",
+          "croptopia:soybean",
+          "croptopia:spinach",
+          "croptopia:spinach_seed",
+          "croptopia:squash",
+          "croptopia:sweetpotato",
+          "croptopia:tomatillo",
+          "croptopia:tomato",
+          "croptopia:turnip",
+          "croptopia:yam",
+          "croptopia:zucchini",
+          "croptopia:zucchini_seed",
+          "expandeddelight:asparagus",
+          "farm_and_charm:corn",
+          "farm_and_charm:lettuce",
+          "farm_and_charm:onion",
+          "farm_and_charm:strawberry",
+          "farm_and_charm:tomato",
+          "farmersdelight:cabbage",
+          "farmersdelight:cabbage_leaf",
+          "farmersdelight:onion",
+          "farmersdelight:tomato",
+          "minecraft:baked_potato",
+          "minecraft:beetroot",
+          "minecraft:carrot",
+          "minecraft:pumpkin",
+          "pamhc2crops:arrowrootitem",
+          "pamhc2crops:artichokeitem",
+          "pamhc2crops:asparagusitem",
+          "pamhc2crops:asparagusseeditem",
+          "pamhc2crops:bellpepperitem",
+          "pamhc2crops:bokchoyitem",
+          "pamhc2crops:broccoliitem",
+          "pamhc2crops:broccoliseeditem",
+          "pamhc2crops:brusselsproutitem",
+          "pamhc2crops:cabbageitem",
+          "pamhc2crops:cabbageseeditem",
+          "pamhc2crops:calabashitem",
+          "pamhc2crops:cassavaitem",
+          "pamhc2crops:caulifloweritem",
+          "pamhc2crops:cauliflowerseeditem",
+          "pamhc2crops:celeryitem",
+          "pamhc2crops:celeryseeditem",
+          "pamhc2crops:chilipepperitem",
+          "pamhc2crops:cucumberitem",
+          "pamhc2crops:eggplantitem",
+          "pamhc2crops:garlicitem",
+          "pamhc2crops:garlicseeditem",
+          "pamhc2crops:gingeritem",
+          "pamhc2crops:jicamaitem",
+          "pamhc2crops:kaleitem",
+          "pamhc2crops:kaleseeditem",
+          "pamhc2crops:kohlrabiitem",
+          "pamhc2crops:leekitem",
+          "pamhc2crops:leekseeditem",
+          "pamhc2crops:lettuceitem",
+          "pamhc2crops:lettuceseeditem",
+          "pamhc2crops:lotusitem",
+          "pamhc2crops:nettlesitem",
+          "pamhc2crops:nopalesitem",
+          "pamhc2crops:okraitem",
+          "pamhc2crops:onionitem",
+          "pamhc2crops:parsnipitem",
+          "pamhc2crops:peanutitem",
+          "pamhc2crops:peasitem",
+          "pamhc2crops:radishitem",
+          "pamhc2crops:rhubarbitem",
+          "pamhc2crops:rhubarbseeditem",
+          "pamhc2crops:rutabagaitem",
+          "pamhc2crops:scallionitem",
+          "pamhc2crops:soybeanitem",
+          "pamhc2crops:spinachitem",
+          "pamhc2crops:spinachseeditem",
+          "pamhc2crops:sweetpotatoitem",
+          "pamhc2crops:taroitem",
+          "pamhc2crops:tomatilloitem",
+          "pamhc2crops:tomatoitem",
+          "pamhc2crops:turnipitem",
+          "pamhc2crops:waterchestnutitem",
+          "pamhc2crops:whitemushroomitem",
+          "pamhc2crops:wintersquashitem",
+          "pamhc2crops:zucchiniitem",
+          "pamhc2crops:zucchiniseeditem",
+          "pamhc2trees:avocadoitem",
+          "pamhc2trees:oliveitem"
+        ]
+      }
+    ],
+    "patched": {
+      "category": "misc",
+      "result": {
+        "id": "pamhc2foodcore:p8juiceitem",
+        "count": 1
+      },
+      "ingredients": [
+        {
+          "tag": "c:tool_juicer"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/p8juiceitem/1"
+        },
+        {
+          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/p8juiceitem/2"
+        }
+      ],
+      "type": "hearth_horizons_compat:cold_preparation"
+    }
+  }
+]

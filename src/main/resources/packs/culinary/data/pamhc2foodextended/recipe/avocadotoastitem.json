@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:crops/avocado"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/avocadotoastitem",
+    "count": 1
+  }
+}

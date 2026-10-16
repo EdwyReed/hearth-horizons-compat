@@ -1,0 +1,34 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:futomakiitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:boiledegg"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    },
+    {
+      "tag": "c:crops/wintersquash"
+    },
+    {
+      "tag": "c:crops/radish"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/ginger"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/futomakiitem/7"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

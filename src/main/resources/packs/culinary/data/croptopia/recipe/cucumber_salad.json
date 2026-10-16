@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/spinach"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/lettuce"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "croptopia:cucumber_salad"
+  }
+}

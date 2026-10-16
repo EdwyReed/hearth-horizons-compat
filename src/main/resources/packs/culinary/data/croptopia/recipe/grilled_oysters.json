@@ -1,0 +1,31 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/grilled_oysters",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:oysters"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:oysters"
+    },
+    {
+      "tag": "c:lemons"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ]
+}

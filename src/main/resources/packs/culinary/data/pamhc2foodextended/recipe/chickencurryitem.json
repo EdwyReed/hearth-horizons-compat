@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:crops/coconut"
+    },
+    {
+      "tag": "c:yogurt"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:spices/currypowder"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/chili_pepper"
+    },
+    {
+      "tag": "hearth_horizons:grains/rice"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/chickencurryitem",
+    "count": 1
+  }
+}

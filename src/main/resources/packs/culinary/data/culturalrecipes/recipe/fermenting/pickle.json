@@ -1,0 +1,25 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "category": "meals",
+  "experience": 0.6,
+  "fermenting_time": 12000,
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "culturaldelights:pickle"
+  },
+  "temperature": 2
+}

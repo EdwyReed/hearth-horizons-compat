@@ -1,0 +1,21 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:stock"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/gardensoupitem",
+    "count": 1
+  }
+}

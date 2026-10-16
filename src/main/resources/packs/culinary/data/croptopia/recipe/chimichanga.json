@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/chimichanga",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "croptopia:burrito"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "croptopia:cooking_pot"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

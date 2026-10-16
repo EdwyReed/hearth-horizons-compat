@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_grinder"
+    },
+    {
+      "tag": "hearth_horizons:grains/manual_flour_sources"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:flouritem",
+    "count": 1
+  }
+}

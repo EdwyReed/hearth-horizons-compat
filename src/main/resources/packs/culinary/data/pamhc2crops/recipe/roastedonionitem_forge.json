@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "hearth_horizons:vegetables/onion"
+  },
+  "result": {
+    "id": "pamhc2crops:roastedonionitem"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

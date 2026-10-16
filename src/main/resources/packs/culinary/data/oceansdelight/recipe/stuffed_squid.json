@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "oceansdelight:stuffed_squid",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "oceansdelight:tentacles"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/oceansdelight/stuffed_squid/1"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

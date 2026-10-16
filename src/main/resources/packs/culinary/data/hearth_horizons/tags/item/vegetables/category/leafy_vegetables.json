@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#hearth_horizons:vegetables/cabbage_food",
+    "#c:leafyvegetables/kale",
+    "#hearth_horizons:vegetables/lettuce",
+    "#hearth_horizons:vegetables/spinach",
+    "#c:leafyvegetables/nopales",
+    "#c:leafyvegetables/nettles",
+    "#c:leafyvegetables/bokchoy"
+  ]
+}

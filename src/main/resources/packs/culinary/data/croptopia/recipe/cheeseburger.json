@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/cheeseburger",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

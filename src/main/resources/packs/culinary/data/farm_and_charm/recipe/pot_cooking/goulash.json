@@ -1,0 +1,30 @@
+{
+  "type": "farm_and_charm:pot_cooking",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:vegetables/onion"
+    },
+    {
+      "tag": "farm_and_charm:cooked_beef"
+    },
+    {
+      "item": "farm_and_charm:simple_tomato_soup"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "requireContainer": false,
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "result": {
+    "id": "farm_and_charm:goulash",
+    "count": 1
+  },
+  "requiresLearning": false
+}

@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:musubiitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/1"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/2"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

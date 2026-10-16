@@ -1,0 +1,19 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/expandeddelight/chocolate_cookie",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "tag": "c:crops/grain"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ]
+}

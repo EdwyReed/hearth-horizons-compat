@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:cooked_beef",
+    "pamhc2foodextended:cookedtofeakitem"
+  ]
+}

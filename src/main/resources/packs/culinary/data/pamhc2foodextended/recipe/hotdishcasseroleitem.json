@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:rawmeats"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/category/vegetables"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "item": "pamhc2foodextended:tatertotsitem"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/hotdishcasseroleitem",
+    "count": 1
+  }
+}

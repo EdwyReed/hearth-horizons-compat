@@ -1,0 +1,32 @@
+{
+  "type": "farm_and_charm:roaster",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/barley"
+    },
+    {
+      "tag": "hearth_horizons:grains/barley"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "farm_and_charm:butter"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/lettuce"
+    }
+  ],
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "result": {
+    "id": "farm_and_charm:barley_patties_with_potatoes",
+    "count": 2
+  },
+  "requiresLearning": false
+}

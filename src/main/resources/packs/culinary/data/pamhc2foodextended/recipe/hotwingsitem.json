@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/hotwingsitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "c:condiments/hotsauce"
+    },
+    {
+      "tag": "c:rawchicken"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

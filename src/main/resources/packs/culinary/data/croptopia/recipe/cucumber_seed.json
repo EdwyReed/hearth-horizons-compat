@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "croptopia:cucumber"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "culturaldelights:cut_cucumber",
+        "count": 2
+      }
+    },
+    {
+      "item": {
+        "id": "croptopia:cucumber_seed"
+      }
+    },
+    {
+      "chance": 0.5,
+      "item": {
+        "id": "croptopia:cucumber_seed"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "croptopiadelight:tools/knives"
+  }
+}

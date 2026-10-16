@@ -1,0 +1,27 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_saucepan"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:condiments/hoisinsauce"
+    },
+    {
+      "item": "pamhc2foodextended:fivespiceitem"
+    },
+    {
+      "tag": "c:honey"
+    },
+    {
+      "tag": "c:condiments/soysauce"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/charsiuitem",
+    "count": 1
+  }
+}

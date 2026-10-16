@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "minecraft:tropical_fish",
+    "pamhc2foodextended:cookedtofishitem"
+  ]
+}

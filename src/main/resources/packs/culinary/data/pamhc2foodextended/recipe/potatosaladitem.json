@@ -1,0 +1,31 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:potatosaladitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/1"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    },
+    {
+      "tag": "c:condiments/mustard"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/5"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onions"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

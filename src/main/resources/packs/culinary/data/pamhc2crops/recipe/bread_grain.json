@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2crops/bread_grain",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/categories/c_grain"
+    },
+    {
+      "tag": "hearth_horizons:grains/categories/c_grain"
+    },
+    {
+      "tag": "hearth_horizons:grains/categories/c_grain"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

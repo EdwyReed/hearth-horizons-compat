@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/banana_nut_bread",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "croptopia:cinnamon"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:bananas"
+    },
+    {
+      "tag": "c:nuts"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/expandeddelight/sugar_cookie"
+    }
+  ],
+  "result": {
+    "id": "expandeddelight:sugar_cookie",
+    "count": 8
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

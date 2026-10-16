@@ -1,0 +1,37 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/goulash",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "croptopia:pork_replacements"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/onions"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    },
+    {
+      "tag": "croptopia:pork_replacements"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:uncooked/pamhc2foodcore/powdereddonutitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:powdereddonutitem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

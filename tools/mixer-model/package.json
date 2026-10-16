@@ -1,0 +1,11 @@
+{
+  "name": "hearth-horizons-mixer-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node export.js"
+  },
+  "dependencies": {
+    "three": "0.184.0"
+  }
+}

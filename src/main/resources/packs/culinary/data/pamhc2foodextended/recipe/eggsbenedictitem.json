@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:eggsbenedictitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsbenedictitem/1"
+    },
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsbenedictitem/3"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:crops/lemon"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

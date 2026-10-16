@@ -1,0 +1,31 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:beetburgeritem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/beetburgeritem/1"
+    },
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:friedegg"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/beetburgeritem/4"
+    },
+    {
+      "tag": "c:crops/pineapple"
+    },
+    {
+      "tag": "c:toast"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

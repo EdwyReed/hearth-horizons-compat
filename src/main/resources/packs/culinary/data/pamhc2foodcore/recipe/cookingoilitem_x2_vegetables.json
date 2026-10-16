@@ -1,0 +1,16 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodcore:cookingoilitem",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_roller"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/cookingoilitem_x2_vegetables/1"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

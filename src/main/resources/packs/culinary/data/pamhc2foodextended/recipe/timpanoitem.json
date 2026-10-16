@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "item": "pamhc2foodextended:spagettiandmeatballsitem"
+    },
+    {
+      "item": "pamhc2foodextended:deviledeggitem"
+    },
+    {
+      "tag": "c:sausage"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/timpanoitem",
+    "count": 1
+  }
+}

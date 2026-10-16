@@ -1,0 +1,21 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:cocoapowder"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodcore/chocolatedonutitem",
+    "count": 1
+  }
+}

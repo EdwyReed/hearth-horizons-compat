@@ -1,0 +1,16 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/tortillas",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/cornmeal"
+    },
+    {
+      "tag": "hearth_horizons:grains/cornmeal"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

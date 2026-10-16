@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:cookingoil"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/sunflowerwheatrollsitem",
+    "count": 1
+  }
+}

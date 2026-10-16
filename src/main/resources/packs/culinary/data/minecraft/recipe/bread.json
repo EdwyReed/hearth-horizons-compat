@@ -1,0 +1,19 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecraft/bread",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "bakery:wheat"
+    },
+    {
+      "tag": "bakery:wheat"
+    },
+    {
+      "tag": "bakery:wheat"
+    }
+  ]
+}

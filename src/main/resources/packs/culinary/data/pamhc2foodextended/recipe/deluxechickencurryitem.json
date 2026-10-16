@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:deluxechickencurryitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:chickencurryitem"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/deluxechickencurryitem/2"
+    },
+    {
+      "item": "pamhc2foodextended:naanitem"
+    },
+    {
+      "item": "pamhc2foodextended:mangochutneyitem"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

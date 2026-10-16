@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/rusticdelight/syrup_cookie",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "rusticdelight:syrup"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

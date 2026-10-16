@@ -1,0 +1,33 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "hearth_horizons:grains/corn"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:crops/scallion"
+    },
+    {
+      "tag": "c:condiments/oystersauce"
+    },
+    {
+      "tag": "c:crops/coconut"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/meesuaitem",
+    "count": 1
+  }
+}

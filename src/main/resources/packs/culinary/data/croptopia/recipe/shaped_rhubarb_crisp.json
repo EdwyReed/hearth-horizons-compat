@@ -1,0 +1,31 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/shaped_rhubarb_crisp",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/oat"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "c:rhubarb"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "tag": "c:salts"
+    }
+  ]
+}

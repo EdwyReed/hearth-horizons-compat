@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:californiarollitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "c:crops/avocado"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/californiarollitem/5"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

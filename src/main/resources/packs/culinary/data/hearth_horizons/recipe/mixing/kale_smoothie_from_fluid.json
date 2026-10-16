@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:tag",
+      "tag": "hearth_horizons:liquids/cow_milk",
+      "amount": 250
+    },
+    {
+      "tag": "croptopiadelight:tomato"
+    },
+    {
+      "tag": "croptopiadelight:kale"
+    },
+    {
+      "item": "croptopia:mango"
+    },
+    {
+      "item": "croptopia:yoghurt"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "processing_time": 200,
+  "results": [
+    {
+      "id": "croptopia:kale_smoothie"
+    },
+    {
+      "id": "minecraft:bowl",
+      "count": 1
+    }
+  ]
+}

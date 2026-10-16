@@ -1,0 +1,13 @@
+{
+  "type": "hexerei:pestle_and_mortar",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:dried_salt"
+    }
+  ],
+  "output": {
+    "id": "croptopia:salt",
+    "count": 1
+  },
+  "grindingTime": 200
+}

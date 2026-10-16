@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#hearth_horizons:grains/wheat",
+    "#hearth_horizons:grains/barley",
+    "#hearth_horizons:grains/oat",
+    "#hearth_horizons:grains/rye"
+  ]
+}

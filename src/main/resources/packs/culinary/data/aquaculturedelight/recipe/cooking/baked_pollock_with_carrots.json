@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_pollock"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "hearth_horizons:vegetables/category/food_vegetable"
+      },
+      "subtracted": {
+        "item": "minecraft:melon_slice"
+      }
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cabbage_food"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "aquaculturedelight:baked_pollock_with_carrots"
+  },
+  "container": {
+    "id": "minecraft:bowl"
+  }
+}

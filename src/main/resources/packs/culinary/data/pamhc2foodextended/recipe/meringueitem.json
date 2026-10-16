@@ -1,0 +1,25 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/meringueitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_mixingbowl"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:cornmeal"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

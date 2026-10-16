@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "pamhc2foodextended:hamandcheesesandwichitem",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/hamandcheesesandwichitem/2"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

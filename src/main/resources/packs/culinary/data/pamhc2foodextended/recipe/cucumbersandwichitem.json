@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tool_cuttingboard"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "hearth_horizons:vegetables/cucumber"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:cream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cucumbersandwichitem",
+    "count": 1
+  }
+}

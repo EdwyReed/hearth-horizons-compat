@@ -1,0 +1,22 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/croptopia/wine",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "c:grapes"
+    },
+    {
+      "tag": "c:grapes"
+    },
+    {
+      "item": "croptopia:food_press"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

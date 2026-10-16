@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_compat:raisin_oatmeal_cookie_preparation"
+    }
+  ],
+  "result": {
+    "id": "croptopia:raisin_oatmeal_cookie",
+    "count": 4
+  },
+  "experience": 0.0,
+  "requiresLearning": false
+}

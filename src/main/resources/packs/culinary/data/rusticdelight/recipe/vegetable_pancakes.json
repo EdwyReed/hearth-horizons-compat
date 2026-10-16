@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "M": {
+      "item": "rusticdelight:batter"
+    },
+    "T": {
+      "tag": "c:drinks/milk"
+    },
+    "X": {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "hearth_horizons:vegetables/category/food_vegetable"
+      },
+      "subtracted": {
+        "item": "minecraft:melon_slice"
+      }
+    },
+    "Y": {
+      "tag": "c:foods/leafy_green"
+    }
+  },
+  "pattern": [
+    " T ",
+    "XMX",
+    "YBY"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rusticdelight:vegetable_pancakes"
+  }
+}

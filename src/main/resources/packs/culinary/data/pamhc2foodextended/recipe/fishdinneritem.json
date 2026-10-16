@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_skillet"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/fishdinneritem",
+    "count": 1
+  }
+}

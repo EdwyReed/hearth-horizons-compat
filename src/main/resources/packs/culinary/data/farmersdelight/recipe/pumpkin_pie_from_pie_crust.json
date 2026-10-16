@@ -1,0 +1,32 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/farmersdelight/pumpkin_pie_from_pie_crust",
+    "count": 1
+  },
+  "group": "fd_pumpkin_pie",
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    }
+  ]
+}

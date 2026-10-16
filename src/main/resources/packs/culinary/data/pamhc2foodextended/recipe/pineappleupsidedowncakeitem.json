@@ -1,0 +1,24 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_bakeware"
+    },
+    {
+      "tag": "c:crops/pineapple"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/cherry"
+    },
+    {
+      "tag": "c:crops/walnut"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/pineappleupsidedowncakeitem",
+    "count": 1
+  }
+}

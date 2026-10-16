@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/aquaculture/turtle_soup",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "aquaculture:turtle"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

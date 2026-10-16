@@ -1,0 +1,19 @@
+{
+  "category": "misc",
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/minecolonies/cheese_ravioli",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecolonies:durum"
+    },
+    {
+      "item": "minecolonies:durum"
+    },
+    {
+      "item": "minecolonies:cheddar_cheese"
+    }
+  ],
+  "type": "hearth_horizons_compat:cold_preparation"
+}

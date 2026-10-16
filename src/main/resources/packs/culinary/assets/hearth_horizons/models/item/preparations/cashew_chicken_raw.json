@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hearth_horizons:item/preparations/cashew_chicken_raw"
+  }
+}

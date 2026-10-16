@@ -1,0 +1,30 @@
+{
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "c:tool_pot"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "c:cocoapowder"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    }
+  ],
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/pambitsboxitem",
+    "count": 1
+  }
+}

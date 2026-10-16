@@ -1,0 +1,19 @@
+{
+  "result": {
+    "id": "hearth_horizons_compat:uncooked/expandeddelight/sugar_cookie",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "hearth_horizons_compat:cold_preparation",
+  "ingredients": [
+    {
+      "tag": "hearth_horizons:grains/wheat"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "hearth_horizons:grains/wheat"
+    }
+  ]
+}
