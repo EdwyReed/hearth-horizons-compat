@@ -9,7 +9,7 @@
       "tag": "c:tool_mixingbowl"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/springrollitem/1"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/springrollitem/1"
     },
     {
       "tag": "c:condiments/hoisinsauce"
@@ -30,5 +30,5 @@
       "tag": "hearth_horizons:vegetables/cabbage_food"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

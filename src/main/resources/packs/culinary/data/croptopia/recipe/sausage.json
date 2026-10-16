@@ -1,10 +1,10 @@
 {
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/sausage",
+    "id": "hearth_horizons_qol:uncooked/croptopia/sausage",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
       "tag": "c:ground_pork"

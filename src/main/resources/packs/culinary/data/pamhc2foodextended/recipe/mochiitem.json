@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/pamhc2foodextended/mochiitem",
+    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/mochiitem",
     "count": 1
   },
   "ingredients": [
@@ -18,5 +18,5 @@
       "tag": "c:water"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

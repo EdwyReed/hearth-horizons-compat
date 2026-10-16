@@ -4,10 +4,10 @@
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/croptopia/mashed_potatoes/0"
+      "tag": "hearth_horizons_qol:cold_ingredients/croptopia/mashed_potatoes/0"
     },
     {
       "tag": "c:salts"

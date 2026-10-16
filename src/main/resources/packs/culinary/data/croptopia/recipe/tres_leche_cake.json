@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/tres_leche_cake",
+    "id": "hearth_horizons_qol:uncooked/croptopia/tres_leche_cake",
     "count": 1
   },
   "ingredients": [
@@ -27,5 +27,5 @@
       "item": "croptopia:whipping_cream"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

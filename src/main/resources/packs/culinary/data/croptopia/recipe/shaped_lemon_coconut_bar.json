@@ -1,10 +1,10 @@
 {
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/shaped_lemon_coconut_bar",
+    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_lemon_coconut_bar",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
       "item": "minecraft:sugar"

@@ -1,0 +1,12 @@
+{
+  "block.hearth_horizons_qol.manual_mixer": "Manual mixer",
+  "block.hearth_horizons_qol.manual_mixer.description": "Right-click the crank to mix without heat. Turning costs the same food exhaustion as a Create hand crank.",
+  "jei.hearth_horizons_qol.manual_mixing": "Manual mixer",
+  "jei.hearth_horizons_qol.manual_mixing.time": "%s s of hand cranking",
+  "jei.hearth_horizons_qol.manual_mixing.chance": "Chance: %s%%",
+  "block.hearth_horizons_compat.manual_mixer": "Manual mixer",
+  "block.hearth_horizons_compat.manual_mixer.description": "Right-click the crank to mix without heat. Turning costs the same food exhaustion as a Create hand crank.",
+  "jei.hearth_horizons_compat.manual_mixing": "Manual mixer",
+  "jei.hearth_horizons_compat.manual_mixing.time": "%s s of hand cranking",
+  "jei.hearth_horizons_compat.manual_mixing.chance": "Chance: %s%%"
+}

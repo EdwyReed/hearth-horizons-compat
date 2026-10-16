@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/minecolonies/plain_cheesecake",
+    "id": "hearth_horizons_qol:uncooked/minecolonies/plain_cheesecake",
     "count": 1
   },
   "ingredients": [
@@ -27,5 +27,5 @@
       "item": "minecraft:egg"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

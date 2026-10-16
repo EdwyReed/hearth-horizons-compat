@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/candied_kumquats",
+    "id": "hearth_horizons_qol:uncooked/croptopia/candied_kumquats",
     "count": 1
   },
   "ingredients": [
@@ -33,5 +33,5 @@
       "item": "minecraft:honey_bottle"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

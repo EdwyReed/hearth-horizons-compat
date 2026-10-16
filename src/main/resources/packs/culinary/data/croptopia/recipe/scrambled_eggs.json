@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/scrambled_eggs",
+    "id": "hearth_horizons_qol:uncooked/croptopia/scrambled_eggs",
     "count": 1
   },
   "ingredients": [
@@ -15,5 +15,5 @@
       "tag": "c:cheeses"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

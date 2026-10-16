@@ -2,9 +2,9 @@ plugins {
     id 'java-library'
     id 'net.neoforged.moddev' version '2.0.148'
 }
-version = '0.5.1'
+version = '0.6.0'
 group = 'dev.hearthhorizons'
-base { archivesName = 'hearth-horizons-compat' }
+base { archivesName = 'hearth-horizons-quality-of-life' }
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 repositories { mavenCentral() }
 def profile = providers.gradleProperty('minecraftProfile').orElse(providers.environmentVariable('HH_MINECRAFT_PROFILE'))
@@ -41,28 +41,28 @@ neoForge {
             client()
             gameDirectory = file('run/client')
             jvmArgument '-Xmx2G'
-            systemProperty 'neoforge.enabledGameTestNamespaces', 'hearth_horizons_compat'
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'hearth_horizons_qol'
         }
         gameTestServer {
             type = 'gameTestServer'
             gameDirectory = file(providers.gradleProperty('recipePackQa').isPresent() ? 'run/recipe-gametest' : 'run/gametest')
-            systemProperty 'neoforge.enabledGameTestNamespaces', 'hearth_horizons_compat'
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'hearth_horizons_qol'
             if (providers.gradleProperty('recipePackQa').isPresent()) { jvmArgument '-Xmx4G' }
         }
     }
-    mods { hearth_horizons_compat { sourceSet sourceSets.main } }
+    mods { hearth_horizons_qol { sourceSet sourceSets.main } }
 }
 tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8'; dependsOn tasks.named('prepareCreateCompileLibs') }
 tasks.withType(Jar).configureEach {
     preserveFileTimestamps = false
     reproducibleFileOrder = true
     includeEmptyDirs = false
-    exclude 'dev/hearthhorizons/compat/gametest/**', 'dev/hearthhorizons/compat/client/ClientQa.class'
-    exclude 'data/hearth_horizons_compat/structure/*.nbt'
+    exclude 'dev/hearthhorizons/qol/gametest/**', 'dev/hearthhorizons/qol/client/ClientQa.class'
+    exclude 'data/hearth_horizons_qol/structure/*.nbt'
     exclude 'qa/**'
-    exclude 'dev/hearthhorizons/compat/client/JeiQa*'
-    exclude 'dev/hearthhorizons/compat/client/SodaQa*'
-    exclude 'dev/hearthhorizons/compat/client/ManualMixerQa*'
-    exclude 'dev/hearthhorizons/compat/client/GalleryQa*'
+    exclude 'dev/hearthhorizons/qol/client/JeiQa*'
+    exclude 'dev/hearthhorizons/qol/client/SodaQa*'
+    exclude 'dev/hearthhorizons/qol/client/ManualMixerQa*'
+    exclude 'dev/hearthhorizons/qol/client/GalleryQa*'
     from('LICENSE') { into 'META-INF' }
 }

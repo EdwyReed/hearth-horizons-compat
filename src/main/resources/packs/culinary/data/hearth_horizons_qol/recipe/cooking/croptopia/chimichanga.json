@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/croptopia/chimichanga"
+    }
+  ],
+  "result": {
+    "id": "croptopia:chimichanga",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

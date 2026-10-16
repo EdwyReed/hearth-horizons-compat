@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodextended/festivalbreaditem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:festivalbreaditem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

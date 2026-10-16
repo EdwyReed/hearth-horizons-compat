@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodextended/pawpawpieitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pawpawpieitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

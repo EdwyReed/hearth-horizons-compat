@@ -18,8 +18,8 @@
       "tag": "c:cheese"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/avocadoburritoitem/4"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/avocadoburritoitem/4"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

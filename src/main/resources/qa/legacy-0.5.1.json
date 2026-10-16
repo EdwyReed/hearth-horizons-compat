@@ -1,0 +1,10 @@
+{
+  "version": "0.5.1",
+  "source_commit": "17fdc6f398f85364369f9ce95201333a05b986b2",
+  "jar_sha256": "40ef13857fb0dd95a5962b66c7bcd412e2c18d9db043a90cbb53d01aaa50775b",
+  "fixture_sha256": "699d1de62adfa4305ea8413b8124c6a6ce526dceaf958c8c5094270b6a3e555f",
+  "method": "Serialized by the original 0.5.1 ItemStack, FluidStack and BlockEntity save methods before the namespace rename.",
+  "items": 756,
+  "fluids": 9,
+  "block_entities": ["manual_mixer", "placed_items", "kitchen_contents"]
+}

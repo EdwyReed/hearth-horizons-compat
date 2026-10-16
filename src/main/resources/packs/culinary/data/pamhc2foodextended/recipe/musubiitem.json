@@ -9,14 +9,14 @@
       "tag": "c:tool_cuttingboard"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/1"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/musubiitem/1"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/2"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/musubiitem/2"
     },
     {
       "item": "minecraft:kelp"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

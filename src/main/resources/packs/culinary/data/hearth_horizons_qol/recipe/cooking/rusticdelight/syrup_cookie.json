@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/rusticdelight/syrup_cookie"
+    }
+  ],
+  "result": {
+    "id": "rusticdelight:syrup_cookie",
+    "count": 8
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

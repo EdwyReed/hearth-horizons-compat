@@ -12,7 +12,7 @@
       "item": "pamhc2foodextended:chickencurryitem"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/deluxechickencurryitem/2"
+      "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/deluxechickencurryitem/2"
     },
     {
       "item": "pamhc2foodextended:naanitem"
@@ -21,5 +21,5 @@
       "item": "pamhc2foodextended:mangochutneyitem"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

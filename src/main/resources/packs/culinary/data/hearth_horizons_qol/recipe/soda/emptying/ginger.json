@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:gingersodaitem"
+    }
+  ],
+  "results": [
+    {
+      "id": "hearth_horizons_qol:ginger_soda",
+      "amount": 250
+    },
+    {
+      "id": "minecraft:glass_bottle"
+    }
+  ]
+}

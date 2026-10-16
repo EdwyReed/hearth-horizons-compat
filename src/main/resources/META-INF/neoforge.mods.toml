@@ -1,62 +1,64 @@
 modLoader="javafml"
 loaderVersion="[4,)"
 license="GPL-3.0-only"
+issueTrackerURL="https://github.com/EdwyReed/hearth-horizons-quality-of-life/issues"
 [[mods]]
-modId="hearth_horizons_compat"
-version="0.5.1"
-displayName="Hearth & Horizons Quality of Life"
+modId="hearth_horizons_qol"
+version="0.6.0"
+displayName="Hearth & Horizons: Quality of Life"
+displayURL="https://modrinth.com/mod/hearth-horizons-quality-of-life"
 description='''Single-block shelf placement, colourful soda fluids, real cooking stages and persistent kitchen servings for Hearth & Horizons.'''
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="create"
 type="required"
 versionRange="[6.0.10,6.1)"
 ordering="AFTER"
 side="BOTH"
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="farmersdelight"
 type="required"
 versionRange="[1.3.1,1.4)"
 ordering="AFTER"
 side="BOTH"
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="pamhc2foodextended"
 type="required"
 versionRange="[1.0.0,1.1)"
 ordering="AFTER"
 side="BOTH"
 [[mixins]]
-config="hearth_horizons_compat.mixins.json"
-[[dependencies.hearth_horizons_compat]]
+config="hearth_horizons_qol.mixins.json"
+[[dependencies.hearth_horizons_qol]]
 modId="minecraft"
 type="required"
 versionRange="[1.21.1]"
 ordering="NONE"
 side="BOTH"
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="jei"
 type="optional"
 versionRange="[19.27,20)"
 ordering="AFTER"
 side="CLIENT"
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="neoforge"
 type="required"
 versionRange="[21.1.228,21.2)"
 ordering="NONE"
 side="BOTH"
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="cluttered"
 type="required"
 versionRange="[3.0.3,3.1)"
 ordering="AFTER"
 side="BOTH"
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="moonlight"
 type="required"
 versionRange="[1.21.1-3.0.7,1.21.1-4)"
 ordering="AFTER"
 side="BOTH"
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="hexerei"
 type="required"
 versionRange="[0.5,0.6)"
@@ -64,217 +66,217 @@ ordering="AFTER"
 side="BOTH"
 
 # Generated culinary provider dependencies: this companion targets the complete Hearth & Horizons pack.
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="aquaculture"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="aquaculturedelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="bakery"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="biomesoplenty"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="brewery"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="brewinandchewin"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="moredelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="crabbersdelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="cratedelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="createaddition"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="createdieselgenerators"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="croptopia"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="croptopiadelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="cuisinedelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="culturaldelights"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="enchanted"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="environmental"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="expandeddelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="farm_and_charm"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="farmersdelight_extended"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="herbalbrews"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="immersiveengineering"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="minecolonies"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="oceansdelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="pamhc2crops"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="pamhc2foodcore"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="pamhc2trees"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="pineapple_delight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="rusticdelight"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="supplementaries"
 type="required"
 versionRange="[0,)"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.hearth_horizons_compat]]
+[[dependencies.hearth_horizons_qol]]
 modId="vinery"
 type="required"
 versionRange="[0,)"

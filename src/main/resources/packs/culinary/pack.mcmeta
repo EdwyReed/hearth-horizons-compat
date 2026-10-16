@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 48,
     "supported_formats": { "min_inclusive": 34, "max_inclusive": 48 },
-    "description": "Hearth & Horizons: recipes and preparation assets (legacy 1.11.0)"
+    "description": "Hearth & Horizons: Quality of Life"
   }
 }

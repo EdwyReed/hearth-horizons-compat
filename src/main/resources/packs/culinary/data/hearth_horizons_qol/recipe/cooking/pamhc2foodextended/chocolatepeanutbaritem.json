@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodextended/chocolatepeanutbaritem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chocolatepeanutbaritem",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingtime": 200
+}

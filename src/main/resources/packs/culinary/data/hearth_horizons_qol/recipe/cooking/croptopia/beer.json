@@ -1,0 +1,16 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/croptopia/beer"
+    }
+  ],
+  "result": {
+    "id": "croptopia:beer",
+    "count": 1
+  },
+  "experience": 0,
+  "fermenting_time": 12000,
+  "temperature": 2,
+  "category": "meals"
+}

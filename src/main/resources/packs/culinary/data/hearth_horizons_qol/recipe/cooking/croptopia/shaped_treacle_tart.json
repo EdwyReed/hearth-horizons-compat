@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/croptopia/shaped_treacle_tart"
+    }
+  ],
+  "result": {
+    "id": "croptopia:treacle_tart",
+    "count": 3
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

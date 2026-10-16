@@ -48,7 +48,7 @@
           "tag": "c:tool_mixingbowl"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/onigiriitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/onigiriitem/1"
         },
         {
           "item": "minecraft:kelp"
@@ -57,7 +57,7 @@
           "tag": "c:crops/sesameseeds"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -226,7 +226,7 @@
           "tag": "c:tool_mixingbowl"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/berryvinaigrettesaladitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/berryvinaigrettesaladitem/1"
         },
         {
           "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
@@ -238,7 +238,7 @@
           "tag": "c:vinegar"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -295,10 +295,10 @@
           "item": "pamhc2foodcore:mashedpotatoesitem"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/mashedpotatoeschickenbiscuititem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/mashedpotatoeschickenbiscuititem/3"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -367,10 +367,10 @@
           "tag": "c:sugar"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/sunflowerbroccolisaladitem/5"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/sunflowerbroccolisaladitem/5"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -434,7 +434,7 @@
           "tag": "c:tool_mixingbowl"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/springrollitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/springrollitem/1"
         },
         {
           "tag": "c:condiments/hoisinsauce"
@@ -455,7 +455,7 @@
           "tag": "hearth_horizons:vegetables/cabbage_food"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -506,10 +506,10 @@
           "tag": "hearth_horizons:vegetables/lettuce"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/porklettucewrapitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/porklettucewrapitem/2"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -566,7 +566,7 @@
           "tag": "c:tool_cuttingboard"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/fishtacoitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/fishtacoitem/1"
         },
         {
           "tag": "hearth_horizons:vegetables/lettuce"
@@ -578,7 +578,7 @@
           "tag": "c:tortilla"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -735,10 +735,10 @@
           "tag": "c:tool_roller"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/cookingoilitem_x2_vegetables/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodcore/cookingoilitem_x2_vegetables/1"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -792,7 +792,7 @@
           "tag": "c:tool_cuttingboard"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/tacoitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/tacoitem/1"
         },
         {
           "tag": "hearth_horizons:vegetables/lettuce"
@@ -804,7 +804,7 @@
           "tag": "c:tortilla"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -865,13 +865,13 @@
           "item": "farmersdelight:cooked_rice"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/calamari_roll/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/culturalrecipes/calamari_roll/2"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/calamari_roll/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/culturalrecipes/calamari_roll/3"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -931,13 +931,13 @@
           "tag": "c:bread"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/hamsweetpicklesandwichitem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/hamsweetpicklesandwichitem/3"
         },
         {
           "tag": "c:condiments/mayonaise"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1000,10 +1000,10 @@
           "tag": "c:cheese"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/avocadoburritoitem/4"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/avocadoburritoitem/4"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1217,16 +1217,16 @@
           "tag": "c:tool_cuttingboard"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/surfandturfitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/surfandturfitem/1"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/surfandturfitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/surfandturfitem/2"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/surfandturfitem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/surfandturfitem/3"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1284,16 +1284,16 @@
       },
       "ingredients": [
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/calamari_roll/0"
+          "tag": "hearth_horizons_qol:cold_ingredients/rusticdelight/calamari_roll/0"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/calamari_roll/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/rusticdelight/calamari_roll/1"
         },
         {
           "item": "farmersdelight:cooked_rice"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1364,7 +1364,7 @@
           "tag": "c:tool_cuttingboard"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/beetburgeritem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/beetburgeritem/1"
         },
         {
           "tag": "c:crops/beetroot"
@@ -1373,7 +1373,7 @@
           "tag": "c:friedegg"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/beetburgeritem/4"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/beetburgeritem/4"
         },
         {
           "tag": "c:crops/pineapple"
@@ -1382,7 +1382,7 @@
           "tag": "c:toast"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1674,16 +1674,16 @@
           "tag": "c:tool_cuttingboard"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/mixedsaladitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/mixedsaladitem/1"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/mixedsaladitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/mixedsaladitem/2"
         },
         {
           "tag": "c:condiments/saladdressing"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1745,10 +1745,10 @@
           "item": "minecraft:sweet_berries"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/rice_ball/4"
+          "tag": "hearth_horizons_qol:cold_ingredients/culturalrecipes/rice_ball/4"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1920,10 +1920,10 @@
           "item": "pamhc2foodcore:mashedpotatoesitem"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/chickendinneritem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodcore/chickendinneritem/3"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -1991,13 +1991,13 @@
           "tag": "c:tool_cuttingboard"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsbenedictitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/eggsbenedictitem/1"
         },
         {
           "item": "pamhc2foodextended:biscuititem"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsbenedictitem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/eggsbenedictitem/3"
         },
         {
           "tag": "c:butter"
@@ -2006,7 +2006,7 @@
           "tag": "c:crops/lemon"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2066,7 +2066,7 @@
           "tag": "c:toast"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/cheesesteakitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/cheesesteakitem/2"
         },
         {
           "tag": "c:cheese"
@@ -2078,7 +2078,7 @@
           "tag": "hearth_horizons:vegetables/onion"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2170,7 +2170,7 @@
           "tag": "c:cheese"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/deluxenachoesitem/4"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/deluxenachoesitem/4"
         },
         {
           "tag": "hearth_horizons:vegetables/chili_pepper"
@@ -2179,7 +2179,7 @@
           "tag": "c:cream"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2243,7 +2243,7 @@
           "tag": "c:rawfish"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/pokebowlitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/pokebowlitem/2"
         },
         {
           "tag": "c:crops/soybean"
@@ -2258,7 +2258,7 @@
           "tag": "c:condiments/soysauce"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2312,7 +2312,7 @@
           "tag": "c:tool_mixingbowl"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/eggsaladitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/eggsaladitem/1"
         },
         {
           "tag": "c:condiments/mayonaise"
@@ -2324,7 +2324,7 @@
           "tag": "c:crops/spiceleaf"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2374,10 +2374,10 @@
         "count": 1
       },
       "category": "misc",
-      "type": "hearth_horizons_compat:cold_preparation",
+      "type": "hearth_horizons_qol:cold_preparation",
       "ingredients": [
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/croptopia/mashed_potatoes/0"
+          "tag": "hearth_horizons_qol:cold_ingredients/croptopia/mashed_potatoes/0"
         },
         {
           "tag": "c:salts"
@@ -2451,7 +2451,7 @@
           "item": "minecraft:bowl"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/potato_salad/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/rusticdelight/potato_salad/1"
         },
         {
           "tag": "hearth_horizons:vegetables/onion"
@@ -2460,10 +2460,10 @@
           "tag": "c:drinks/milk"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/rusticdelight/potato_salad/4"
+          "tag": "hearth_horizons_qol:cold_ingredients/rusticdelight/potato_salad/4"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2533,7 +2533,7 @@
           "tag": "c:tool_mixingbowl"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/potatosaladitem/1"
         },
         {
           "tag": "c:condiments/mayonaise"
@@ -2545,13 +2545,13 @@
           "tag": "c:crops/spiceleaf"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/potatosaladitem/5"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/potatosaladitem/5"
         },
         {
           "tag": "hearth_horizons:vegetables/onions"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2633,10 +2633,10 @@
           "tag": "hearth_horizons:vegetables/ginger"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/futomakiitem/7"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/futomakiitem/7"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2694,7 +2694,7 @@
           "item": "pamhc2foodextended:chickencurryitem"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/deluxechickencurryitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/deluxechickencurryitem/2"
         },
         {
           "item": "pamhc2foodextended:naanitem"
@@ -2703,7 +2703,7 @@
           "item": "pamhc2foodextended:mangochutneyitem"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2776,16 +2776,16 @@
           "tag": "c:scrambledegg"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/breakfastburritoitem/3"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/breakfastburritoitem/4"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/breakfastburritoitem/4"
         },
         {
           "tag": "c:cheese"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -2954,13 +2954,13 @@
           "tag": "hearth_horizons:vegetables/lettuce"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/springsaladitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/springsaladitem/2"
         },
         {
           "tag": "c:condiments/saladdressing"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3037,7 +3037,7 @@
           "tag": "c:tool_mixingbowl"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/museliitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/museliitem/1"
         },
         {
           "item": "pamhc2foodextended:raisinsitem"
@@ -3052,7 +3052,7 @@
           "tag": "c:milk"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3130,13 +3130,13 @@
           "tag": "hearth_horizons:vegetables/onion"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/ploughmanslunchitem/6"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/ploughmanslunchitem/6"
         },
         {
           "tag": "c:boiledegg"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3207,13 +3207,13 @@
           "item": "pamhc2foodextended:biscuititem"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/3"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/4"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/southernstylebreakfastitem/4"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3273,7 +3273,7 @@
           "tag": "c:bread"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/footlongitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/footlongitem/2"
         },
         {
           "tag": "hearth_horizons:vegetables/category/leafy_vegetables"
@@ -3285,7 +3285,7 @@
           "tag": "c:condiments/mayonaise"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3337,7 +3337,7 @@
           "tag": "c:tortillas"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/croptopia/burrito/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/croptopia/burrito/1"
         },
         {
           "tag": "c:blackbeans"
@@ -3346,7 +3346,7 @@
           "tag": "hearth_horizons:vegetables/tomato"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3416,10 +3416,10 @@
           "item": "minecraft:kelp"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/californiarollitem/5"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/californiarollitem/5"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3477,10 +3477,10 @@
           "item": "minecraft:kelp"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/sushiitem/3"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/sushiitem/3"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3543,16 +3543,16 @@
           "tag": "c:tool_cuttingboard"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/musubiitem/1"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/musubiitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/musubiitem/2"
         },
         {
           "item": "minecraft:kelp"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3601,13 +3601,13 @@
           "item": "oceansdelight:tentacles"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/oceansdelight/stuffed_squid/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/oceansdelight/stuffed_squid/1"
         },
         {
           "item": "minecraft:kelp"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3661,10 +3661,10 @@
           "tag": "hearth_horizons:vegetables/lettuce"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/fishlettucewrapitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/fishlettucewrapitem/2"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -3718,13 +3718,13 @@
           "tag": "c:bread"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodextended/hamandcheesesandwichitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodextended/hamandcheesesandwichitem/2"
         },
         {
           "tag": "c:cheese"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   },
   {
@@ -4007,13 +4007,13 @@
           "tag": "c:tool_juicer"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/p8juiceitem/1"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodcore/p8juiceitem/1"
         },
         {
-          "tag": "hearth_horizons_compat:cold_ingredients/pamhc2foodcore/p8juiceitem/2"
+          "tag": "hearth_horizons_qol:cold_ingredients/pamhc2foodcore/p8juiceitem/2"
         }
       ],
-      "type": "hearth_horizons_compat:cold_preparation"
+      "type": "hearth_horizons_qol:cold_preparation"
     }
   }
 ]

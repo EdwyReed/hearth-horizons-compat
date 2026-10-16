@@ -1,10 +1,10 @@
 {
   "result": {
-    "id": "hearth_horizons_compat:uncooked/croptopia/deep_fried_shrimp",
+    "id": "hearth_horizons_qol:uncooked/croptopia/deep_fried_shrimp",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
       "tag": "c:shrimp"

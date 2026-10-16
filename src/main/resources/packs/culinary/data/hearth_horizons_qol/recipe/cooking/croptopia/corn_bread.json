@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/croptopia/corn_bread"
+    }
+  ],
+  "result": {
+    "id": "croptopia:corn_bread",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

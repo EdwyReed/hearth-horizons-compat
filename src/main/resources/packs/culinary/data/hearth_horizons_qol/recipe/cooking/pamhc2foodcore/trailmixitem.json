@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/pamhc2foodcore/trailmixitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:trailmixitem",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

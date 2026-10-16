@@ -1,7 +1,7 @@
 {
-  "type": "hearth_horizons_compat:skillet",
+  "type": "hearth_horizons_qol:skillet",
   "ingredient": {
-    "item": "hearth_horizons_compat:beef_stir_fry_preparation"
+    "item": "hearth_horizons_qol:beef_stir_fry_preparation"
   },
   "result": {
     "id": "croptopia:beef_stir_fry",

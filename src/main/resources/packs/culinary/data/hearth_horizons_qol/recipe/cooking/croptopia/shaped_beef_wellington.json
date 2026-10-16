@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/croptopia/shaped_beef_wellington"
+    }
+  ],
+  "result": {
+    "id": "croptopia:beef_wellington",
+    "count": 1
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

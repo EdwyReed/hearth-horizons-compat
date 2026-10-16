@@ -1,11 +1,11 @@
 {
   "result": {
-    "id": "hearth_horizons_compat:uncooked/farmersdelight/pumpkin_pie_from_pie_crust",
+    "id": "hearth_horizons_qol:uncooked/farmersdelight/pumpkin_pie_from_pie_crust",
     "count": 1
   },
   "group": "fd_pumpkin_pie",
   "category": "misc",
-  "type": "hearth_horizons_compat:cold_preparation",
+  "type": "hearth_horizons_qol:cold_preparation",
   "ingredients": [
     {
       "item": "farmersdelight:pumpkin_slice"

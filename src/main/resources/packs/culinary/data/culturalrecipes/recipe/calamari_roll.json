@@ -12,11 +12,11 @@
       "item": "farmersdelight:cooked_rice"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/calamari_roll/2"
+      "tag": "hearth_horizons_qol:cold_ingredients/culturalrecipes/calamari_roll/2"
     },
     {
-      "tag": "hearth_horizons_compat:cold_ingredients/culturalrecipes/calamari_roll/3"
+      "tag": "hearth_horizons_qol:cold_ingredients/culturalrecipes/calamari_roll/3"
     }
   ],
-  "type": "hearth_horizons_compat:cold_preparation"
+  "type": "hearth_horizons_qol:cold_preparation"
 }

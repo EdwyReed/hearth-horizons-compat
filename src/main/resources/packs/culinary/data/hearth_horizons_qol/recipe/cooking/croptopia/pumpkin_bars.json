@@ -1,0 +1,14 @@
+{
+  "type": "farm_and_charm:stove",
+  "ingredients": [
+    {
+      "item": "hearth_horizons_qol:uncooked/croptopia/pumpkin_bars"
+    }
+  ],
+  "result": {
+    "id": "croptopia:pumpkin_bars",
+    "count": 3
+  },
+  "experience": 0,
+  "requiresLearning": false
+}

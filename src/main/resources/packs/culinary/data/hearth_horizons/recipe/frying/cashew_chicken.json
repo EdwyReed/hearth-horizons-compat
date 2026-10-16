@@ -1,7 +1,7 @@
 {
-  "type": "hearth_horizons_compat:skillet",
+  "type": "hearth_horizons_qol:skillet",
   "ingredient": {
-    "item": "hearth_horizons_compat:cashew_chicken_preparation"
+    "item": "hearth_horizons_qol:cashew_chicken_preparation"
   },
   "result": {
     "id": "croptopia:cashew_chicken",
