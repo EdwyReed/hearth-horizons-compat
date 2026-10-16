@@ -1,16 +1,20 @@
 {
+  "key": {
+    "1": {
+      "item": "croptopia:knife"
+    },
+    "2": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "pattern": [
+    " 2",
+    "1 "
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_bacon",
+    "id": "croptopia:bacon",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:porkchop"
-    },
-    {
-      "item": "croptopia:knife"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,28 +1,32 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/fried_calamari",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
+  "key": {
+    "1": {
       "tag": "c:calamari"
     },
-    {
+    "2": {
       "tag": "c:lemons"
     },
-    {
+    "3": {
       "item": "rusticdelight:cooking_oil"
     },
-    {
+    "4": {
       "tag": "c:flour"
     },
-    {
+    "5": {
       "item": "croptopia:frying_pan"
     },
-    {
+    "6": {
       "tag": "c:sea_lettuce"
     }
-  ]
+  },
+  "pattern": [
+    "123",
+    "456"
+  ],
+  "result": {
+    "id": "croptopia:fried_calamari",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

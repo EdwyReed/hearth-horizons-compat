@@ -2,8 +2,6 @@ package dev.hearthhorizons.qol.culinary;
 
 import net.minecraft.core.NonNullList;
 import net.minecraft.core.component.DataComponents;
-import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.crafting.CraftingInput;
 
@@ -14,12 +12,6 @@ public final class ContainerLedger {
     public static NonNullList<ItemStack> remaining(CraftingInput input,ItemStack output,NonNullList<ItemStack> nativeRemainders) {
         var finalFood=output.get(DataComponents.FOOD);
         int outputCount=output.getCount();
-        if(finalFood==null) {
-            for(var definition:CookingPreparations.ALL) if(output.is(definition.item().get())) {
-                var ready=new ItemStack(BuiltInRegistries.ITEM.get(ResourceLocation.parse(definition.result())));
-                finalFood=ready.get(DataComponents.FOOD);outputCount=definition.count();break;
-            }
-        }
         var vessel=finalFood==null?ItemStack.EMPTY:finalFood.usingConvertsTo().orElse(ItemStack.EMPTY);
         int carry=vessel.isEmpty()?0:outputCount;
         for(var stack:input.items()) if(!vessel.isEmpty() && stack.is(vessel.getItem())) carry--;

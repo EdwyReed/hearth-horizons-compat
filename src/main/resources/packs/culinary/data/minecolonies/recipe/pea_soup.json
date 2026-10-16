@@ -1,8 +1,8 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecolonies/pea_soup",
-    "count": 1
+    "id": "minecolonies:pea_soup",
+    "count": 2
   },
   "ingredients": [
     {
@@ -24,5 +24,5 @@
       "item": "minecraft:bowl"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

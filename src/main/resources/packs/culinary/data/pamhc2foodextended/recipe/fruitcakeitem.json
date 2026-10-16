@@ -1,5 +1,5 @@
 {
-  "type": "hearth_horizons_qol:cold_preparation",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "c:tool_bakeware"
@@ -27,7 +27,7 @@
     }
   ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/fruitcakeitem",
+    "id": "pamhc2foodextended:fruitcakeitem",
     "count": 1
   }
 }

@@ -17,7 +17,6 @@ public final class PreparationJeiPlugin implements IModPlugin {
     @Override public ResourceLocation getPluginUid() { return ResourceLocation.fromNamespaceAndPath(HearthHorizonsQualityOfLife.ID, "preparations"); }
     @Override public void registerExtraIngredients(IExtraIngredientRegistration registration) {
         registration.addExtraItemStacks(PreparationItems.DEFINITIONS.stream().map(PreparationItems.Definition::stack).toList());
-        registration.addExtraItemStacks(dev.hearthhorizons.qol.culinary.CookingPreparations.ALL.stream().map(d -> new net.minecraft.world.item.ItemStack(d.item().get())).toList());
     }
     @Override public void registerCategories(mezz.jei.api.registration.IRecipeCategoryRegistration registration) {
         registration.addRecipeCategories(new SkilletCategory(registration.getJeiHelpers().getGuiHelper()),new ManualMixingCategory(registration.getJeiHelpers().getGuiHelper()));

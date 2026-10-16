@@ -4,12 +4,15 @@ Small gameplay additions for Hearth & Horizons.
 
 - A hand-cranked mixer for unheated Create recipes.
 - Herb jars on shelves and usable Cluttered food displays.
-- Shared cooking ingredients, staged recipes and nine sodas.
+- Shared cooking ingredients, three reviewed preparation recipes and nine sodas.
 
 Minecraft 1.21.1 · NeoForge · Java 21. Install on both client and server.
 
 [Downloads](https://github.com/EdwyReed/hearth-horizons-quality-of-life/releases) · [Dependencies](DEPENDENCIES.md) · [Building](CONTRIBUTING.md) · [Credits](NOTICE.md)
 
-Saves from 0.5.x migrate automatically. Replace the old JAR when updating.
+Replace the old JAR when updating. The 752 unreviewed automatic preparation items
+and their cooking stages were removed in 0.6.1; their recipes again produce the
+original outputs. Those removed items have no migration. The three reviewed
+preparations and other compatibility fixes remain.
 
 GPL-3.0-only.

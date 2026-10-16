@@ -1,34 +1,39 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:egg"
+    },
+    "2": {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    "3": {
+      "tag": "c:vanilla"
+    },
+    "4": {
+      "item": "croptopia:whipping_cream"
+    },
+    "5": {
+      "item": "minecraft:sugar"
+    },
+    "6": {
+      "tag": "c:butters"
+    },
+    "7": {
+      "tag": "c:dates"
+    },
+    "8": {
+      "tag": "c:salts"
+    }
+  },
+  "pattern": [
+    "7 8",
+    "456",
+    "123"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_sticky_toffee_pudding",
+    "id": "croptopia:sticky_toffee_pudding",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "c:dates"
-    },
-    {
-      "tag": "c:salts"
-    },
-    {
-      "item": "croptopia:whipping_cream"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "c:butters"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "pamhc2foodcore:freshwateritem"
-    },
-    {
-      "tag": "c:vanilla"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

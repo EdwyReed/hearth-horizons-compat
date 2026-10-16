@@ -1,34 +1,39 @@
 {
+  "key": {
+    "1": {
+      "tag": "c:artichokes"
+    },
+    "2": {
+      "item": "croptopia:pepper"
+    },
+    "3": {
+      "tag": "c:lemons"
+    },
+    "4": {
+      "item": "minecraft:bread"
+    },
+    "5": {
+      "tag": "c:cheeses"
+    },
+    "6": {
+      "item": "rusticdelight:cooking_oil"
+    },
+    "7": {
+      "tag": "c:salts"
+    },
+    "8": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "pattern": [
+    "456",
+    "123",
+    "7 8"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_stuffed_artichoke",
+    "id": "croptopia:stuffed_artichoke",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:bread"
-    },
-    {
-      "tag": "c:cheeses"
-    },
-    {
-      "item": "rusticdelight:cooking_oil"
-    },
-    {
-      "tag": "c:artichokes"
-    },
-    {
-      "item": "croptopia:pepper"
-    },
-    {
-      "tag": "c:lemons"
-    },
-    {
-      "tag": "c:salts"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

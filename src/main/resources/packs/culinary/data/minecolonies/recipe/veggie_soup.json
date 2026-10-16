@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecolonies/veggie_soup",
+    "id": "minecolonies:veggie_soup",
     "count": 1
   },
   "ingredients": [
@@ -24,5 +24,5 @@
       "item": "minecraft:bowl"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

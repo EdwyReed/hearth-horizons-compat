@@ -17,3 +17,8 @@ Run the server tests with the recipe dependencies listed in `qa-recipe-mods.json
 On Windows, use `gradlew.bat`. Test worlds stay in `run/`. Tests and fixtures are excluded from the release JAR.
 
 To regenerate the mixer mesh, run `pnpm install --frozen-lockfile` and `pnpm generate` in `tools/mixer-model/`.
+
+New preparation items require explicit scope approval, a reviewed reason for the
+extra cooking step, and a dedicated approved icon. Do not generate preparation
+variants across existing recipes automatically. The current approved set is raisin
+oatmeal cookies, cashew chicken, and beef stir fry.

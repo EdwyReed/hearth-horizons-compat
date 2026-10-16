@@ -1,28 +1,32 @@
 {
+  "key": {
+    "1": {
+      "item": "croptopia:frying_pan"
+    },
+    "2": {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    "3": {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    "4": {
+      "tag": "c:butters"
+    },
+    "5": {
+      "tag": "c:flour"
+    },
+    "6": {
+      "item": "rusticdelight:cooking_oil"
+    }
+  },
+  "pattern": [
+    "213",
+    "456"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/dauphine_potatoes",
+    "id": "croptopia:dauphine_potatoes",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "pamhc2foodcore:freshwateritem"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    },
-    {
-      "tag": "hearth_horizons:liquids/milk_bottles_250"
-    },
-    {
-      "tag": "c:butters"
-    },
-    {
-      "tag": "c:flour"
-    },
-    {
-      "item": "rusticdelight:cooking_oil"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

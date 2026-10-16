@@ -1,5 +1,5 @@
 {
-  "type": "hearth_horizons_qol:cold_preparation",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "c:tool_bakeware"
@@ -12,7 +12,7 @@
     }
   ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodcore/glowberrymuffinitem",
+    "id": "pamhc2foodcore:glowberrymuffinitem",
     "count": 1
   }
 }

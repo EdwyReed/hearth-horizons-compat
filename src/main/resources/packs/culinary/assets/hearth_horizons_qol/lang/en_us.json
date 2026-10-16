@@ -1,5 +1,5 @@
 {
-  "item.hearth_horizons_qol.preparation.not_food": "Preparation — cook before eating",
+  "item.hearth_horizons_qol.preparation.not_food": "Preparation â€” cook before eating",
   "item.hearth_horizons_qol.raisin_oatmeal_cookie_preparation": "Dough for 4 raisin oatmeal cookies",
   "item.hearth_horizons_qol.raisin_oatmeal_cookie_preparation.stage": "Preparation: requires baking",
   "item.hearth_horizons_qol.cashew_chicken_preparation": "Cashew chicken preparation",
@@ -16,9 +16,8 @@
   "fluid.hearth_horizons_qol.rootbeer_soda": "Root beer soda",
   "fluid.hearth_horizons_qol.strawberry_soda": "Strawberry soda",
   "jei.hearth_horizons_qol.skillet": "Skillet frying",
-  "jei.hearth_horizons_qol.skillet_heat": "Heated skillet · %s s",
-  "item.hearth_horizons_qol.uncooked": "Preparation: %s",
-  "item.hearth_horizons_compat.preparation.not_food": "Preparation — cook before eating",
+  "jei.hearth_horizons_qol.skillet_heat": "Heated skillet Â· %s s",
+  "item.hearth_horizons_compat.preparation.not_food": "Preparation â€” cook before eating",
   "item.hearth_horizons_compat.raisin_oatmeal_cookie_preparation": "Dough for 4 raisin oatmeal cookies",
   "item.hearth_horizons_compat.raisin_oatmeal_cookie_preparation.stage": "Preparation: requires baking",
   "item.hearth_horizons_compat.cashew_chicken_preparation": "Cashew chicken preparation",
@@ -35,6 +34,6 @@
   "fluid.hearth_horizons_compat.rootbeer_soda": "Root beer soda",
   "fluid.hearth_horizons_compat.strawberry_soda": "Strawberry soda",
   "jei.hearth_horizons_compat.skillet": "Skillet frying",
-  "jei.hearth_horizons_compat.skillet_heat": "Heated skillet · %s s",
+  "jei.hearth_horizons_compat.skillet_heat": "Heated skillet Â· %s s",
   "item.hearth_horizons_compat.uncooked": "Preparation: %s"
 }

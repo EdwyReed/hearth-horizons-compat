@@ -1,31 +1,24 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "tag": "hearth_horizons:plain_dough"
+    },
+    "4": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    "222",
+    "444"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/nether_star_cake",
+    "id": "croptopia:nether_star_cake",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:nether_star"
-    },
-    {
-      "tag": "hearth_horizons:plain_dough"
-    },
-    {
-      "tag": "hearth_horizons:plain_dough"
-    },
-    {
-      "tag": "hearth_horizons:plain_dough"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:sugar"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

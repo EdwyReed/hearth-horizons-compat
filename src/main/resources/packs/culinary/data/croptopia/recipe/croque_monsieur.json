@@ -1,28 +1,33 @@
 {
+  "key": {
+    "1": {
+      "item": "croptopia:frying_pan"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    },
+    "3": {
+      "tag": "c:cheeses"
+    },
+    "4": {
+      "tag": "croptopia:pork_replacements"
+    },
+    "5": {
+      "tag": "c:butters"
+    },
+    "6": {
+      "tag": "c:flour"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    " 26",
+    "435"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/croque_monsieur",
+    "id": "croptopia:croque_monsieur",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "croptopia:frying_pan"
-    },
-    {
-      "item": "minecraft:bread"
-    },
-    {
-      "tag": "c:flour"
-    },
-    {
-      "tag": "croptopia:pork_replacements"
-    },
-    {
-      "tag": "c:cheeses"
-    },
-    {
-      "tag": "c:butters"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,28 +1,32 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:egg"
+    },
+    "2": {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    "3": {
+      "item": "croptopia:whipping_cream"
+    },
+    "4": {
+      "tag": "c:dates"
+    },
+    "5": {
+      "tag": "c:figs"
+    },
+    "6": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "456",
+    "123"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_figgy_pudding",
+    "id": "croptopia:figgy_pudding",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "c:dates"
-    },
-    {
-      "tag": "c:figs"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "pamhc2foodcore:freshwateritem"
-    },
-    {
-      "item": "croptopia:whipping_cream"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

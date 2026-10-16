@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/misopasteitem",
+    "id": "pamhc2foodextended:misopasteitem",
     "count": 1
   },
   "ingredients": [
@@ -21,5 +21,5 @@
       "tag": "c:salt"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

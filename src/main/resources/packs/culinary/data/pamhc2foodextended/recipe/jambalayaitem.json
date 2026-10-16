@@ -1,5 +1,5 @@
 {
-  "type": "hearth_horizons_qol:cold_preparation",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "c:tool_pot"
@@ -30,7 +30,7 @@
     }
   ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodextended/jambalayaitem",
+    "id": "pamhc2foodextended:jambalayaitem",
     "count": 1
   }
 }

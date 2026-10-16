@@ -1,34 +1,39 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_fruit_cake",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "c:salts"
-    },
-    {
+  "key": {
+    "1": {
       "tag": "c:fruits"
     },
-    {
-      "tag": "c:lemons"
-    },
-    {
+    "2": {
       "item": "minecraft:sugar"
     },
-    {
+    "3": {
+      "tag": "c:lemons"
+    },
+    "4": {
       "tag": "c:pecans"
     },
-    {
-      "item": "minecraft:egg"
-    },
-    {
+    "5": {
       "item": "croptopia:cinnamon"
     },
-    {
+    "6": {
+      "tag": "c:salts"
+    },
+    "7": {
       "tag": "c:nutmegs"
+    },
+    "8": {
+      "item": "minecraft:egg"
     }
-  ]
+  },
+  "pattern": [
+    "61 ",
+    "324",
+    "857"
+  ],
+  "result": {
+    "id": "croptopia:fruit_cake",
+    "count": 3
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

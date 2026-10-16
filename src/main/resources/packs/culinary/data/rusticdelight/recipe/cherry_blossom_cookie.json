@@ -1,8 +1,8 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/rusticdelight/cherry_blossom_cookie",
-    "count": 1
+    "id": "rusticdelight:cherry_blossom_cookie",
+    "count": 8
   },
   "ingredients": [
     {
@@ -15,5 +15,5 @@
       "item": "minecraft:wheat"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,37 +1,42 @@
 {
-  "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_ratatouille",
-    "count": 1
-  },
-  "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "hearth_horizons:vegetables/tomato"
-    },
-    {
-      "item": "rusticdelight:cooking_oil"
-    },
-    {
-      "tag": "c:squashes"
-    },
-    {
-      "tag": "c:zucchini"
-    },
-    {
+  "key": {
+    "1": {
       "item": "croptopia:frying_pan"
     },
-    {
+    "2": {
       "tag": "c:eggplants"
     },
-    {
+    "3": {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    "4": {
+      "tag": "c:squashes"
+    },
+    "5": {
+      "tag": "c:zucchini"
+    },
+    "6": {
+      "item": "rusticdelight:cooking_oil"
+    },
+    "7": {
       "tag": "hearth_horizons:vegetables/onions"
     },
-    {
+    "8": {
       "tag": "hearth_horizons:vegetables/bell_pepper"
     },
-    {
+    "9": {
       "tag": "hearth_horizons:vegetables/basil"
     }
-  ]
+  },
+  "pattern": [
+    "364",
+    "512",
+    "789"
+  ],
+  "result": {
+    "id": "croptopia:ratatouille",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

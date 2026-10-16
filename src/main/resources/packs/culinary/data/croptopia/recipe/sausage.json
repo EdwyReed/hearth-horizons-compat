@@ -1,19 +1,24 @@
 {
+  "key": {
+    "1": {
+      "tag": "c:ground_pork"
+    },
+    "2": {
+      "tag": "c:salts"
+    },
+    "3": {
+      "tag": "c:paprika"
+    }
+  },
+  "pattern": [
+    "1",
+    "2",
+    "3"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/sausage",
+    "id": "croptopia:sausage",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "c:ground_pork"
-    },
-    {
-      "tag": "c:salts"
-    },
-    {
-      "tag": "c:paprika"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,19 +1,19 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:egg"
+    },
+    "2": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "pattern": [
+    "121"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/sunny_side_eggs",
-    "count": 1
+    "id": "croptopia:sunny_side_eggs",
+    "count": 2
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    },
-    {
-      "item": "minecraft:egg"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

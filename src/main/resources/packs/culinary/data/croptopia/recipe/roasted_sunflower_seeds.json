@@ -1,22 +1,26 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:sunflower"
+    },
+    "2": {
+      "tag": "c:salts"
+    },
+    "3": {
+      "item": "croptopia:pepper"
+    },
+    "4": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "pattern": [
+    "123",
+    " 4 "
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/roasted_sunflower_seeds",
+    "id": "croptopia:roasted_sunflower_seeds",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:sunflower"
-    },
-    {
-      "tag": "c:salts"
-    },
-    {
-      "item": "croptopia:pepper"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

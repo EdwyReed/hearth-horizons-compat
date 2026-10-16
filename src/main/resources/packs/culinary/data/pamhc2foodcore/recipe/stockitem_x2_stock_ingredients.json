@@ -1,5 +1,5 @@
 {
-  "type": "hearth_horizons_qol:cold_preparation",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "c:tool_pot"
@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/pamhc2foodcore/stockitem_x2_stock_ingredients",
-    "count": 1
+    "id": "pamhc2foodcore:stockitem",
+    "count": 2
   }
 }

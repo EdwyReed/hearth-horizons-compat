@@ -1,31 +1,33 @@
 {
+  "key": {
+    "1": {
+      "item": "minecraft:egg"
+    },
+    "2": {
+      "tag": "c:flour"
+    },
+    "3": {
+      "tag": "hearth_horizons:liquids/milk_bottles_250"
+    },
+    "5": {
+      "tag": "hearth_horizons:vegetables/spinach"
+    },
+    "6": {
+      "tag": "c:cheeses"
+    },
+    "7": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "pattern": [
+    "121",
+    "356",
+    " 7 "
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/baked_crepes",
+    "id": "croptopia:baked_crepes",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "tag": "c:flour"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "tag": "hearth_horizons:liquids/milk_bottles_250"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/spinach"
-    },
-    {
-      "tag": "c:cheeses"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

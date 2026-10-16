@@ -15,43 +15,41 @@ import java.util.*;
 @PrefixGameTestTemplate(false)
 public final class IntegrityGameTests {
     @GameTest(template="empty",timeoutTicks=100)
-    public static void allHotManualDishesRequireTheirCookingStage(GameTestHelper h) {
+    public static void restoredRecipesProduceOriginalFoodWithoutAutomaticPreparations(GameTestHelper h) {
         var level=h.getLevel(); var manager=level.getRecipeManager();
         com.google.gson.JsonArray baseline;
-        try(var stream=IntegrityGameTests.class.getResourceAsStream("/culinary-preparations.json")) {
+        try(var stream=IntegrityGameTests.class.getResourceAsStream("/qa/restored-recipes.json")) {
             baseline=com.google.gson.JsonParser.parseString(new String(stream.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8)).getAsJsonArray();
         } catch(Exception error) { throw new RuntimeException(error); }
-        var expected=new HashMap<String,List<Set<String>>>();
+        h.assertTrue(baseline.size()==752,"Incomplete restored recipe baseline");
         for(var entry:baseline) {
-            var row=entry.getAsJsonObject();var slots=new ArrayList<Set<String>>();
+            var row=entry.getAsJsonObject(); String id=row.get("source_recipe").getAsString();
+            var recipe=manager.byKey(ResourceLocation.parse(id)).orElseThrow().value();
+            h.assertTrue(recipe instanceof CraftingRecipe,"Restored dish is not crafting: "+id);
+            h.assertTrue(!(recipe instanceof ColdPreparationRecipe),"Automatic wrapper still present: "+id);
+            boolean shaped=row.get("type").getAsString().equals("minecraft:crafting_shaped");
+            h.assertTrue((recipe instanceof ShapedRecipe)==shaped,"Original recipe shape changed: "+id);
+            var result=recipe.getResultItem(level.registryAccess());
+            h.assertTrue(BuiltInRegistries.ITEM.getKey(result.getItem()).toString().equals(row.get("result").getAsString()),"Original result not restored: "+id);
+            h.assertTrue(result.getCount()==row.get("count").getAsInt(),"Original yield changed: "+id);
+            var expected=new ArrayList<Set<String>>();
             for(var slot:row.getAsJsonArray("expected_ingredients")) {
-                var ids=new TreeSet<String>();for(var id:slot.getAsJsonArray()) ids.add(id.getAsString());if(!ids.isEmpty()) slots.add(ids);
+                var ids=new TreeSet<String>();for(var item:slot.getAsJsonArray()) ids.add(item.getAsString());
+                if(!ids.isEmpty()) expected.add(ids);
             }
-            expected.put(row.get("source_recipe").getAsString(),slots);
-        }
-        for(var definition:CookingPreparations.ALL) {
-            var raw=new ItemStack(definition.item().get());
-            h.assertTrue(!raw.has(DataComponents.FOOD),"Uncooked dish edible: "+definition.recipe());
-            var preparation=manager.byKey(ResourceLocation.parse(definition.recipe())).orElseThrow().value();
-            h.assertTrue(preparation instanceof ColdPreparationRecipe,"Hot dish still instant: "+definition.recipe());
-            h.assertTrue(preparation.getResultItem(level.registryAccess()).is(raw.getItem()),"Cold stage returns cooked dish");
-            var actual=new ArrayList<Set<String>>();
-            for(var ingredient:preparation.getIngredients()) {
-                var ids=new TreeSet<String>();for(var stack:ingredient.getItems()) ids.add(BuiltInRegistries.ITEM.getKey(stack.getItem()).toString());actual.add(ids);
+            for(var ingredient:recipe.getIngredients()) {
+                if(ingredient.isEmpty()) continue;
+                var actual=new TreeSet<String>();
+                for(var stack:ingredient.getItems()) actual.add(BuiltInRegistries.ITEM.getKey(stack.getItem()).toString());
+                h.assertTrue(expected.remove(actual),"Restored ingredient alternatives changed: "+id+" / "+actual);
             }
-            var before=new ArrayList<>(expected.get(definition.recipe()));
-            for(var slot:actual) h.assertTrue(before.remove(slot),"Cold preparation changed an original ingredient: "+definition.recipe());
-            h.assertTrue(before.isEmpty(),"Cold preparation lost an original ingredient: "+definition.recipe());
-            var id=definition.recipe().replace(':','/');
-            var cooking=manager.byKey(ResourceLocation.parse("hearth_horizons_qol:cooking/"+id)).orElseThrow().value();
-            var expectedItem=BuiltInRegistries.ITEM.get(ResourceLocation.parse(definition.result()));
-            var result=cooking.getResultItem(level.registryAccess());
-            h.assertTrue(result.is(expectedItem) && result.getCount()==definition.count(),"Cooking changed final ID/yield: "+definition.recipe());
-            h.assertTrue(cooking.getIngredients().size()==1 && cooking.getIngredients().getFirst().test(raw),"Cooking rejects raw batch");
-            h.assertTrue(!cooking.getIngredients().getFirst().test(result),"Cooked dish can be cooked again for extra output");
-            h.assertTrue(manager.getRecipeFor(RecipeType.CAMPFIRE_COOKING,new SingleRecipeInput(raw),level).isEmpty(),"Raw batch leaked into campfire");
-            h.assertTrue(manager.getRecipeFor(RecipeType.SMELTING,new SingleRecipeInput(raw),level).isEmpty(),"Raw batch leaked into generic furnace");
+            h.assertTrue(expected.isEmpty(),"Restored recipe lost ingredients: "+id);
+            var cookingId=ResourceLocation.parse("hearth_horizons_qol:cooking/"+id.replace(':','/'));
+            h.assertTrue(manager.byKey(cookingId).isEmpty(),"Removed automatic cooking stage remains: "+id);
         }
+        h.assertTrue(BuiltInRegistries.ITEM.keySet().stream().noneMatch(id -> id.getNamespace().equals(HearthHorizonsQualityOfLife.ID) && id.getPath().startsWith("uncooked/")),"Automatic preparation items still registered");
+        var reviewed=BuiltInRegistries.ITEM.keySet().stream().filter(id -> id.getNamespace().equals(HearthHorizonsQualityOfLife.ID) && id.getPath().endsWith("_preparation")).count();
+        h.assertTrue(reviewed==3,"Expected exactly three reviewed preparations");
         // Upstream cooked_chickens incorrectly included raw chicken cuts.
         // Check the actual resolved ingredients in both affected recipes.
         var rawCuts = new ItemStack(BuiltInRegistries.ITEM.get(ResourceLocation.parse("farmersdelight:chicken_cuts")));
@@ -62,7 +60,7 @@ public final class IntegrityGameTests {
             h.assertTrue(recipe.getIngredients().stream().anyMatch(i -> i.test(cookedCuts)), "Ready chicken meal rejects cooked cuts: " + id);
         }
         System.out.println("COOKED_CHICKEN_TAG_QA taco and roll reject raw cuts and accept cooked cuts");
-        System.out.println("INTEGRITY_QA all "+CookingPreparations.ALL.size()+" hot manual recipes produce independent inedible raw batches; oven/pot/skillet finals preserve IDs and yields; cooked substitutes/campfire/furnace rejected");
+        System.out.println("RESTORED_RECIPES_QA all 752 original results, yields, shapes and ingredient alternatives restored; automatic items/stages absent; exactly three reviewed preparations remain");
         h.succeed();
     }
 }

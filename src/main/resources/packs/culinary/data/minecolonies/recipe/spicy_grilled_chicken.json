@@ -1,8 +1,8 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecolonies/spicy_grilled_chicken",
-    "count": 1
+    "id": "minecolonies:spicy_grilled_chicken",
+    "count": 2
   },
   "ingredients": [
     {
@@ -18,5 +18,5 @@
       "item": "minecolonies:nether_pepper"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

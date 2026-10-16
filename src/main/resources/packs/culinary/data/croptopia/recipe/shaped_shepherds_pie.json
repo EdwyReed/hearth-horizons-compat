@@ -1,37 +1,42 @@
 {
+  "key": {
+    "F": {
+      "item": "croptopia:frying_pan"
+    },
+    "1": {
+      "tag": "croptopia:beef_mutton"
+    },
+    "2": {
+      "tag": "c:salts"
+    },
+    "3": {
+      "item": "croptopia:pepper"
+    },
+    "4": {
+      "item": "minecraft:potato"
+    },
+    "5": {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    "6": {
+      "tag": "hearth_horizons:grains/corn"
+    },
+    "7": {
+      "tag": "hearth_horizons:vegetables/garlic"
+    },
+    "8": {
+      "tag": "hearth_horizons:vegetables/onions"
+    }
+  },
+  "pattern": [
+    "213",
+    "4F5",
+    "678"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/shaped_shepherds_pie",
+    "id": "croptopia:shepherds_pie",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "c:salts"
-    },
-    {
-      "tag": "croptopia:beef_mutton"
-    },
-    {
-      "item": "croptopia:pepper"
-    },
-    {
-      "item": "minecraft:potato"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/tomato"
-    },
-    {
-      "tag": "hearth_horizons:grains/corn"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/garlic"
-    },
-    {
-      "tag": "hearth_horizons:vegetables/onions"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

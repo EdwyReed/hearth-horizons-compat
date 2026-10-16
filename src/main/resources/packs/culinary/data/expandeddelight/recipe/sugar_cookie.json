@@ -1,19 +1,19 @@
 {
+  "key": {
+    "c": {
+      "tag": "hearth_horizons:grains/wheat"
+    },
+    "w": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "cwc"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/expandeddelight/sugar_cookie",
-    "count": 1
+    "id": "expandeddelight:sugar_cookie",
+    "count": 8
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "hearth_horizons:grains/wheat"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "hearth_horizons:grains/wheat"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

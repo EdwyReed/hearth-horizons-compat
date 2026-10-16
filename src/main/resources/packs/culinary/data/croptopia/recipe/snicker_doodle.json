@@ -1,8 +1,8 @@
 {
   "category": "misc",
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/snicker_doodle",
-    "count": 1
+    "id": "croptopia:snicker_doodle",
+    "count": 4
   },
   "ingredients": [
     {
@@ -15,5 +15,5 @@
       "tag": "c:flour"
     }
   ],
-  "type": "hearth_horizons_qol:cold_preparation"
+  "type": "minecraft:crafting_shapeless"
 }

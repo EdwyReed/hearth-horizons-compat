@@ -1,19 +1,19 @@
 {
+  "key": {
+    "c": {
+      "tag": "hearth_horizons:grains/wheat"
+    },
+    "w": {
+      "item": "expandeddelight:cinnamon"
+    }
+  },
+  "pattern": [
+    "cwc"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/expandeddelight/snickerdoodle",
-    "count": 1
+    "id": "expandeddelight:snickerdoodle",
+    "count": 8
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "hearth_horizons:grains/wheat"
-    },
-    {
-      "item": "expandeddelight:cinnamon"
-    },
-    {
-      "tag": "hearth_horizons:grains/wheat"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

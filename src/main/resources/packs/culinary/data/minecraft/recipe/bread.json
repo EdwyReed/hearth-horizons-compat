@@ -1,19 +1,16 @@
 {
+  "key": {
+    "#": {
+      "tag": "bakery:wheat"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/minecraft/bread",
+    "id": "minecraft:bread",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "bakery:wheat"
-    },
-    {
-      "tag": "bakery:wheat"
-    },
-    {
-      "tag": "bakery:wheat"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

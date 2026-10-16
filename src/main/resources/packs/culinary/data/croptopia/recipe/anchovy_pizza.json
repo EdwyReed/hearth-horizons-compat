@@ -1,25 +1,30 @@
 {
+  "key": {
+    "1": {
+      "tag": "hearth_horizons:vegetables/tomato"
+    },
+    "2": {
+      "tag": "c:anchovies"
+    },
+    "3": {
+      "tag": "c:cheeses"
+    },
+    "4": {
+      "tag": "c:doughs"
+    },
+    "7": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "pattern": [
+    "123",
+    " 4 ",
+    " 7 "
+  ],
   "result": {
-    "id": "hearth_horizons_qol:uncooked/croptopia/anchovy_pizza",
+    "id": "croptopia:anchovy_pizza",
     "count": 1
   },
   "category": "misc",
-  "type": "hearth_horizons_qol:cold_preparation",
-  "ingredients": [
-    {
-      "tag": "hearth_horizons:vegetables/tomato"
-    },
-    {
-      "tag": "c:anchovies"
-    },
-    {
-      "tag": "c:cheeses"
-    },
-    {
-      "tag": "c:doughs"
-    },
-    {
-      "item": "croptopia:frying_pan"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }
